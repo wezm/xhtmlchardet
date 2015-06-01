@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<rss version="2.0">
+	<channel>
+	<generator>RSS Feed Creator (Unlicensed)</generator>
+	<pubDate>27 Jan 2015 11:42:56 GMT</pubDate>
+	
+	<title>Podcast Dance Play</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<link>http://www.dougmix.com.br</link>
+	<copyright>DOUGMIX Music Group</copyright>
+	<managingEditor>Dj DougMix</managingEditor>
+	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+	<language>pt-br</language>
+	<webMaster>Dj DougMix</webMaster>
+	<image>
+	<url>http://dougmix.com.br/podcast/audio/Logo.jpg</url>
+	<link>http://www.dougmix.com.br</link>
+	<title>Podcast Dance Play</title>
+	</image>
+
+        
+
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #97</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>30 May 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.97ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.97%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+
+
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #96</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>23 May 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.96ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.96%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #95</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>16 May 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.95ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.95%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #94</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>09 May 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.94ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.94%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+        
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #93</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>02 May 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.93ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.93%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #92</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>25 Apr 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.92ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.92%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #91</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>18 Apr 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.91ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.91%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #90</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>11 Apr 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.90ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.90%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #89</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>04 Apr 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.89ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.89%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #88</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>29 Mar 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.88ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.88%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #87</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>22 Mar 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.87ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.87%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #86</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>14 Mar 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.86ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.86%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #85</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>08 Mar 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.85ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.85%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #84</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>01 Mar 2015 00:08:39 GMT</pubDate>
+	<link> </link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.84ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.84%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false"> </guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #83</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>22 Feb 2015 00:08:39 GMT</pubDate>
+	<link>http://dougmix.com.br/?page_id=2155</link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia801505.us.archive.org/15/items/DjDougMixPodcastDancePlayEp.83ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.83%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false">http://dougmix.com.br/?page_id=2155</guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #82</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>15 Feb 2015 00:08:39 GMT</pubDate>
+	<link>http://dougmix.com.br/?page_id=2150</link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia902601.us.archive.org/35/items/DjDougMixPodcastDancePlayEp.82ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.82%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false">http://dougmix.com.br/?page_id=2150</guid>
+	</item>
+        <item>
+	<title>Dj DougMix - Podcast Dance Play #81</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>8 Feb 2015 00:08:39 GMT</pubDate>
+	<link>http://dougmix.com.br/?page_id=2111</link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia902603.us.archive.org/14/items/DjDougMixPodcastDancePlayEp.81ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.81%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false">http://dougmix.com.br/?page_id=2111</guid>
+	</item>
+	<item>
+	<title>Dj DougMix - Podcast Dance Play #80</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>2 Feb 2015 00:08:39 GMT</pubDate>
+	<link>http://dougmix.com.br/?page_id=2074</link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia802603.us.archive.org/3/items/DjDougMixPodcastDancePlayEp.80ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.80%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false">http://dougmix.com.br/?page_id=2074</guid>
+	</item>
+	<item>
+	<title>Dj DougMix - Podcast Dance Play #79</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>27 Jan 2015 11:42:56 GMT</pubDate>
+	<link>http://dougmix.com.br/?page_id=2042</link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia902708.us.archive.org/11/items/DjDougMixPodcastDancePlayEp.79ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.79%5D_iTunes.mp3" length="61610268" type="audio/mpeg"/>
+	<guid isPermaLink="false">http://dougmix.com.br/?page_id=2042</guid>
+	</item>
+	<item>
+	<title>Dj DougMix - Podcast Dance Play #78</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>20 Jan 2015 00:55:02 GMT</pubDate>
+	<link>http://dougmix.com.br/?page_id=1939</link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia902602.us.archive.org/21/items/DjDougMixPodcastDancePlayEp.78ITunes/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.78%5D_iTunes.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false">http://dougmix.com.br/?page_id=1939</guid>
+	</item>
+	<item>
+	<title>Dj DougMix - Podcast Dance Play #77</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>12 Jan 2015 02:46:40 GMT</pubDate>
+	<link>http://dougmix.com.br/?page_id=1836</link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://ia902703.us.archive.org/28/items/danceplay/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.77%5D.mp3" length="" type="audio/mpeg"/>
+	<guid isPermaLink="false">http://dougmix.com.br/?page_id=1836</guid>
+	</item>
+	<item>
+	<title>Dj DougMix - Podcast Dance Play #76</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>7 Jan 2015 12:56:58 GMT</pubDate>
+	<link>http://dougmix.com.br/?page_id=1844</link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://archive.org/download/danceplay_201501/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.76%5D.mp3" length="80" type="audio/mpeg"/>
+	<guid isPermaLink="false">http://dougmix.com.br/?page_id=1844</guid>
+	</item>
+	<item>
+	<title>Dj DougMix - Podcast Dance Play #75</title>
+	<description>You can download the Podcast Dance Play absolutely free and enjoy an hour with the best of electronic music mixed completely. Always with the best repertoire DougMix makes the party in many Web-Radios and Radios of Brazil and the world.</description>
+	<pubDate>7 Jan 2015 01:00:00 GMT</pubDate>
+	<link>http://dougmix.com.br/?page_id=1846</link>
+	<author>Dj DougMix</author>
+	<category>Music</category>
+	<enclosure url="https://archive.org/download/danceplay_20150112/Dj%20DougMix%20-%20Podcast%20Dance%20Play%20%5BEp.75%5D.mp3" length="60" type="audio/mpeg"/>
+	<guid isPermaLink="false">http://dougmix.com.br/?page_id=1846</guid>
+	</item>
+	</channel></rss>

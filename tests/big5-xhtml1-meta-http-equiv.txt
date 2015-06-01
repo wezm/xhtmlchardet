@@ -1,0 +1,911 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>PChome商店街</title>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<meta name="keywords" content="購物，家電，手機，相機，SONY，Roomba，除濕機，行動電源，童裝，孕婦裝，女裝，精品，流行，年菜，伴手禮">
+<meta name="description" content="PChome商店街商店數超過18,000店，商品數超過3,000萬件，是商品類別最多元的女性購物平台。每日推出限量優惠流行商品、季節家電、年貨伴手禮等，是您購物的最佳選擇！">
+<link rel="icon" href="http://img.pcstore.com.tw/web_img/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://img.pcstore.com.tw/web_img/favicon.ico" type="image/x-icon">
+<link href="/css/style_lm2_normal.css?t=1224830106" rel="stylesheet" type="text/css">
+<link href="/css/real_fcache/grid_bar.css?t=1432266320" rel="stylesheet" type="text/css">
+<link href="/css/style.css?t=1224830081" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="/css/extjs/ext.js?t=1224829943"></script> 
+<script language="JavaScript" src="/css/extjs/stern3.js?t=1224829930"></script>
+<script language="JavaScript" src="/css/store.js?t=1224829955"></script>
+<script language="JavaScript" src="/css/store_tools.js?t=1224829935"></script>
+<script language="JavaScript" src="/css/search_autoword.js?t=1224829931"></script>
+
+<link href="/css/fonticon.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+.fontomas {	font-family: 'FontomasEmtypo'; }
+</style>
+</head>
+
+<body class="twoColFixLtHdr">
+<form method="post" name="main_store" onSubmit="return false;" action="">
+<input type="hidden" name="ltg_p" value="">
+<input type="hidden" name="after_login" value="">
+
+<div id="container">
+
+<!-- 最上方資訊列 START -->
+<script language="JavaScript" type="text/JavaScript">
+  function mob_checkprc() {
+    if (window.location.protocol == "http:" && (window.location.href.indexOf('/',8) == window.location.href.lastIndexOf('/') || window.location.href.match(/\/index.htm/i) )
+       ) { 
+      jscookie = new CookieHaldle("/",window.location.host.replace(/(.+\.)(.*pc?store.com.tw)/, "$2"));
+      if (jscookie.getCookie("mob_frto") != null && jscookie.getCookie("mob_frto") == 1) { return; }
+      
+      var mob_t1,mob_t2,mob_wcm,mob_hcm,mob_diagonal,mob_scr_inh,mob_dvs;
+      mob_t_w=window.screen.width;  mob_t_h=window.screen.height;
+      mob_diagonal=Math.pow(mob_t_w,2)+Math.pow(mob_t_h,2);
+      mob_diagonal=Math.sqrt(mob_diagonal);
+      mob_dvs=145;  // 96
+      if (mob_t_h >= 1280) { mob_dvs=350; }
+      mob_diagonal=mob_diagonal/mob_dvs;  
+      mob_diagonal=mob_diagonal.toFixed(2);
+
+      if (mob_diagonal < 7) { 
+        //window.location.href='http://m.pcstore.com.tw'+'?'+mob_diagonal;
+        jscookie.setCookie("mob_frto", 3); 
+        window.location.href='http://m.pcstore.com.tw'; 
+      }
+    }
+  }
+  mob_checkprc();
+  //eventUtil.ready(mob_checkprc);  
+  
+  function mob_frtoprc() {
+    var mob_frto;
+    jscookie = new CookieHaldle("/",window.location.host.replace(/(.+\.)(.*pc?store.com.tw)/, "$2"));
+    mob_frto=2;
+    jscookie.setCookie("mob_frto", mob_frto); 
+    window.location.href='http://m.pcstore.com.tw'; 
+  }
+</script>
+<div id="header_v3">
+  <div class="left"><a href="http://www.pcstore.com.tw/"><img src="http://img.pcstore.com.tw/web_img/st/pchome_logo.gif" width="252" height="42" border="0"></a><br>
+
+  <span class="t11"><span class="left">今日商品</span><span class="leftcon-left">&nbsp;</span><span class="leftcon-right">41,572,027</span><span class="left" style="margin-right:8px;">件</span></span>
+  <span class="t11"><span class="left">店家</span><span class="leftcon-left">&nbsp;</span><span class="leftcon-right">19,183</span><span class="left">家</span></span>
+  </div>
+ 
+  <div class="right">
+    <span class="rightcon-right">    	
+      <span><img src="http://img.pcstore.com.tw/web_img/st/arrow_2.gif" width="3" height="5" align="absmiddle"><a onclick="mob_frtoprc()" style="cursor:pointer">手機版</a></span><span><img src="http://img.pcstore.com.tw/web_img/st/arrow_2.gif" width="3" height="5" align="absmiddle"><a href="http://www.pcstore.com.tw/">商店街</a></span><span><img src="http://img.pcstore.com.tw/web_img/st/arrow_2.gif" width="3" height="5" align="absmiddle"><a href="http://www.toweb.com.tw/">網站空間</a></span><span><img src="http://img.pcstore.com.tw/web_img/st/arrow_2.gif" width="3" height="5" align="absmiddle"><a href="http://www.pchome.com.tw/">PChome</a></span><span><img src="http://img.pcstore.com.tw/web_img/st/arrow_2.gif" width="3" height="5" align="absmiddle"><a href="http://seller.pcstore.com.tw/service/" target="_blank">客服中心</a></span><span><img src="http://img.pcstore.com.tw/web_img/st/arrow_2.gif" width="3" height="5" align="absmiddle"><a href="https://paystore.pcstore.com.tw/adm/logout.htm"><b>登出</b></a></span>
+    </span>
+    <div class="clear"></div>
+    <div class="rightcon-bottom">        	
+    <span class="t12b"><img src="http://img.pcstore.com.tw/web_img/st/arrow_1.gif" width="13" height="12" align="absmiddle"><a href="http://boss.pcstore.com.tw/ad.htm?ad=top">我要開店</a></span>    
+    <span class="t12b"><img src="http://img.pcstore.com.tw/web_img/st/arrow_1.gif" width="13" height="12" align="absmiddle"><a href="https://paystore.pcstore.com.tw/adm/psell/pp_contra.htm" style="color:#ff0000">我要賣東西</a></span> 
+    <span class="t12b"><img src="http://img.pcstore.com.tw/web_img/st/arrow_1.gif" width="13" height="12" align="absmiddle"><a href="https://paystore.pcstore.com.tw/adm/myacc_ordlist.htm">我的帳戶</a></span>
+    <span class="t12b"><img src="http://img.pcstore.com.tw/web_img/st/arrow_1.gif" width="13" height="12" align="absmiddle"><a href="http://www.pcstore.com.tw/adm/buy_cart_list.htm">購物車</a></span>
+    </div>
+  </div>
+
+  <div id="top-search">
+      <select class="search_option" name="slt_k_option" onmouseout="this.size=1;" onmouseover="this.size=7;" onclick="this.size=1;" size="1">  
+        <option value="1" >全部商品</option>
+        <option value="12" >跨店490</option>
+        <option value="2" >商場名稱</option>
+                <option value="9" >隔日配</option>
+        <option value="8" >超商取貨</option>
+        <option value="7" >集殺商品</option>
+        <option value="10" >商品編號</option>
+                </select>        
+        <input x-webkit-speech="" lang="zh-TW" x-webkit-grammar="builtin:search" id="id_search_word" name="store_k_word" type="text" size="20" value="" onkeyup="autodirection(this, event)" onkeydown="updownselect(this, event);p_keydown(this.value, 'psearch', '/adm/psearch.htm','',event)" onfocus="bind_autoslt();" title="NOT_CHECK" autocomplete="off"><img class="search_btn" src="http://img.pcstore.com.tw/web_img/st/top_search_button.png" onclick="s_k_search('/adm/psearch.htm')">
+        <a href="/adm/psearch_plus.htm" class="t10">進階&#187;</a>
+        <div style="clear:both;position:absolute;left:98px;top:35px;" id="id_search_area"></div>
+  </div>
+
+</div>
+<div class="clear"></div>
+
+<!-- 最上方資訊列 END -->
+<!-- 主功能區塊 START -->
+
+<div class="thMenu_bar">
+<a class="thMenu_store" href="http://www.pcstore.com.tw/index_ct.htm"><!--專櫃--></a>
+
+<a class="thMenu_boss" href="http://boss.pcstore.com.tw/"><!--開店--></a>
+
+<a class="thMenu_shopping" href="http://mall.pcstore.com.tw"><!--購物中心--></a>
+
+<a class="thMenu_c2c" href="http://img.pcstore.com.tw/store_ad/C2C/index.htm"><!--個人賣場--></a>
+
+<a class="thMenu_us" href="http://www.pchomeusa.com/"><!--美國開店--></a>
+
+<a class="thMenu_liker" href="http://www.pcstore.com.tw/adm/adevent/pcpay_tenpay.htm"><!--大陸館--></a>
+
+<a class="thMenu_fashion" href="http://boss.pcstore.com.tw/ad.htm?ad=fa150525"><!--女性流行--></a>
+<a class="thMenu_baby" href="http://boss.pcstore.com.tw/ad.htm?ad=baby150525"><!--婦幼親子--></a>
+<a class="thMenu_life" href="http://boss.pcstore.com.tw/ad.htm?ad=life150525"><!--居家寵物--></a>
+<a class="thMenu_man" href="http://boss.pcstore.com.tw/ad.htm?ad=men150525"><!--運動休閒--></a>
+<a class="thMenu_3c" href="http://boss.pcstore.com.tw/ad.htm?ad=3C150525"><!--3C週邊--></a>
+<a class="thMenu_appliances" href="http://boss.pcstore.com.tw/ad.htm?ad=ia150525"><!--生活家電--></a>
+<a class="thMenu_food" href="http://boss.pcstore.com.tw/ad.htm?ad=food150525"><!--美食保健--></a>
+<a class="thMenu_event" href="http://www.pcstore.com.tw/pchome24h/" target="_blank"><!--活動用--></a>
+</div>  
+
+<!-- 氣氛圖 -->
+<div class="topLongAd">
+<a href="http://www.pcstore.com.tw/edm/store_ad_analysis.php?ad_type=commt&ad_loct=mood_img_0&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F1506event%2F0601_1%2Findex.htm" target="_BLANK"><img src="http://img.pcstore.com.tw/pch_ad/00/44/54/00445497.jpg" border="0"></a><a href="http://www.pcstore.com.tw/edm/store_ad_analysis.php?ad_type=commt&ad_loct=mood_img_1&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F1506event%2F0601_2%2Findex.htm" target="_BLANK"><img src="http://img.pcstore.com.tw/pch_ad/00/44/54/00445499.jpg" border="0"></a><a href="http://www.pcstore.com.tw/edm/store_ad_analysis.php?ad_type=commt&ad_loct=mood_img_2&st_ad_url=http%3A%2F%2Fmall.pcstore.com.tw%2F" target="_BLANK"><img src="http://img.pcstore.com.tw/pch_ad/00/44/54/00445460.jpg" border="0"></a></div>
+<div class="cb_top10px"></div>
+
+<!-- 主功能區塊 END -->
+
+
+<!-- 左欄 START -->
+<div id="sidebar1">
+	
+<div style="MARGIN-TOP: -30px">
+</div> 
+  <!-- 會員登入 -->
+  <div id="myaccount">
+    <div class="tit"></div>
+    <div class="con">您好！請先登入會員<br>
+      <a href="https://paystore.pcstore.com.tw/adm/myacc_ordlist.htm"><img src="http://img.pcstore.com.tw/web_img/st/button_mainlogin_account.gif" border="0" width="123" height="27"></a><br>
+      <a href="https://paystore.pcstore.com.tw/adm/psell/pp_contra.htm"><img src="http://img.pcstore.com.tw/web_img/st/button_mainlogin_seller.gif" border="0" width="123" height="27"></a><br>
+      <a href="https://paystore.pcstore.com.tw/adm/psell/persondata.htm">免費加入會員</a>
+    </div>
+  </div>
+ 
+
+  <div id="today-only">
+    <div class="con">
+
+<script language="JavaScript" src="/css/real_fcache/index_pchadtree.js?t=1411699635"></script>
+    <div id="tag_clasific2012">
+    <div class="tit05"><a href="/adm/opt/pch_list.htm">看全部&#8250;&#8250;</a></div>
+    <div class="tags">
+    <div class="tag_all"><a href="/adm/opt/pch_list.htm"></a></div>
+    <div class="tag_express"><a href="/adm/opt/prod_oneday_list.htm"></a></div>
+    <div class="tag_conv_stor"><a href="/adm/opt/prod_sep_list.htm"></a></div>    
+    </div>
+    <div class="tooth2_2012">
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P100002','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P100002"><span class="fontomas">,</span>女性服飾</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000022','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000022"><span class="fontomas">.</span>保養彩妝與香水</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000256','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000256"><span class="fontomas">U</span>女性包包與鞋子</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000587','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000587"><span class="fontomas">7</span>婦幼與親子</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000242','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000242"><span class="fontomas">C</span>家電與視聽</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000013','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000013"><span class="fontomas">H</span>居家生活</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000750','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000750"><span class="fontomas">D</span>鐘錶眼鏡</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000001','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000001"><span class="fontomas">F</span>飾品與精品</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000754','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000754"><span class="fontomas">B</span>食品與特產</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000252','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000252"><span class="fontomas">J</span>保健</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000588','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000588"><span class="fontomas">></span>寵物用品</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P210257','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P210257"><span class="fontomas">=</span>傢俱寢飾</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000075','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000075"><span class="fontomas"><</span>電腦週邊與耗材</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000088','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000088"><span class="fontomas">M</span>數位相機</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000095','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000095"><span class="fontomas">"</span>手機通訊</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000027','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000027"><span class="fontomas">#</span>NB與PC</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P100003','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P100003"><span class="fontomas">)</span>男性時尚</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000005','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000005"><span class="fontomas">G</span>休閒旅遊</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P211028','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P211028"><span class="fontomas">?</span>運動健身</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000054','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000054"><span class="fontomas">a</span>汽機車</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000761','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000761"><span class="fontomas">z</span>書籍與雜誌</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P001077','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P001077"><span class="fontomas">&</span>文具與辦公用品</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P211027','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P211027"><span class="fontomas">O</span>電玩遊戲</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P000831','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P000831"><span class="fontomas">9</span>玩具公仔</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P001364','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P001364"><span class="fontomas">;</span>收藏品與藝術品</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P001418','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P001418"><span class="fontomas">c</span>音樂與影片</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P210615','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P210615"><span class="fontomas">E</span>餐廚衛浴</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P210396','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P210396"><span class="fontomas">K</span>手作與原創</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P001025','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P001025"><span class="fontomas">L</span>情趣生活</a>
+      </div>
+      <div class="clasifc_2012_01" onmouseover="ad_store_onmouseover(this,'ad_store_jswin','P212413','','')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')">
+      	<a href="/stexh/P212413"><span class="fontomas">1</span>不動產服務</a>
+      </div>
+    </div>    
+    </div>
+    
+
+<div><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=bdevent_ad0&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fadm%2Freward_exchanges_main.htm%3Fgid%3D270"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445501.jpg" border="0" width="160" height="120"></a></div>
+<div class="line"></div>
+<div><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=bdevent_ad1&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F50free_0525%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/56/00445609.jpg" border="0" width="160" height="120"></a></div>
+<div class="line"></div>
+<div><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=bdevent_ad2&st_ad_url=http%3A%2F%2Fboss.pcstore.com.tw%2Fad.htm%3Fad%3Dse1506-s"><img src="http://img.pcstore.com.tw/pch_ad/00/44/53/00445337.jpg" border="0" width="160" height="120"></a></div>
+<div class="line"></div>
+<div><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=bdevent_ad3&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F15rec%2F0529%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/54/00445424.jpg" border="0" width="160" height="120"></a></div>
+<div class="line"></div>
+<div><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=bdevent_ad4&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F150524store%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/51/00445117.jpg" border="0" width="160" height="120"></a></div>
+<div class="line"></div>
+<div><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=bdevent_ad5&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F15fr%2F0525%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/51/00445115.jpg" border="0" width="160" height="120"></a></div>
+<div class="line"></div>
+<div><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=bdevent_ad6&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F15bank%2F0601%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/54/00445405.jpg" border="0" width="160" height="120"></a></div>
+ 
+
+    </div>    
+  </div>
+
+
+
+  <div id="sub_paper"><img src="http://img.pcstore.com.tw/web_img/st/paper_tit.gif" width="173" height="28"><br> 
+  <div class="con">
+    <span><img src="http://img.pcstore.com.tw/web_img/st/icon_page.gif" width="12" height="13" align="absmiddle" class="con-img">開店ｅ週刊<a href="http://epaper.pchome.com.tw/archive/last.htm?s_date=last&s_code=0811&s_cat=行銷管理" target="_BLANK"><img src="http://img.pcstore.com.tw/web_img/st/button_sub.gif" width="36" height="18" border="0" align="absmiddle"  class="con-img"></a></span><br>
+    <img src="http://img.pcstore.com.tw/web_img/st/paper_line.gif" width="173" height="11"><br>
+    <span><img src="http://img.pcstore.com.tw/web_img/st/icon_page.gif" width="12" height="13" align="absmiddle" class="con-img">購物專家報 <a href="http://epaper.pchome.com.tw/archive/last.htm?s_date=last&s_code=0778&s_cat=消費美食" target="_BLANK"><img src="http://img.pcstore.com.tw/web_img/st/button_sub.gif" width="36" height="18" border="0" align="absmiddle"  class="con-img"></a></span><br><img src="http://img.pcstore.com.tw/web_img/st/paper_bottom.gif" width="173" height="10"></div>
+  </div> 
+ 
+
+  <!-- 新進店家 START -->
+  <div id="item-org">
+    <div class="tit">新進店家</div>
+    <div class="con">
+      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+        <tr>
+          <td width="12%" valign="top"><img src="http://img.pcstore.com.tw/web_img/st/dot_org.gif" width="15" height="14" class="img" align="absmiddle"></td>
+          <td><a href="/beingsun/">名山楓葉樂活休閒館</a></td>
+        </tr>
+        <tr>
+          <td width="12%" valign="top"><img src="http://img.pcstore.com.tw/web_img/st/dot_org.gif" width="15" height="14" class="img" align="absmiddle"></td>
+          <td><a href="/pality/">謝坤政20121023</a></td>
+        </tr>
+        <tr>
+          <td width="12%" valign="top"><img src="http://img.pcstore.com.tw/web_img/st/dot_org.gif" width="15" height="14" class="img" align="absmiddle"></td>
+          <td><a href="/bignosecafe/">凸鼻子現烘咖啡坊</a></td>
+        </tr>
+        <tr>
+          <td width="12%" valign="top"><img src="http://img.pcstore.com.tw/web_img/st/dot_org.gif" width="15" height="14" class="img" align="absmiddle"></td>
+          <td><a href="/88mushroomsfarm/">88巷農場</a></td>
+        </tr>
+        <tr>
+          <td width="12%" valign="top"><img src="http://img.pcstore.com.tw/web_img/st/dot_org.gif" width="15" height="14" class="img" align="absmiddle"></td>
+          <td><a href="/mewebeauty/">ME&WE 光療指甲油專業品牌</a></td>
+        </tr>
+        <tr>
+          <td width="12%" valign="top"><img src="http://img.pcstore.com.tw/web_img/st/dot_org.gif" width="15" height="14" class="img" align="absmiddle"></td>
+          <td><a href="/dolemi/">包物享艷</a></td>
+        </tr>
+        <tr>
+          <td width="12%" valign="top"><img src="http://img.pcstore.com.tw/web_img/st/dot_org.gif" width="15" height="14" class="img" align="absmiddle"></td>
+          <td><a href="/peili/">我的元氣專區</a></td>
+        </tr>
+        <tr>
+          <td width="12%" valign="top"><img src="http://img.pcstore.com.tw/web_img/st/dot_org.gif" width="15" height="14" class="img" align="absmiddle"></td>
+          <td><a href="/xtionsports/">Xtion Sports</a></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <!-- 新進店家 END -->
+
+
+
+  <div>
+  <div id="item-w">
+    <div class="tit"></div>
+    <div class="con">
+      <a href="/adm/opt/store_all.htm"><img src="http://img.pcstore.com.tw/web_img/st/info_1.gif" width="83" height="18" border="0"></a><img src="http://img.pcstore.com.tw/web_img/st/item1_line.gif" width="161" height="13"><br>
+      <a href="/adm/opt/pch_list.htm"><img src="http://img.pcstore.com.tw/web_img/st/info_2.gif" width="83" height="18" border="0"></a><img src="http://img.pcstore.com.tw/web_img/st/item1_line.gif" width="161" height="13"><br>
+      <a href="/adm/infornation.htm"><img src="http://img.pcstore.com.tw/web_img/st/info_3.gif" width="83" height="18" border="0"></a><img src="http://img.pcstore.com.tw/web_img/st/item1_line.gif" width="161" height="13"><br>
+      <a href="/adm/ad.htm"><img src="http://img.pcstore.com.tw/web_img/st/info_8.gif" width="83" height="18" border="0"></a><img src="http://img.pcstore.com.tw/web_img/st/item1_line.gif" width="161" height="13"><br>
+      <a href="/adm/flow.htm"><img src="http://img.pcstore.com.tw/web_img/st/info_4.gif" width="83" height="18" border="0"></a><img src="http://img.pcstore.com.tw/web_img/st/item1_line.gif" width="161" height="13"><br>
+      <a href="/adm/faq/faq_2.htm"><img src="http://img.pcstore.com.tw/web_img/st/info_5.gif" width="83" height="18" border="0"></a><img src="http://img.pcstore.com.tw/web_img/st/item1_line.gif" width="161" height="13"><br>
+      <a href="http://corporate.pcstore.com.tw" target="_BLANK"><img src="http://img.pcstore.com.tw/web_img/st/info_6.gif" width="100" height="18" border="0"></a><br><img src="http://img.pcstore.com.tw/web_img/st/item1_line.gif" width="161" height="13"><br>
+      <a href="http://www.104.com.tw/jobbank/cust_job/introduce.cfm?j=623a42293c6c3e6844583a1d1d1d1d5f2443a363189j50&jobsource=checkc" target="_BLANK"><img src="http://img.pcstore.com.tw/web_img/st/info_9.gif" width="100" height="18" border="0"></a><br><img src="http://img.pcstore.com.tw/web_img/st/item1_line.gif" width="161" height="13"><br>
+      <a href="http://store.ezpay.pchome.com.tw/" target="_BLANK"><img src="http://img.pcstore.com.tw/web_img/st/info_10.gif" width="100" height="18" border="0"></a><br>
+    </div>
+  </div>
+  <div style="text-align:center; padding-bottom:10px;">
+    <a href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=paystore.pcstore.com.tw&lang=zh_TW" target="_blank"><img src="http://img.pcstore.com.tw/web_img/st/timg_ssl.gif" width="88" height="120" border="0"></a><img src="http://img.pcstore.com.tw/web_img/st/timg_awaw.gif?t=1" width="64" height="120" border="0">
+  </div>
+  </div>
+
+</div>
+<!-- 左欄 END -->
+
+
+<!-- 主區 START -->
+<div id="mainContent">
+
+  <div class="head4_tit">
+<script language="JavaScript">
+  var m1_index_ad_small_img_flag=true;
+</script>
+<div class="red"><a onmouseover="ad_store_onmouseover(this,'ad_store_jswin','1017080851','','1')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')" href="http://seller.pcstore.com.tw/S120209728/C1017080851.htm" name="sup_ad" id="">一磅裝任選只要249，</a></div>
+<div ><a onmouseover="ad_store_onmouseover(this,'ad_store_jswin','M17124680','','2')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')" href="/3byh/M17124680.htm" name="sup_ad" id="">★福利品出清★贈磅秤★</a></div>
+<div class="red"><a onmouseover="ad_store_onmouseover(this,'ad_store_jswin','M20338247','BK14325305909178','3')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')" href="/adm/opt/payad_click.php?bk_no=BK14325305909178&seq=3&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fhuangama%2FM20338247.htm" name="sup_ad" id="BK14325305909178">絕美經典iPhone6保護組</a></div>
+<div ><a onmouseover="ad_store_onmouseover(this,'ad_store_jswin','M18644568','BK14330894768143','4')" onmouseout="ad_store_onmouseout(this,'ad_store_jswin')" href="/adm/opt/payad_click.php?bk_no=BK14330894768143&seq=4&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fchefpeng%2FM18644568.htm" name="sup_ad" id="BK14330894768143">鴨肉冬粉75折169元</a></div>
+  </div>
+
+  <!-- 主區上方 START -->
+  <div class="head_tbar">
+  	
+    <!-- 大廣告看版 start --> 
+ 
+<script language="JavaScript">
+  var index_ad_bimg_array=new Array;
+  var index_ad_bimg_cot_array=new Array;
+  var index_ad_bimg_onclass="tag01",index_ad_bimg_offclass="tag00";  
+  index_ad_bimg_array[0]='<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b0&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F15rec%2F0601%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/56/00445604.jpg" border="0" width="455" height="228"></a>';
+  index_ad_bimg_cot_array[0]='<div class="tag00" id="id_index_adbimg_0" onmouseover="index_ad_bigimg_onmouseover(0,index_ad_bimg_array[0],index_ad_bimg_onclass,index_ad_bimg_offclass)" onmouseout="index_ad_bigimg_onmouseout(0,index_ad_bimg_onclass,index_ad_bimg_offclass)"><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b0&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F15rec%2F0601%2Findex.htm"><div class="ad" style="background-image:url(http://img.pcstore.com.tw/pch_ad/00/44/56/00445604_sma.jpg);">食衣住行5折起</div></a></div>';
+  index_ad_bimg_array[1]='<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b1&st_ad_url=http%3A%2F%2Fboss.pcstore.com.tw%2Fad.htm%3Fad%3Dia150601"><img src="http://img.pcstore.com.tw/pch_ad/00/44/56/00445616.jpg" border="0" width="455" height="228"></a>';
+  index_ad_bimg_cot_array[1]='<div class="tag00" id="id_index_adbimg_1" onmouseover="index_ad_bigimg_onmouseover(1,index_ad_bimg_array[1],index_ad_bimg_onclass,index_ad_bimg_offclass)" onmouseout="index_ad_bigimg_onmouseout(1,index_ad_bimg_onclass,index_ad_bimg_offclass)"><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b1&st_ad_url=http%3A%2F%2Fboss.pcstore.com.tw%2Fad.htm%3Fad%3Dia150601"><div class="ad" style="background-image:url(http://img.pcstore.com.tw/pch_ad/00/44/56/00445616_sma.jpg);">廣角除濕 快速乾衣</div></a></div>';
+  index_ad_bimg_array[2]='<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b2&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F150525_3store%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/56/00445617.jpg" border="0" width="455" height="228"></a>';
+  index_ad_bimg_cot_array[2]='<div class="tag00" id="id_index_adbimg_2" onmouseover="index_ad_bigimg_onmouseover(2,index_ad_bimg_array[2],index_ad_bimg_onclass,index_ad_bimg_offclass)" onmouseout="index_ad_bigimg_onmouseout(2,index_ad_bimg_onclass,index_ad_bimg_offclass)"><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b2&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F150525_3store%2Findex.htm"><div class="ad" style="background-image:url(http://img.pcstore.com.tw/pch_ad/00/44/56/00445617_sma.jpg);">親子出遊 完美計畫</div></a></div>';
+  index_ad_bimg_array[3]='<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b3&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F1506event%2F0601_1%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/56/00445619.jpg" border="0" width="455" height="228"></a>';
+  index_ad_bimg_cot_array[3]='<div class="tag00" id="id_index_adbimg_3" onmouseover="index_ad_bigimg_onmouseover(3,index_ad_bimg_array[3],index_ad_bimg_onclass,index_ad_bimg_offclass)" onmouseout="index_ad_bigimg_onmouseout(3,index_ad_bimg_onclass,index_ad_bimg_offclass)"><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b3&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F1506event%2F0601_1%2Findex.htm"><div class="ad" style="background-image:url(http://img.pcstore.com.tw/pch_ad/00/44/56/00445619_sma.jpg);">Roomba 殺破盤</div></a></div>';
+  index_ad_bimg_array[4]='<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b4&st_ad_url=http%3A%2F%2Fmall.pcstore.com.tw%2F"><img src="http://img.pcstore.com.tw/pch_ad/00/44/54/00445459.jpg" border="0" width="455" height="228"></a>';
+  index_ad_bimg_cot_array[4]='<div class="tag00" id="id_index_adbimg_4" onmouseover="index_ad_bigimg_onmouseover(4,index_ad_bimg_array[4],index_ad_bimg_onclass,index_ad_bimg_offclass)" onmouseout="index_ad_bigimg_onmouseout(4,index_ad_bimg_onclass,index_ad_bimg_offclass)"><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b4&st_ad_url=http%3A%2F%2Fmall.pcstore.com.tw%2F"><div class="ad" style="background-image:url(http://img.pcstore.com.tw/pch_ad/00/44/54/00445459_sma.jpg);">全站買就送$100</div></a></div>';
+  index_ad_bimg_array[5]='<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b5&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F150525_2store%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/51/00445187.jpg" border="0" width="455" height="228"></a>';
+  index_ad_bimg_cot_array[5]='<div class="tag00" id="id_index_adbimg_5" onmouseover="index_ad_bigimg_onmouseover(5,index_ad_bimg_array[5],index_ad_bimg_onclass,index_ad_bimg_offclass)" onmouseout="index_ad_bigimg_onmouseout(5,index_ad_bimg_onclass,index_ad_bimg_offclass)"><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b5&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F150525_2store%2Findex.htm"><div class="ad" style="background-image:url(http://img.pcstore.com.tw/pch_ad/00/44/51/00445187_sma.jpg);">旗艦機加送電源</div></a></div>';
+  index_ad_bimg_array[6]='<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b6&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F150529store%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/53/00445329.jpg" border="0" width="455" height="228"></a>';
+  index_ad_bimg_cot_array[6]='<div class="tag00" id="id_index_adbimg_6" onmouseover="index_ad_bigimg_onmouseover(6,index_ad_bimg_array[6],index_ad_bimg_onclass,index_ad_bimg_offclass)" onmouseout="index_ad_bigimg_onmouseout(6,index_ad_bimg_onclass,index_ad_bimg_offclass)"><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b6&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F150529store%2Findex.htm"><div class="ad" style="background-image:url(http://img.pcstore.com.tw/pch_ad/00/44/53/00445329_sma.jpg);">粽量級巨星7折up</div></a></div>';
+  index_ad_bimg_array[7]='<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b7&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F15rec%2F0527%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/53/00445344.jpg" border="0" width="455" height="228"></a>';
+  index_ad_bimg_cot_array[7]='<div class="tag00" id="id_index_adbimg_7" onmouseover="index_ad_bigimg_onmouseover(7,index_ad_bimg_array[7],index_ad_bimg_onclass,index_ad_bimg_offclass)" onmouseout="index_ad_bigimg_onmouseout(7,index_ad_bimg_onclass,index_ad_bimg_offclass)"><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b7&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F15rec%2F0527%2Findex.htm"><div class="ad" style="background-image:url(http://img.pcstore.com.tw/pch_ad/00/44/53/00445344_sma.jpg);">最高現折$1000</div></a></div>';
+  index_ad_bimg_array[8]='<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b8&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F15rec%2F0521_1%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/48/00444804.jpg" border="0" width="455" height="228"></a>';
+  index_ad_bimg_cot_array[8]='<div class="tag00" id="id_index_adbimg_8" onmouseover="index_ad_bigimg_onmouseover(8,index_ad_bimg_array[8],index_ad_bimg_onclass,index_ad_bimg_offclass)" onmouseout="index_ad_bigimg_onmouseout(8,index_ad_bimg_onclass,index_ad_bimg_offclass)"><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_b8&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F15rec%2F0521_1%2Findex.htm"><div class="ad" style="background-image:url(http://img.pcstore.com.tw/pch_ad/00/44/48/00444804_sma.jpg);">涼夏購物省錢術</div></a></div>';
+
+  var index_ad_bimg_loct=0;
+  var index_ad_bimg_showloct=0;
+  var index_ad_bimg_max=9;
+  var index_ad_bimg_limit=5;
+  var index_ad_bimg_iv=1;
+  //var index_ad_bimg_ast=false;
+</script>
+    <div class="head_tbar_l" id="id_index_ad_bimg">&nbsp;</div> 
+    <div class="head_tbar_l2" id="id_index_ad_bimg_cot">
+    </div> 
+<script language="JavaScript">
+  function index_ad_bigimg_show(nowsp,userkf) {
+    var i,np,conts="";
+
+    for(i=0; i<index_ad_bimg_limit; i++) {
+      np=i+nowsp;
+      conts+=index_ad_bimg_cot_array[np];
+    }
+    $("id_index_ad_bimg_cot").innerHTML=conts;
+    $("id_index_ad_bimg_cot").innerHTML+='<div class="tbarback"><a onmousedown="index_ad_bimg_updown_fun(-1,2)" style="cursor:pointer;"></a></div>';
+    $("id_index_ad_bimg_cot").innerHTML+='<div class="tbarnext"><a onmousedown="index_ad_bimg_updown_fun(1,2)" style="cursor:pointer;"></a></div>';
+    
+    if (userkf != 2) { Args_setTimeout(index_ad_bigimg_autorun, 10000, index_ad_bimg_loct); }
+  }
+  
+  function index_ad_bimg_updown_fun(udf,userkf) {
+    var nwp,i,bn,va,vz;
+
+    nwp=index_ad_bimg_loct;
+    if (udf > 0) {
+      index_ad_bimg_iv=1;
+      if (nwp + udf >= index_ad_bimg_max) { nwp=index_ad_bimg_max-1; return; }
+      else { nwp+=udf; }
+    }
+    else {      
+      index_ad_bimg_iv=-1;
+      if (nwp + udf < 0) { nwp=0; return; }
+      else { nwp+=udf; }
+    }
+
+    for (i=0; i<index_ad_bimg_limit; i++) {
+      bn=i+index_ad_bimg_showloct;
+      if (i == 0) { va=bn; }
+      else if (i == index_ad_bimg_limit-1) { vz=bn; }
+    }
+    if (nwp == vz+1 || nwp == va-1) { index_ad_bimg_showloct+=udf; }
+    index_ad_bigimg_show(index_ad_bimg_showloct,userkf);
+    
+    index_ad_bigimg_onmouseout(index_ad_bimg_loct,index_ad_bimg_onclass,index_ad_bimg_offclass);
+    index_ad_bigimg_onmouseover(nwp,index_ad_bimg_array[nwp],index_ad_bimg_onclass,index_ad_bimg_offclass);    
+  }
+  
+  function index_ad_bigimg_autorun(iabloc) {
+    //if (index_ad_bimg_ast) { return; }
+    
+    if (index_ad_bimg_iv == 1 && iabloc == index_ad_bimg_max-2) { index_ad_bimg_iv=-1; }
+    else if (index_ad_bimg_iv == -1 && iabloc < 0) { index_ad_bimg_iv=1; }
+    index_ad_bimg_updown_fun(index_ad_bimg_iv,3);
+  }
+ 
+  index_ad_bigimg_show(index_ad_bimg_showloct,3);  
+  index_ad_bigimg_onmouseover(index_ad_bimg_loct,index_ad_bimg_array[index_ad_bimg_loct],index_ad_bimg_onclass,index_ad_bimg_offclass);    
+</script>
+    <!-- 大廣告看版 end -->
+
+    <!-- 首頁主推小看版圖 start -->
+    <div class="head_tbar_r">
+  	
+      <a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_s0&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2FC2C_point%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/54/00445494.jpg" border="0" width="170" height="111"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=push_s1&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2FC2C_point%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/54/00445495.jpg" border="0" width="170" height="117"></a>    </div>
+     <!-- 首頁主推小看版圖 end -->
+     
+  </div>
+  <!-- 主區上方 END -->
+
+  <!-- Bestshop start -->
+  <div class="cr_10px"></div>
+  <div class="bestshop_head"><div class="tit01"><span class="yellow">限時特賣</span>
+  	<a href="/adm/opt/more_index_sup.htm" style="float:right; font-size:12px; color:#fff; padding-right:10px; text-decoration:none" target="_BLANK">MORE &raquo;</a></div></div>
+  <div class="bestshop_ad">
+<div><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=eventsup_0&st_ad_url=http%3A%2F%2Fmall.pcstore.com.tw%2Fadm%2Fprd.htm%3FPRID%3DW500393093"><img src="http://img.pcstore.com.tw/pch_ad/00/44/56/00445630.jpg" width="153" height="205"></a></div><div><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=eventsup_1&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fpchome24h%2FM16994641.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445586.jpg" width="153" height="205"></a></div><div><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=eventsup_2&st_ad_url=http%3A%2F%2Fmall.pcstore.com.tw%2Fadm%2Fprd.htm%3FPRID%3DW500405436"><img src="http://img.pcstore.com.tw/pch_ad/00/44/54/00445482.jpg" width="153" height="205"></a></div><div><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=eventsup_3&st_ad_url=http%3A%2F%2Fmall.pcstore.com.tw%2Fadm%2Fprd.htm%3FPRID%3DW500356285"><img src="http://img.pcstore.com.tw/pch_ad/00/44/56/00445656.jpg" width="153" height="205"></a></div><div><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=eventsup_4&st_ad_url=http%3A%2F%2Fmall.pcstore.com.tw%2Fadm%2Fprd.htm%3FPRID%3DW500408562"><img src="http://img.pcstore.com.tw/pch_ad/00/44/56/00445601.jpg" width="153" height="205"></a></div></div>
+  <!-- Bestshop END -->
+
+
+  <!-- 小報廣告 start -->  
+
+<style>
+  #bigtee_out  #bigtee_bg{ display:block; width:206px; height:48px; background-image:url(http://img.pcstore.com.tw/store_ad/2012year/htit_2012.jpg);float:left;}
+  #bigtee_teerightM{ background-image:url(http://img.pcstore.com.tw/store_ad/2012year/a_20150601.gif); float:left;}
+  #bigtee_teerightA{ background-image:url(http://img.pcstore.com.tw/store_ad/2012year/b_20150601.gif); float:left;}
+  #bigtee_teerightN{ background-image:url(http://img.pcstore.com.tw/store_ad/2012year/c_20150601.gif); float:left;}
+</style>      
+        <div id="bigtee_out">
+  <span id="bigtee_date">06<span>/</span>01</span>  
+  <span id="bigtee_bg"></span>
+  <ul id="bigtee_teerightM">
+  <li id="bigtee_morningM"  onmousedown="bigtee_sad_onmouseover('bigtee_teerightM')" onmouseover="bigtee_sad_onmouseover('bigtee_teerightM')" ><a  style="cursor:pointer;" >大折扣9點開搶</a></li>
+  <li id="bigtee_morningA"  onmousedown="bigtee_sad_onmouseover('bigtee_teerightA')" onmouseover="bigtee_sad_onmouseover('bigtee_teerightA')" ><a  style="cursor:pointer;" >大折扣16點開搶</a></li>
+  <li id="bigtee_morningN"  onmousedown="bigtee_sad_onmouseover('bigtee_teerightN')" onmouseover="bigtee_sad_onmouseover('bigtee_teerightN')" ><a  style="cursor:pointer;" >大折扣21點開搶</a></li>
+  </ul>
+  </div>
+
+  <div id="bigtee_sad_div_loc" class="cps9">
+<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_0&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fadm%2Fpsearch.htm%3Fft_mk%3D%26st_sort%3D1%26showstyle%3DGraph%26pql_word%3DISy62B6..LABHnK0Far8JGKPFBfSp.l3xFrb-nGwWwUS.GKxqxerK_lPZSemNQ1m_qebV.Xyi%26slt_k_range%3Dall%26pch_exh%3DP000242%26slt_p_range%3D%26slt_p_range_s%3D%26slt_p_range_e%3D%26p_sup_kind_b%3D2%26p_sup_kind_b%3D0"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445539.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_1&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fnewhwa70%2FS151233.htm%3Fst_sort%3D2"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445545.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_2&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fmarket123%2FS426618.htm%3Fst_sort%3D2"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445547.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_3&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fadm%2Fpsearch.htm%3Fft_mk%3D%26st_sort%3D1%26showstyle%3DGraph%26pql_word%3DIuOz9Lu..EBDOLR7oFSfTVROoAWs76YGwVwMUVBIQASsBVWHE6HIR1wIzMB0h3oCiV5fvM0HqtELdbo9FgMaqM0C1gELpbS-fAo9lqBKmM47HqoIAZQkk%26slt_k_range%3Dall%26pch_exh%3DP000242%26slt_p_range%3D%26slt_p_range_s%3D%26slt_p_range_e%3D%26p_sup_kind_b%3D2%26p_sup_kind_b%3D4"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445546.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_4&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fetingo%2FS238711.htm%3Fst_sort%3D4"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445548.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_5&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fadm%2Fpsearch.htm%3Fft_mk%3D%26st_sort%3D1%26showstyle%3DGraph%26pql_word%3DIodBELf..DOCAZdLjOD7N6dOjC4Th8Bg2IDfwZOTpgKTF6dlUQ0O-YBOO8023ONTPG0OGgtTO80NAONTw-M__%26slt_k_range%3Dall%26pch_exh%3DP000242%26slt_p_range%3D%26slt_p_range_s%3D%26slt_p_range_e%3D%26p_sup_kind_b%3D2%26p_sup_kind_b%3D4"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445549.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_6&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fvosun%2FS466237.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445550.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_7&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fhiroshgroup%2FS703976.htm%3Fst_sort%3D7"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445552.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_8&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Ffilter128%2FS011K1K.htm%3Fst_sort%3D2"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445554.jpg" width="258" height="168" border="0" class="bo_rb"></a>  
+  </div>
+<script language="JavaScript">
+	//判別是否為android系統
+  if (navigator.userAgent.match(/Android/i)){
+    if (document.getElementById('bigtee_teerightM')) { document.getElementById('bigtee_teerightM').style.width = "476px"; }
+    if (document.getElementById('bigtee_teerightA')) { document.getElementById('bigtee_teerightA').style.width = "476px"; }
+    if (document.getElementById('bigtee_teerightN')) { document.getElementById('bigtee_teerightN').style.width = "476px"; }
+  }
+  //針對IE11及非IE瀏覽器 
+  if (/*@cc_on!@*/true) { 
+    document.documentElement.className += ' ie' + document.documentMode; 
+  }   
+  
+	var bigtee_sad_nowstr="bigtee_teerightM";
+	var bigtee_sad_a_loct='<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_0&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fadm%2Fpsearch.htm%3Fft_mk%3D%26st_sort%3D1%26showstyle%3DGraph%26pql_word%3DISy62B6..LABHnK0Far8JGKPFBfSp.l3xFrb-nGwWwUS.GKxqxerK_lPZSemNQ1m_qebV.Xyi%26slt_k_range%3Dall%26pch_exh%3DP000242%26slt_p_range%3D%26slt_p_range_s%3D%26slt_p_range_e%3D%26p_sup_kind_b%3D2%26p_sup_kind_b%3D0"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445539.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_1&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fnewhwa70%2FS151233.htm%3Fst_sort%3D2"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445545.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_2&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fmarket123%2FS426618.htm%3Fst_sort%3D2"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445547.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_3&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fadm%2Fpsearch.htm%3Fft_mk%3D%26st_sort%3D1%26showstyle%3DGraph%26pql_word%3DIuOz9Lu..EBDOLR7oFSfTVROoAWs76YGwVwMUVBIQASsBVWHE6HIR1wIzMB0h3oCiV5fvM0HqtELdbo9FgMaqM0C1gELpbS-fAo9lqBKmM47HqoIAZQkk%26slt_k_range%3Dall%26pch_exh%3DP000242%26slt_p_range%3D%26slt_p_range_s%3D%26slt_p_range_e%3D%26p_sup_kind_b%3D2%26p_sup_kind_b%3D4"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445546.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_4&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fetingo%2FS238711.htm%3Fst_sort%3D4"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445548.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_5&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fadm%2Fpsearch.htm%3Fft_mk%3D%26st_sort%3D1%26showstyle%3DGraph%26pql_word%3DIodBELf..DOCAZdLjOD7N6dOjC4Th8Bg2IDfwZOTpgKTF6dlUQ0O-YBOO8023ONTPG0OGgtTO80NAONTw-M__%26slt_k_range%3Dall%26pch_exh%3DP000242%26slt_p_range%3D%26slt_p_range_s%3D%26slt_p_range_e%3D%26p_sup_kind_b%3D2%26p_sup_kind_b%3D4"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445549.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_6&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fvosun%2FS466237.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445550.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_7&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fhiroshgroup%2FS703976.htm%3Fst_sort%3D7"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445552.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_8&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Ffilter128%2FS011K1K.htm%3Fst_sort%3D2"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445554.jpg" width="258" height="168" border="0" class="bo_rb"></a>';
+  var bigtee_sad_b_loct='<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_0&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fjustmall%2F"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445557.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_1&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fhouseplus%2FS011JSU.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445558.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_2&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fadm%2Fpsearch.htm%3Fft_mk%3D%26st_sort%3D1%26showstyle%3DGraph%26pql_word%3DIhBKdLf..JLJLp_93VNpgE_e3G26mvBdUcNTdpwadGT6FE_GZWnAEIBlsGny_OGZ6on8zQdGB60ykOsL660BrQdlBdlR5%26slt_k_range%3Dall%26pch_exh%3DP000754%26slt_p_range%3D%26slt_p_range_s%3D%26slt_p_range_e%3D%26p_sup_kind_b%3D2%26p_sup_kind_b%3D0"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445560.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_3&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Ftonfonbow%2FHM%2Fsearch.htm%3Fstore_k_word%3DJUU2JThBJTk3VVYlRTklOUIlQTglRTUlODIlOTg%3D%26slt_supk_option%3D1%26inexh%3DP000587"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445561.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_4&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2F24hr-baby%2FS00V4DH.htm%3Fst_sort%3D2"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445562.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_5&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Ftftea%2FS774952.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445563.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_6&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Ftutuyoga%2FS00V7JS.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445564.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_7&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fyuru_brashop%2FS010O5K.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445565.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_8&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fluye%2FHM%2Fsearch.htm%3Fstore_k_word%3DJUU3JThBJTgwJUU3JTg5JTlCJTIwJUU3JTg3JTg4%26slt_supk_option%3D1%26inexh%3DP000005"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445566.jpg" width="258" height="168" border="0" class="bo_rb"></a>';
+  var bigtee_sad_c_loct='<a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_0&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fpchome24h%2FS8U5DAQ.htm%3Fpa%3DE8U58TE"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445575.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_1&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fpchome24h%2FS8U467H.htm%3Fpa%3DE8U38OA"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445576.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_2&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fpchome24h%2FS8U4SR2.htm%3Fpa%3DE8U38O9"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445577.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_3&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fpchome24h%2FS8U3H01.htm%3Fpa%3DE8U38O7"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445541.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_4&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fpchome24h%2FS8U5517.htm%3Fpa%3DE8U38OA"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445578.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_5&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fpchome24h%2FS8U3NAT.htm%3Fpa%3DE8U38OA"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445579.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_6&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fpchome24h%2FS8U59BC.htm%3Fpa%3DE8U58TF"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445580.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_7&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fpchome24h%2FS8U5ATU.htm%3Fpa%3DE8U58TF"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445581.jpg" width="258" height="168" border="0" class="bo_rb"></a><a href="/edm/store_ad_analysis.php?ad_type=P000000&ad_loct=sadboard_8&st_ad_url=http%3A%2F%2Fimg.pcstore.com.tw%2Fstore_ad%2F15rec%2F0529_1%2Findex.htm"><img src="http://img.pcstore.com.tw/pch_ad/00/44/55/00445540.jpg" width="258" height="168" border="0" class="bo_rb"></a>';
+  var bigtee_sad_l_loct='';
+  var bigtee_sad_m_loct='';
+  var bigtee_sad_n_loct='';
+
+  function bigtee_sad_onmouseover(vsd1) {
+    $(bigtee_sad_nowstr).id=vsd1;
+    bigtee_sad_nowstr=vsd1;
+    
+    var bigtee_sad = [];
+    bigtee_sad["bigtee_teerightM"] = {html:bigtee_sad_a_loct, bgcolor:'#ff8a00'};
+    bigtee_sad["bigtee_teerightA"] = {html:bigtee_sad_b_loct, bgcolor:'#fc2f3e'};
+    bigtee_sad["bigtee_teerightN"] = {html:bigtee_sad_c_loct, bgcolor:'#6e1edb'};
+    bigtee_sad["WHbigtee_teerightN"] = {html:bigtee_sad_l_loct, bgcolor:'#ff8a00'};
+    bigtee_sad["WHbigtee_1tee"] = {html:bigtee_sad_m_loct, bgcolor:'#6e1edb'};
+    bigtee_sad["bigtee_sad_div_loc"] = {html:bigtee_sad_n_loct, bgcolor:'#ff8a00'};
+    if(bigtee_sad[vsd1]) {
+      $('bigtee_sad_div_loc').innerHTML = bigtee_sad[vsd1].html;
+      $('bigtee_sad_div_loc').style.backgroundColor =bigtee_sad[vsd1].bgcolor;
+    }
+    
+  }
+  bigtee_sad_onmouseover(bigtee_sad_nowstr);
+</script>
+  <!-- 小報廣告 end -->
+
+  <!-- 店家圖文廣告 START -->  
+<div class="hito_prohead"><a href="/adm/opt/more_index_prod.htm" target="_BLANK"><img src="http://img.pcstore.com.tw/web_img/st/hpvs/button_morehito.jpg" width="89" height="19" border="0"></a></div>
+  <div class="hito_pro_item">  <a href="/adm/opt/payad_click.php?bk_no=BK14330520603177&seq=1&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Ftalents60708%2FM20104824.htm" name="sup_ad" id="BK14330520603177"><img src="http://img.pcstore.com.tw/~prod/M20104824_big.JPG?pimg=static&p=1433053106">
+  <span class="hito_proName">PHM & T. 棉花糖女孩專屬中大尺碼</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>1180</span>&nbsp;<img src="http://img.pcstore.com.tw/web_img/st/hpvs/icon_small_buy490.gif" width="40" height="12" align="absmiddle" style="width:40px; height:12px; margin-right:3px;"><span class="hito_storeName" >PHM & T. 棉花糖女孩L~4L中大尺碼服飾館</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/adm/opt/payad_click.php?bk_no=BK14328675156984&seq=2&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fxinpower%2FM20496027.htm" name="sup_ad" id="BK14328675156984"><img src="http://img.pcstore.com.tw/~prod/M20496027_big.jpg?pimg=static&p=1432867511">
+  <span class="hito_proName">6期0利率~UNDER ARMOUR </span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>1580</span>&nbsp;<img src="http://img.pcstore.com.tw/web_img/st/hpvs/icon_small_buy490.gif" width="40" height="12" align="absmiddle" style="width:40px; height:12px; margin-right:3px;"><span class="hito_storeName" >XinPower新動力流行運動館</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/adm/opt/payad_click.php?bk_no=BK14323997965482&seq=3&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fimak%2FM20202779.htm" name="sup_ad" id="BK14323997965482"><img src="http://img.pcstore.com.tw/~prod/M20202779_big.jpg?pimg=static&p=1429595456">
+  <span class="hito_proName">全館9折+490免運 HTC 826 艾美克羽翼水晶殼</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>108</span>&nbsp;<img src="http://img.pcstore.com.tw/web_img/st/hpvs/icon_small_buy490.gif" width="40" height="12" align="absmiddle" style="width:40px; height:12px; margin-right:3px;"><span class="hito_storeName" >艾美克3c館</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/adm/opt/payad_click.php?bk_no=BK14328038576723&seq=4&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2FMr_DouDou%2FM08586312.htm" name="sup_ad" id="BK14328038576723"><img src="http://img.pcstore.com.tw/~prod/M08586312_big.jpg?pimg=static&p=1432869481">
+  <span class="hito_proName">全店7折</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>553</span>&nbsp;<img src="http://img.pcstore.com.tw/web_img/st/hpvs/icon_small_buy490.gif" width="40" height="12" align="absmiddle" style="width:40px; height:12px; margin-right:3px;"><span class="hito_storeName" >Mr. DouDou 嘟嘟先生</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/adm/opt/payad_click.php?bk_no=BK14328863301540&seq=5&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fparamita%2FM13908382.htm" name="sup_ad" id="BK14328863301540"><img src="http://img.pcstore.com.tw/~prod/M13908382_big.jpg?pimg=static&p=1432101938">
+  <span class="hito_proName">《今日我最省》鳳梨酵素顆粒~使排便順暢</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>4380</span><span class="hito_storeName" >元氣山丘</span></div></a>
+  </div>
+  
+  <div class="hito_pro_item">  <a href="http://seller.pcstore.com.tw/S102878409/C1028391262.htm" name="sup_ad" id=""><img src="http://cimg.pcstore.com.tw/cprd/C1028391262_sma.jpg?pimg=static&P=1432998044">
+  <span class="hito_proName">hello kitty 美甲包---(</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>144</span><span class="hito_storeName" style="background-image:url(http://img.pcstore.com.tw/web_img/st/hpvs/icon_ps.gif);">ChinesE  MushrooM公主</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/adm/opt/payad_click.php?bk_no=BK14325305364407&seq=7&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fhuangama%2FM19957862.htm" name="sup_ad" id="BK14325305364407"><img src="http://img.pcstore.com.tw/~prod/M19957862_big.jpg?pimg=static&p=1429512401">
+  <span class="hito_proName">超殺IPHONE6專屬防水殼</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>799</span><span class="hito_storeName" >皇阿瑪購物網PCHOME分店</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/adm/opt/payad_click.php?bk_no=BK14328652290058&seq=8&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fe_Life_Style%2FM08657351.htm" name="sup_ad" id="BK14328652290058"><img src="http://img.pcstore.com.tw/~prod/M08657351_big.jpg?pimg=static&p=1401351629">
+  <span class="hito_proName">全店7折 ★免運費★</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>406</span>&nbsp;<img src="http://img.pcstore.com.tw/web_img/st/hpvs/icon_small_buy490.gif" width="40" height="12" align="absmiddle" style="width:40px; height:12px; margin-right:3px;"><span class="hito_storeName" >e Life Style</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/adm/opt/payad_click.php?bk_no=BK14327845735373&seq=9&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Felanoa%2FM18892793.htm" name="sup_ad" id="BK14327845735373"><img src="http://img.pcstore.com.tw/~prod/M18892793_big.gif?pimg=static&p=1432194518">
+  <span class="hito_proName">瘋椅世界，福利良品出清</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>22993766</span>&nbsp;<img src="http://img.pcstore.com.tw/web_img/st/hpvs/icon_small_buy490.gif" width="40" height="12" align="absmiddle" style="width:40px; height:12px; margin-right:3px;"><span class="hito_storeName" >【瘋椅世界＊代理經銷各國知名品牌工學椅生活館】</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/adm/opt/payad_click.php?bk_no=BK14327077534213&seq=10&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fmagic-mall%2FM12911487.htm" name="sup_ad" id="BK14327077534213"><img src="http://img.pcstore.com.tw/~prod/M12911487_big.jpg?pimg=static&p=1432801929">
+  <span class="hito_proName">發光美白肌！夏洛特｜激光亮白凝露</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>599</span>&nbsp;<img src="http://img.pcstore.com.tw/web_img/st/hpvs/icon_small_buy490.gif" width="40" height="12" align="absmiddle" style="width:40px; height:12px; margin-right:3px;"><span class="hito_storeName" >MAGIC MALL 美麗網</span></div></a>
+  </div>
+  
+  <div class="hito_pro_item">  <a href="/adm/opt/payad_click.php?bk_no=BK14325307182132&seq=11&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fhuangama%2FM20338247.htm" name="sup_ad" id="BK14325307182132"><img src="http://img.pcstore.com.tw/~prod/M20338247_big.jpg?pimg=static&p=1431594223">
+  <span class="hito_proName">絕美經典iPhone6專屬保護套組</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>999</span><span class="hito_storeName" >皇阿瑪購物網PCHOME分店</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="http://seller.pcstore.com.tw/S109256381/C1024377943.htm" name="sup_ad" id=""><img src="http://cimg.pcstore.com.tw/cprd/C1024377943_sma.jpg?pimg=static&P=1432863629">
+  <span class="hito_proName">【輔助椅墊】方便的起身或坐下座椅。</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>5999</span><span class="hito_storeName" style="background-image:url(http://img.pcstore.com.tw/web_img/st/hpvs/icon_ps.gif);">量華科技（Care 360）</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/adm/opt/payad_click.php?bk_no=BK14330826520553&seq=13&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fvincentplus%2FM08032726.htm" name="sup_ad" id="BK14330826520553"><img src="http://img.pcstore.com.tw/~prod/M08032726_big.jpg?pimg=static&p=1427507961">
+  <span class="hito_proName">KARMAKAMET【東印度 檀香】居家擴香瓶</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>792</span><span class="hito_storeName" >VINCENT+ 文森嚴選</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/adm/opt/payad_click.php?bk_no=BK14327845348682&seq=14&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Felanoa%2FM18869579.htm" name="sup_ad" id="BK14327845348682"><img src="http://img.pcstore.com.tw/~prod/M18869579_big.jpg?pimg=static&p=1432194491">
+  <span class="hito_proName">買椅子無須多跑，來瘋椅一次搞定</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>22993766</span>&nbsp;<img src="http://img.pcstore.com.tw/web_img/st/hpvs/icon_small_buy490.gif" width="40" height="12" align="absmiddle" style="width:40px; height:12px; margin-right:3px;"><span class="hito_storeName" >【瘋椅世界＊代理經銷各國知名品牌工學椅生活館】</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/adm/opt/payad_click.php?bk_no=BK14328862499098&seq=15&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fparamita%2FM08691632.htm" name="sup_ad" id="BK14328862499098"><img src="http://img.pcstore.com.tw/~prod/M08691632_big.jpg?pimg=static&p=1432711741">
+  <span class="hito_proName">貴賓活力(含大豆異黃酮50mg)~熟齡婦女首選</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>659</span><span class="hito_storeName" >元氣山丘</span></div></a>
+  </div>
+  
+  <!-- 店家圖文廣告 END -->
+  
+  <!--ad T-BAR廣告 START-->
+  <!--ad T-BAR廣告 END-->
+  
+  <!-- 主區跑馬燈 START -->  
+  <div id="open-info">
+    <div class="boss" style="padding-top:8px;">
+      <div id="id_bossmsg_marquee" style="overflow:hidden;width:395px;height:20px;border:0px solid red;"></div>
+    </div>
+    <div class="media" style="padding-top:8px;">
+      <div id="id_mediamsg_marquee" style="overflow:hidden;width:395px;height:20px;border:0px solid red;"></div>
+    </div>
+  </div>
+  
+<script language="JavaScript">
+  var boss_msg_str = '';
+  var boss_msg_ary = new Array;
+boss_msg_ary[0] = "";
+  boss_msg_str = boss_msg_ary.join('<br />');
+  boss_msg_str += '<br />' + boss_msg_ary[0];
+
+  var media_msg_str = '';
+  var media_msg_ary = new Array;
+  media_msg_ary[0] = '<span>&nbsp;</span><a href="http://www.appledaily.com.tw/appledaily/article/supplement/20141029/36173693/applesearch/" target="_blank">食安風暴衝擊 有機嬰童保養品 業績翻5倍--濕紙...</a>';
+  media_msg_ary[1] = '<span>&nbsp;</span><a href="http://www.appledaily.com.tw/appledaily/article/supplement/20141220/36277726/applesearch/天冷愛嗑鍋搶1元麻辣鍋底網購單人鍋銷量增5成" target="_blank">天冷愛嗑鍋 搶1元麻辣鍋底--網購單人鍋銷量增...</a>';
+  media_msg_ary[2] = '<span>&nbsp;</span><a href="http://www.appledaily.com.tw/appledaily/article/supplement/20141219/36275365/applesearch/網購有機保養品銷量增2倍" target="_blank">網購 有機保養品 銷量增2倍--髮品買1送1 乳液...</a>';
+  media_msg_ary[3] = '<span>&nbsp;</span><a href="http://www.appledaily.com.tw/appledaily/article/finance/20150107/36312097/applesearch/靚媽賣靚雨具辭理專網路創業雨衣可愛吸睛" target="_blank">靚媽賣靚雨具 辭理專網路創業 雨衣可愛吸睛</a>';
+  media_msg_ary[4] = '<span>&nbsp;</span><a href="http://www.appledaily.com.tw/appledaily/article/supplement/20150104/36307020/applesearch/11家網購229道年菜評比出爐蝦乾蘿蔔糕清甜勝飯店" target="_blank">蝦乾蘿蔔糕清甜勝飯店 套餐半成品多 甜點少冠...</a>';
+  media_msg_str = media_msg_ary.join('<br />');
+  media_msg_str += '<br />' + media_msg_ary[0];
+
+  var bossmsg_mqenv = {
+      id:'id_bossmsg_marquee', 
+      direction:'up',
+      scrollAmount: 1,
+      scrollDelay: 100,
+      onComplete: bossmsg_completeCallback,
+      custom: 'vertical',
+      maxMove:20
+  };
+
+  var bossmsg_mar_obj = new Jmarquee(bossmsg_mqenv);
+
+  var mediamsg_mqenv = {
+      id:'id_mediamsg_marquee', 
+      direction:'up',
+      scrollAmount: 20,
+      scrollDelay: 1000,
+      onComplete: mediamsg_completeCallback,
+      custom: 'vertical',
+      maxMove:20
+  };
+  var mediamsg_mar_obj = new Jmarquee(mediamsg_mqenv);
+
+  if (boss_msg_str) $('id_bossmsg_marquee').innerHTML=boss_msg_str;
+  if (media_msg_str) $('id_mediamsg_marquee').innerHTML=media_msg_str;
+</script>
+  <!-- 主區跑馬燈 END -->  
+
+  <div class="Fzone_b2warp">
+  <!-- 主區下方抽獎商品 START -->  
+  <div class="Fzone_bingowarp">
+    <div class="bingo_content">
+    <div class="Fzone_proimg"><a href="/adm/opt/payad_click.php?bk_no=BK14327828553845&seq=0&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fwelsun615%2FF00748582.htm" name="sup_ad" id="BK14327828553845"><img src="http://img.pcstore.com.tw/~prod/F00748582_big.jpg?pimg=static&p=1433122332" /></a></div>
+    <div class="Fzone_content_L">
+      <a href="/adm/draw_exh.htm"><div class="bingo_tit"></div></a>
+      <div class="Fzone_proName"><a href="/adm/opt/payad_click.php?bk_no=BK14327828553845&seq=0&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fwelsun615%2FF00748582.htm">Double Decker雙層巴士金獎蝦條</a></div> 
+      <div class="Fzone_price"><span class="bingo_proprice">市價$250</span> <span class="bingo_quota">名額<span class="bingo_quota_number">2</span>名</span></div>
+      <div class="Fzone_buttmore"><a href="/adm/draw_exh.htm"><img src="http://img.pcstore.com.tw/web_img/st/hpvs/butt_morebingo.jpg" width="57" height="15" border="0" /></a></div>
+    </div>
+    </div>
+    <div class="s3pro"> <a href="/cleo/F00749205.htm" ><img src="http://img.pcstore.com.tw/~prod/F00749205_big.jpg?pimg=static&p=1433122332" /><span class="s3proName">免費脈輪研習營(60分鐘)</span></a>
+      <div class="Fzone_s3_pri" ><span class="s3_price">名額<span class="s3_price_number">5</span></span><span class="bingo_s3pri">市價$800</span></div>
+    </div>
+    <div class="s3pro"> <a href="/gamma/F00749538.htm" ><img src="http://img.pcstore.com.tw/~prod/F00749538_big.jpg?pimg=static&p=1433122332" /><span class="s3proName">【GAMMA 優質能量】100%純鈦健康能量手鍊/手環 鈦/鍺/磁石/負離子 GT826</span></a>
+      <div class="Fzone_s3_pri" ><span class="s3_price">名額<span class="s3_price_number">3</span></span><span class="bingo_s3pri">市價$4800</span></div>
+    </div>
+    <div class="s3pro-R"> <a href="/joesen-jill/F00749271.htm" ><img src="http://img.pcstore.com.tw/~prod/F00749271_big.jpg?pimg=static&p=1433122332" /><span class="s3proName">★古法純釀牛蒡醋＋四物醋☆二盒組★鹼性飲品，輕鬆體內環保</span></a>
+      <div class="Fzone_s3_pri" ><span class="s3_price">名額<span class="s3_price_number">2</span></span><span class="bingo_s3pri">市價$780</span></div>
+    </div>
+  </div>
+  <!-- 主區下方抽獎商品 END -->
+  
+  <!-- 主區下方集殺商品 START -->
+  <div class="Fzone_groupwarp">
+    <div class="group_content">
+      <div class="Fzone_proimg"><a href="/adm/opt/payad_click.php?bk_no=BK14327363018743&seq=0&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fkalee%2FM20481788.htm" name="sup_ad" id="BK14327363018743"><img src="http://img.pcstore.com.tw/~prod/M20481788_big.jpg?pimg=static&p=" /></a></div>
+      <div class="Fzone_content_L">
+        <a href="/adm/opt/sup_gprod_list.htm"><div class="group_tit"></div></a>
+        <div class="Fzone_proName"><span class="mumber_join">參加件數<br /><span class="mumber_join_number"></span></span>
+        <span class="proName-R"><a href="/adm/opt/payad_click.php?bk_no=BK14327363018743&seq=0&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Fkalee%2FM20481788.htm">Kuksa 實木咖啡杯六組 </a></span>
+        </div> 
+<div class="Fzone_price"> </div>        <div class="Fzone_buttmore"><a href="/adm/opt/sup_gprod_list.htm"><img src="http://img.pcstore.com.tw/web_img/st/hpvs/butt_moreguoup.jpg" width="56" height="15" border="0" /></a></div>
+      </div>
+    </div>
+          <div class="s3pro_tag"> <a href="/adm/opt/payad_click.php?bk_no=BK14329128344784&seq=1&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Familystore%2FM20503487.htm" name="sup_ad" id="BK14329128344784"><img src="http://img.pcstore.com.tw/~prod/M20503487_big.jpg?pimg=static&p=1432912683" /><span class="s3proName">最佳天然有機品牌洗髮精</span></a>
+          <div class="s3mumber_join">參加人<br />
+              <span class="s3_join_number">0</span></div>
+<div class="Fzone_s3_pri"><span class="s3_price">集殺價$<span class="s3_price_number">384</span></span></div>
+          </div>
+          <div class="s3pro_tag"> <a href="/adm/opt/payad_click.php?bk_no=BK14329130768780&seq=2&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2Familystore%2FM20503495.htm" name="sup_ad" id="BK14329130768780"><img src="http://img.pcstore.com.tw/~prod/M20503495_big.jpg?pimg=static&p=1432912988" /><span class="s3proName">無患子洗臉短效品出清</span></a>
+          <div class="s3mumber_join">參加人<br />
+              <span class="s3_join_number">0</span></div>
+<div class="Fzone_s3_pri"><span class="s3_price">集殺價$<span class="s3_price_number">420</span></span></div>
+          </div>
+          <div class="s3pro_tag-R"> <a href="/adm/opt/payad_click.php?bk_no=BK14328801617836&seq=3&st_ad_url=http%3A%2F%2Fwww.pcstore.com.tw%2F0216%2FM20460537.htm" name="sup_ad" id="BK14328801617836"><img src="http://img.pcstore.com.tw/~prod/M20460537_big.jpg?pimg=static&p=" /><span class="s3proName">日本寶僑P&G限時搶購</span></a>
+          <div class="s3mumber_join">參加人<br />
+              <span class="s3_join_number"></span></div>
+<div class="Fzone_s3_pri"> </div>          </div>
+  
+  </div>  
+	<!-- 主區下方集殺商品 END -->
+
+  </div>  
+  <div class="Fzone_b2warp">
+
+  <!-- 主區下方速報 START -->  
+  <div class="Fzone_bingowarp">
+    <div class="nowcasts_content">
+    <div class="Fzone_proimg"><a href="/cookpower/M19202884.htm"><img src="http://img.pcstore.com.tw/~prod/M19202884_big.jpg?pimg=static&p=1431571562" /></a></div>
+    <div class="Fzone_content_L">
+    <div class="tit_Nowcasts">2015/06/01 </div>
+     <img style=" width:30px; height:39px; float:left; margin-right:5px; margin-left:10px;" src="http://img.pcstore.com.tw/web_img/st/hpvs/Nowcasts_no1.png" />
+    <div class="Fzone_proName"><a href="/cookpower/M19202884.htm">【鍋寶】#316不鏽鋼保溫杯4入450ml  EO-SVC3645PBYG</a></div> 
+<div class="Fzone_price"><span class="sale_price">特價<span class="sale_price_s">$</span><span class="bingo_quota_number">1299</span></span></div>
+    <div class="Fzone_buttmore"><a href="http://img.pcstore.com.tw/store_ad/05ed/0526_a/index.htm"><img src="http://img.pcstore.com.tw/web_img/st/hpvs/butt_Nowcasts.jpg" width="59" height="17" border="0" /></a></div>
+    </div>
+    </div>
+       <div class="s3pro_tag"> <a href="/23shop/M15000370.htm"><img src="http://img.pcstore.com.tw/~prod/M15000370_big.jpg?pimg=static&p=1430836084" /><span class="s3proName">天德牌R3 兩件式 雨衣+可拆隱藏鞋套 螢光黃 檔車、大羊適用版、兩件免運</span></a>
+       <div class="Nowcasts3s_join"><img src="http://img.pcstore.com.tw/web_img/st/hpvs/Nowcasts_no2.png"/></div>
+<div class="Fzone_s3_pri"><span class="s3_price">特價$<span class="s3_price_number">990</span></span></div>
+       </div>
+       <div class="s3pro_tag"> <a href="/marena/M12437511.htm"><img src="http://img.pcstore.com.tw/~prod/M12437511_big.jpg?pimg=static&p=1428630534" /><span class="s3proName">【美國原裝Marena】九分高腰提臀機能褲/顯瘦內搭褲★黑★</span></a>
+       <div class="Nowcasts3s_join"><img src="http://img.pcstore.com.tw/web_img/st/hpvs/Nowcasts_no3.png"/></div>
+<div class="Fzone_s3_pri"><span class="s3_price">特價$<span class="s3_price_number">3781</span></span></div>
+       </div>
+       <div class="s3pro_tag-R"> <a href="/inenjoy/M20039997.htm"><img src="http://img.pcstore.com.tw/~prod/M20039997_big.jpg?pimg=static&p=1430995594" /><span class="s3proName">PINOH品諾 14吋微電腦節能遙控式風扇 立扇 電風扇 DF-1464R  MIT台灣製造 節能標章 </span></a>
+       <div class="Nowcasts3s_join"><img src="http://img.pcstore.com.tw/web_img/st/hpvs/Nowcasts_no4.png"/></div>
+<div class="Fzone_s3_pri"><span class="s3_price">特價$<span class="s3_price_number">990</span></span></div>
+       </div>
+  
+  </div>
+  <!-- 主區下方速報 END -->
+
+  <!-- 主區下方現金積點 START -->
+  <div class="Fzone_groupwarp">
+    <div class="savemoney_content">
+    <div class="Fzone_proimg"><a href="/hotgame/M19279476.htm"><img src="http://img.pcstore.com.tw/~prod/M19279476_big.jpg?pimg=static&p=1433076460" /></a></div>
+    <div class="Fzone_content_L">
+    <a href="/adm/opt/prod_point_list.htm"><div class="savemoney_tit"></div></a>
+    <div class="Fzone_proName"><span class="savemoney_mumber_join">最高折抵<br /><span class="mumber_join_number">6</span>點</span>
+    <span class="proName-R"><a href="/hotgame/M19279476.htm">[哈GAME族] 免運*可刷卡 XBOX ONE 副廠變壓器 主機電源 XBOXONE 變壓器 變電源適配器 火牛 110V 220V 皆可用</a></span>
+    </div> 
+<div class="Fzone_price"><span class="sale_price">特價<span class="sale_price_s">$</span><span class="bingo_quota_number">680</span></span></div>
+    <div class="Fzone_buttmore"><a href="/adm/opt/prod_point_list.htm"><img src="http://img.pcstore.com.tw/web_img/st/hpvs/butt_savemoney.jpg" width="58" height="17" border="0" /></a></div>
+    </div>
+    </div>
+       <div class="s3pro_tag"> <a href="/aromahandmade/M20474661.htm"><img src="http://img.pcstore.com.tw/~prod/M20474661_big.jpg?pimg=static&p=1432694806" /><span class="s3proName">沒藥山茶花手工皂</span></a>
+         <div class="save_s3mumber_join">最高折<br /><span class="saves3_join_number">3</span>點</div>
+<div class="Fzone_s3_pri"><span class="s3_price">特價$<span class="s3_price_number">95</span></span></div>
+       </div>
+       <div class="s3pro_tag"> <a href="/coherence/M20464424.htm"><img src="http://img.pcstore.com.tw/~prod/M20464424_big.jpg?pimg=static&p=1433089760" /><span class="s3proName">獨家發售！香港社會服務聯會金禧紀念封(1947-1997)黃金版</span></a>
+         <div class="save_s3mumber_join">最高折<br /><span class="saves3_join_number">42</span>點</div>
+<div class="Fzone_s3_pri"><span class="s3_price">特價$<span class="s3_price_number">420</span></span></div>
+       </div>
+       <div class="s3pro_tag-R"> <a href="/mam/M05842415.htm"><img src="http://img.pcstore.com.tw/~prod/M05842415_big.jpg?pimg=static&p=1433081604" /><span class="s3proName">【買10送1組合】超人氣鐵板麵10+1入組</span></a>
+         <div class="save_s3mumber_join">最高折<br /><span class="saves3_join_number">2</span>點</div>
+<div class="Fzone_s3_pri"><span class="s3_price">特價$<span class="s3_price_number">260</span></span></div>
+       </div>
+  
+  </div> 
+  <!-- 主區下方現金積點 END -->
+
+  </div>
+   
+  <!-- 首頁新開店家商品 START -->
+  <div class="allnewpro_head"></div>
+  <div class="hito_pro_item">  <a href="/57930808/M19675661.htm"><img src="http://img.pcstore.com.tw/~prod/M19675661_big.jpg?pimg=static&p=1425395019">
+  <span class="hito_proName">金冬瓜 [古早味純手工純天然冬瓜塊] 冬瓜茶磚 冬瓜露 20包裝</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>2600</span><span class="hito_storeName">金冬瓜</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/pannyshopping/M20446355.htm"><img src="http://img.pcstore.com.tw/~prod/M20446355_big.jpg?pimg=static&p=1432867756">
+  <span class="hito_proName">金石紅蔘蜜片 6年根高麗紅蔘、蜂蜜 一組五包入 孝敬媽媽聰明划算的禮物</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>2500</span>&nbsp;<img src="http://img.pcstore.com.tw/web_img/st/hpvs/icon_small_buy490.gif" width="40" height="12" align="absmiddle" style="width:40px; height:12px; margin-right:3px;"><span class="hito_storeName">金石健康廣場</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/smpnet1688899/M20498451.htm"><img src="http://img.pcstore.com.tw/~prod/M20498451_big.jpg?pimg=static&p=1432883617">
+  <span class="hito_proName">《仲昌通訊》Inno N168 3G長輩機~字大鈴聲大 另賣 iphone 6 plus Note3 /4 s6 edge 空機 藍芽耳機 鋼化 皮套 平板 相機 </span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>1700</span>&nbsp;<img src="http://img.pcstore.com.tw/web_img/st/hpvs/icon_small_buy490.gif" width="40" height="12" align="absmiddle" style="width:40px; height:12px; margin-right:3px;"><span class="hito_storeName">3C最便宜，找我</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/love_elaine88/M20475080.htm"><img src="http://img.pcstore.com.tw/~prod/M20475080_big.jpg?pimg=static&p=1433084743">
+  <span class="hito_proName">&#10084;法亞設計&#10084;婚禮指紋樹 指紋 愛情樹 簽名綢 簽名冊&#10084; 甜蜜蜜糖果簽名樹 (任選2張)</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>950</span><span class="hito_storeName">法亞設計～客製化婚品．卡片～</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/tenfull1987/M20457850.htm"><img src="http://img.pcstore.com.tw/~prod/M20457850_big.jpg?pimg=static&p=1432952626">
+  <span class="hito_proName">HEAT1000加熱器雙溫淨水組(非RO逆滲透,非愛惠普,非everpure,非電解水) ★加贈3M SQC拋棄式樹脂濾心二支</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>21800</span><span class="hito_storeName">天溢淨水設計館</span></div></a>
+  </div>
+  
+  <div class="hito_pro_item">  <a href="/minmind/M20462221.htm"><img src="http://img.pcstore.com.tw/~prod/M20462221_big.jpg?pimg=static&p=1432855922">
+  <span class="hito_proName">【ESI 廣翰思惟】全腦式速讀－速讀理解訓練</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>4200</span>&nbsp;<img src="http://img.pcstore.com.tw/web_img/st/hpvs/icon_small_buy490.gif" width="40" height="12" align="absmiddle" style="width:40px; height:12px; margin-right:3px;"><span class="hito_storeName">全腦思考競爭力學院－提升組織與個人效率的思考工具</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/maokong/M20441192.htm"><img src="http://img.pcstore.com.tw/~prod/M20441192_big.jpg?pimg=static&p=1432287943">
+  <span class="hito_proName">【燕昇坊】電台DJ圓圓代言  嚴選 超薄服貼的羽絲絨蠶絲纖維  燕窩白潤蠶絲面膜﹣10片入</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>840</span>&nbsp;<img src="http://img.pcstore.com.tw/web_img/st/hpvs/icon_small_buy490.gif" width="40" height="12" align="absmiddle" style="width:40px; height:12px; margin-right:3px;"><span class="hito_storeName">貓空國際實業有限公司</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/kevin-nini/M20435926.htm"><img src="http://img.pcstore.com.tw/~prod/M20435926_big.jpg?pimg=static&p=1432802002">
+  <span class="hito_proName">【顛覆市場】Aiptek 天瀚2015旗艦機種 A100W WiFI 無線微型投影機;集商務/家庭娛樂於一身,愛露營的你,非買不可喔!!</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>12990</span><span class="hito_storeName">Kevin&波妞@流行瘋</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/yckg123/M20446430.htm"><img src="http://img.pcstore.com.tw/~prod/M20446430_big.JPG?pimg=static&p=1432898052">
+  <span class="hito_proName">i phone 6 糖果色點點果凍軟殼 4.7吋 黑/白/粉/綠/金/桃</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>129</span><span class="hito_storeName">有機可尋行動3C館</span></div></a>
+  <div class="line_dotted"></div>
+  
+    <a href="/uhn_01/M20502173.htm"><img src="http://img.pcstore.com.tw/~prod/M20502173_big.jpg?pimg=static&p=1432898767">
+  <span class="hito_proName">#鈺珩#HP NO 11 C4810A原廠噴頭【黑】(2015年之間)盒裝DJ 500 510 800 K850 111 NO.11</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>1200</span><span class="hito_storeName">鈺珩</span></div></a>
+  </div>
+  
+
+<div class="hito_pro_item">  <a href="http://seller.pcstore.com.tw/S176747890/C1029405031.htm"><img src="http://cimg.pcstore.com.tw/cprd/C1029405031_big.jpg" onerror="this.src='http://img.pcstore.com.tw/web_img/no-product.gif'">
+  <span class="hito_proName">【Woodbury Outlet Coach 旗艦館】COACH 74877男士十字紋真皮短款錢包 美國代購100%正品</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>1500</span><span class="hito_storeName" style="background-image:url(http://img.pcstore.com.tw/web_img/st/hpvs/icon_ps.gif);">萊恩 555vivi 代購館</span></div></a>
+  <div class="line_dotted"></div>  <a href="http://seller.pcstore.com.tw/S156276218/C1002261982.htm"><img src="http://cimg.pcstore.com.tw/cprd/C1002261982_big.jpg" onerror="this.src='http://img.pcstore.com.tw/web_img/no-product.gif'">
+  <span class="hito_proName">◎蜜糖泡泡◎全新 KIEHL'S 契爾氏 藍色收斂潔面露250ml~特價780元</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>780</span><span class="hito_storeName" style="background-image:url(http://img.pcstore.com.tw/web_img/st/hpvs/icon_ps.gif);">蜜糖泡泡</span></div></a>
+  <div class="line_dotted"></div>  <a href="http://seller.pcstore.com.tw/S106018431/C1028299490.htm"><img src="http://cimg.pcstore.com.tw/cprd/C1028299490_big.jpg" onerror="this.src='http://img.pcstore.com.tw/web_img/no-product.gif'">
+  <span class="hito_proName">【台灣全頻網卡】華為E3372 +AF23基座150M 4G網卡神瑋科技MF910 E3276 E5372 MF283+</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>3050</span><span class="hito_storeName" style="background-image:url(http://img.pcstore.com.tw/web_img/st/hpvs/icon_ps.gif);">神瑋科技華為中興行動WiFi USB網卡</span></div></a>
+  <div class="line_dotted"></div>  <a href="http://seller.pcstore.com.tw/S128474147/C1023290660.htm"><img src="http://cimg.pcstore.com.tw/cprd/C1023290660_big.jpg" onerror="this.src='http://img.pcstore.com.tw/web_img/no-product.gif'">
+  <span class="hito_proName">New Balance 996 女孩首選 甜美粉紅米藍 復古 慢跑鞋 NB WR996DVI (817) 574 996</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>2310</span><span class="hito_storeName" style="background-image:url(http://img.pcstore.com.tw/web_img/st/hpvs/icon_ps.gif);">乖乖運動商城 公司貨有保障</span></div></a>
+  <div class="line_dotted"></div>  <a href="http://seller.pcstore.com.tw/S175106898/C1029058252.htm"><img src="http://cimg.pcstore.com.tw/cprd/C1029058252_big.jpg" onerror="this.src='http://img.pcstore.com.tw/web_img/no-product.gif'">
+  <span class="hito_proName">[盒子女孩]彩色巧拼 遊戲墊(10片裝)~BA14 紅粉系列~EVA 巧拼 益智 地墊 寶寶 爬行</span>
+  <div class="hito_pro_cooss"><span class="hito_proPrice"><span class="hito_proPrice_s">$</span>200</span><span class="hito_storeName" style="background-image:url(http://img.pcstore.com.tw/web_img/st/hpvs/icon_ps.gif);">盒子女孩</span></div></a>
+  </div>  
+
+  <!-- 首頁新開店家商品 END -->
+
+</div>
+<!-- 主區 END -->
+
+<!-- 這個清除元素應該緊接在 #mainContent Div 之後，以便強制 #container Div 包含所有子浮動 -->
+<br class="clearfloat">
+<div id="footer_b">
+商店街市集國際資訊股份有限公司版權所有，轉載必究。<a href="http://www.pcstore.com.tw/adm/privacy.htm">隱私權聲明</a>
+</div>
+
+</form>
+<img src="https://img.pcstore.com.tw/web_img/spacer.gif" width="0" height="0"><img src="https://paystore.pcstore.com.tw/web_img/spacer.gif" width="0" height="0">
+<img src="https://bimg.pcstore.com.tw/common/www/base/spacer.gif" width="0" height="0"><img src="https://paymall.pcstore.com.tw/js/tinymce/skins/lightgray/img/trans.gif" width="0" height="0"></body>
+
+</html>
+<script language="JavaScript">
+</script>
+<font color="white">0.774055957794</font>
+<!-- www.pcstore.com.tw	w6 2015/06/01 09:32:12 -->
+
+<script language="JavaScript">
+  var html_end_js_var=true;
+
+
+  window.document.onclick = chk_link;
+  function chk_link() {
+    if(!event) return;
+    for(var obj = event.srcElement; obj; obj = obj.parentNode) {
+      if(obj.tagName == 'A') {
+      	//if(obj.href.match("http://") && !obj.href.match(/pchome.com.tw/)) {
+        if(obj.href.match("http://") && (obj.href.match(/bid.yahoo.com/) || obj.href.match(/shop.rakuten.tw/) 
+            || obj.href.match(/obuy.com.tw/) || obj.href.match(/sh1.yahoo./) || obj.href.match(/sh2.yahoo./)
+            || obj.href.match(/www.r989.com/) || obj.href.match(/mall.yahoo.com/) )
+        ) {
+           //obj.target="_BLANK";
+          return false;
+        }
+      	break;
+      }
+    }
+    return true;
+  }
+
+if(window.cal_impression && !window.cal_black ) cal_impression("http://calculate.pcstore.com.tw");  eval(unescape("if%28window.stpgflag%29%20stpgflag%28%29"));
+</script>

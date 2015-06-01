@@ -1,0 +1,195 @@
+
+
+<rss version="2.0">
+
+ <channel>
+
+  <title>TJ</title>
+    <description>TJ</description>
+    <link>http://www.isound.com/timothy_john </link>
+    <language>en-us</language>
+    <copyright>Copyright to artist - See link for more details</copyright>
+    <lastBuildDate></lastBuildDate>
+    <pubDate></pubDate>
+    <docs></docs>
+    <webMaster>info@7161.com</webMaster>
+     
+
+
+
+
+
+
+
+ 
+
+
+<item>
+
+ <title>1. 'I_Have_A_Dream'_Dubstep_By_TJ_Hooka_&amp;_The_Murder_Squad -by- TJ</title>
+      <link>http://213.129.73.14/users_audio/7843/DT_ACFF6338148905.mp3</link>
+      <description></description>
+	  <enclosure url="http://213.129.73.14/users_audio/7843/DT_ACFF6338148905.mp3" length="13306598" type="audio/mpeg"/>
+      <language>en-us</language>
+
+
+      </item>
+
+
+
+ 
+
+
+<item>
+
+ <title>2. 'Say_A_Prayer'_Ft_Insight_&amp;_The_Murder_Squad -by- TJ</title>
+      <link>http://213.129.73.14/users_audio/7843/DT_ACF20E99324053.mp3</link>
+      <description></description>
+	  <enclosure url="http://213.129.73.14/users_audio/7843/DT_ACF20E99324053.mp3" length="4088919" type="audio/mpeg"/>
+      <language>en-us</language>
+
+
+      </item>
+
+
+
+ 
+
+
+<item>
+
+ <title>3. ACID_POWER -by- TJ</title>
+      <link>http://213.129.73.14/users_audio/7843/DT_ACF9A994645353.mp3</link>
+      <description></description>
+	  <enclosure url="http://213.129.73.14/users_audio/7843/DT_ACF9A994645353.mp3" length="11703715" type="audio/mpeg"/>
+      <language>en-us</language>
+
+
+      </item>
+
+
+
+ 
+
+
+<item>
+
+ <title>4. Uffie_SUV_DubStep_Remix -by- TJ</title>
+      <link>http://213.129.73.14/users_audio/7843/DT_ACF9750573871.mp3</link>
+      <description></description>
+	  <enclosure url="http://213.129.73.14/users_audio/7843/DT_ACF9750573871.mp3" length="10120275" type="audio/mpeg"/>
+      <language>en-us</language>
+
+
+      </item>
+
+
+
+ 
+
+
+<item>
+
+ <title>5. Just_One_Kiss_Remix_2010 -by- TJ</title>
+      <link>http://213.129.73.14/users_audio/7843/DT_ACF2573083032.mp3</link>
+      <description></description>
+	  <enclosure url="http://213.129.73.14/users_audio/7843/DT_ACF2573083032.mp3" length="10933635" type="audio/mpeg"/>
+      <language>en-us</language>
+
+
+      </item>
+
+
+
+ 
+
+
+<item>
+
+ <title>6. Midnight_Rider -by- TJ</title>
+      <link>http://213.129.73.14/users_audio/7843/DT_ACF177A32538804.mp3</link>
+      <description></description>
+	  <enclosure url="http://213.129.73.14/users_audio/7843/DT_ACF177A32538804.mp3" length="10438714" type="audio/mpeg"/>
+      <language>en-us</language>
+
+
+      </item>
+
+
+
+ 
+
+
+<item>
+
+ <title>7. Horny_Sicky_Ticky -by- TJ</title>
+      <link>http://213.129.73.14/users_audio/7843/DT_ACF6025645750.mp3</link>
+      <description></description>
+	  <enclosure url="http://213.129.73.14/users_audio/7843/DT_ACF6025645750.mp3" length="10387697" type="audio/mpeg"/>
+      <language>en-us</language>
+
+
+      </item>
+
+
+
+ 
+
+
+<item>
+
+ <title>8. Funky_Fresh_Georgi -by- TJ</title>
+      <link>http://213.129.73.14/users_audio/7843/DT_ACF99635572811.mp3</link>
+      <description></description>
+	  <enclosure url="http://213.129.73.14/users_audio/7843/DT_ACF99635572811.mp3" length="11779332" type="audio/mpeg"/>
+      <language>en-us</language>
+
+
+      </item>
+
+
+
+ 
+
+
+<item>
+
+ <title>9. Hands_Up! -by- TJ</title>
+      <link>http://213.129.73.14/users_audio/7843/DT_ACF111248406607.mp3</link>
+      <description></description>
+	  <enclosure url="http://213.129.73.14/users_audio/7843/DT_ACF111248406607.mp3" length="8953027" type="audio/mpeg"/>
+      <language>en-us</language>
+
+
+      </item>
+
+
+
+ 
+
+
+<item>
+
+ <title>10. TJ_Hook-a_Gonna_Get_Ya -by- TJ</title>
+      <link>http://213.129.73.14/users_audio/7843/DT_ACF6565394914.mp3</link>
+      <description></description>
+	  <enclosure url="http://213.129.73.14/users_audio/7843/DT_ACF6565394914.mp3" length="9496391" type="audio/mpeg"/>
+      <language>en-us</language>
+
+
+      </item>
+
+
+
+
+
+
+
+
+    
+</channel>
+
+      </rss>
+      
+	  
+	  

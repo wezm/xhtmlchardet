@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+	<title>Loop_9 - Loop_9 from GBUC</title>
+	<link>http://gbuc.net</link>
+	<description>GarageBandを中心としたユーザーコミュニティサイト〜 For All DTM Users 〜</description>
+	<language>ja</language>
+	<copyright>Copyright (c) 2001-2011</copyright>
+	<lastBuildDate>Mon, 1 Jun 2015 10:26:42 +0900</lastBuildDate>
+	<itunes:author>Loop_9</itunes:author>
+	<itunes:category text="Music" />
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:subtitle>国内最大のGarageBandサイト「GarageBand Users Club（http://gbuc.net/）」で発表している曲です。
+電子音楽。ざらっと素っ気なくて、いびつな感じ。</itunes:subtitle>
+    <itunes:summary>国内最大のGarageBandサイト「GarageBand Users Club（http://gbuc.net/）」で発表している曲です。
+電子音楽。ざらっと素っ気なくて、いびつな感じ。</itunes:summary>
+    <itunes:owner>
+      <itunes:email>okatti@gbuc.net</itunes:email>
+      <itunes:name>Loop_9 - Loop_9 from GBUC</itunes:name>
+    </itunes:owner>
+    <itunes:image href="http://gbuc.net/uploads/cavt42c3df6e43102.jpg" />
+    <itunes:keywords>japan,japanese,music,cc,podcast,podcasting,garageband,gbuc</itunes:keywords>	
+    <docs>http://backend.userland.com/rss/</docs>
+	<generator>XOOPS Cube Legacy 2.1.8 / RSSFit 1.03</generator>
+	<managingEditor>okatti@gbuc.net</managingEditor>
+	<webMaster>okatti@gbuc.net</webMaster>
+	<ttl>60</ttl>
+	
+	<image>
+	<title>Loop_9 - Loop_9 from GBUC</title>
+	<url>http://gbuc.net/uploads/cavt42c3df6e43102.jpg</url>
+	<link>http://gbuc.net</link>
+	</image>
+	
+			<item>
+			<title>clockwork waltz : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/8879.mp3" length="2768843" type=""></enclosure>
+			<description>現在放送中の KD さんのネットラジオ 「Out Of Control」 に投稿した曲。 お題の「復活」から連想して、テーマは「輪廻転生」。 ヨタ話とかはコメントで書いときます(笑)。</description>
+			<pubDate>Wed, 12 Dec 2007 00:49:44 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=8879</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=8879</guid>
+			<itunes:duration>2:14</itunes:duration>
+		</item>
+			<item>
+			<title>Detroit? (No!) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/7577.mp3" length="6888365" type=""></enclosure>
+			<description>「デトロイト？」「いいえ」 =====================================  Tsunekazuさん作曲 、 norick.hさんリミックス の曲を、さらに解体再構築してみました。 BPMだけは元曲と一緒です(笑)。 リフ作成には、最近お気に入りのフリーウェア 「FlatEarthSequence」 を使用。つか濫用(笑)。 ===================================== 今回、Loop_8さんプロデュースのもと、他に２人が素晴らしいリミックスを手...</description>
+			<pubDate>Sat, 28 Apr 2007 00:21:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=7577</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=7577</guid>
+			<itunes:duration>5:43</itunes:duration>
+		</item>
+			<item>
+			<title>pretty good : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/5987.mp3" length="7713019" type=""></enclosure>
+			<description>ソフトウェア音源「RnB Remix」（JamPack“RemixTools”収録）に入ってた面白い音をループ化して遊んでみました。 ファンキーなミニマルテクノ。</description>
+			<pubDate>Wed, 1 Nov 2006 00:40:11 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=5987</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=5987</guid>
+			<itunes:duration>6:25</itunes:duration>
+		</item>
+			<item>
+			<title>Silent Nightmare (Loop_9 Remix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/5891.mp3" length="7635909" type=""></enclosure>
+			<description>YO-CO.さん、２年半越しのジェダイマスター就任、おめでとー！ つうわけで、記念の曲のコメント代わりに。 YO-CO.さんの 「Silent Nightmare」 をリミックス。 印象的なピアノリフを逆回転で、ハーフテンポで。</description>
+			<pubDate>Sun, 15 Oct 2006 02:10:16 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=5891</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=5891</guid>
+			<itunes:duration>6:21</itunes:duration>
+		</item>
+			<item>
+			<title>ゆらゆらり (i-morley mix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos1/958.mp3" length="6606138" type=""></enclosure>
+			<description>お祭りをいろいろ混ぜてみました(笑)。 ● i-morley &amp; GBUC REMIX Project  ● ゆらゆらりRemix祭り  ●上記２つのループ限定 お祭りなので、ざっくりテキトーに。２日で作成(笑)。</description>
+			<pubDate>Fri, 13 Oct 2006 00:21:14 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum1/photo.php?lid=958</link>
+			<guid>http://gbuc.net/modules/myalbum1/photo.php?lid=958</guid>
+			<itunes:duration>5:29</itunes:duration>
+		</item>
+			<item>
+			<title>&quot;virusΣ0816Σ06&quot; Syntax error : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/5868.mp3" length="6348066" type=""></enclosure>
+			<description>あるひとつの感染事例。 =病原体=  Virus. =Ver.zero= / YO-CO.  =その他の感染事例=  &quot;Virus_Σ061008&quot; Outbreak. / HIDE   &quot;Virus_Σ0810Σ06&quot; Code Break. / KD_brains  =感染源=  http://homepage.mac.com/yoconyan/Virus/FileSharing2.html </description>
+			<pubDate>Mon, 9 Oct 2006 21:20:06 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=5868</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=5868</guid>
+			<itunes:duration>5:16</itunes:duration>
+		</item>
+			<item>
+			<title>タカラモノ。=luv mix= (Loop_9 edit) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/5520.mp3" length="5775166" type=""></enclosure>
+			<description>YO-CO.さんの 「タカラモノ。＝luvmix=」 を基礎にリエディット。元の可愛い雰囲気をなるべく生かすようにしたつもり。 書類の提供、仮ミックス版へのアドバイス、などなど、YO-CO.さんありがとう！ 湘南セッションに愛とリスペクトをこめて！</description>
+			<pubDate>Fri, 28 Jul 2006 18:58:24 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=5520</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=5520</guid>
+			<itunes:duration>4:48</itunes:duration>
+		</item>
+			<item>
+			<title>嫉妬試合 (Loop_9 Remix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/5324.mp3" length="7160841" type=""></enclosure>
+			<description>junさんの 「嫉妬試合」 をリミックス。 なかなかクールでセクシーな感じに仕上がったのではないか、と。 主な変更点：BPMが倍になった(笑)。</description>
+			<pubDate>Sun, 18 Jun 2006 22:02:53 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=5324</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=5324</guid>
+			<itunes:duration>5:56</itunes:duration>
+		</item>
+			<item>
+			<title>d・a・s・h (UP mix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/4674.mp3" length="5943805" type=""></enclosure>
+			<description>2006年２月６日に、僕も所属する札幌の 81crew のイベント「Under Progressing」に、なんとjunさんがスペシャルゲストとしてライブを披露してくれました。 その時のオープニングナンバーがこれでした。  kcsaitoさんのリミックス をベースに、僕がビートを差し替えたバージョンです（kcさんありがとー！）。  この日のライブはホントにスペシャルで、N&amp;Nさんや、あのNJのnori_musicさんが、この日のために作り直した音源ばかりでした。 この日のハイライト、N&amp;Nさんの再リミッ...</description>
+			<pubDate>Wed, 22 Feb 2006 02:26:42 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=4674</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=4674</guid>
+			<itunes:duration>4:56</itunes:duration>
+		</item>
+			<item>
+			<title>時間の花 : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/4592.mp3" length="5269726" type=""></enclosure>
+			<description>さて、祭りだ祭りだー！(笑) 先日行われた 「第１回『時間の花』コンテスト」 に参加させていただいたのですが（聴いてない方は損してますよ。あの魅力的な語りを聴かないと！）、その豪華「参加賞」をお裾分け、で。 自分がやったリミックスに、さらにjunさんがわざわざ歌を入れ直してくれたバージョンです。 ホントは独り占めしたかったんですけど(笑)、やっぱり多くの人に聴いてほしいので、junさんに許可を頂いてお披露目です。 歌、マジでやばいっすよ。...</description>
+			<pubDate>Sat, 11 Feb 2006 01:34:29 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=4592</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=4592</guid>
+			<itunes:duration>3:39</itunes:duration>
+		</item>
+			<item>
+			<title>I am sex (Loop_9 Remix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/4491.mp3" length="4803449" type=""></enclosure>
+			<description>Loop_6さんの問題作 「I am sex」 をリミックス。 ２日ほどででっちあげてみました（自分的には異例の早さ）。 ということで、さらっとした仕上がりになってます。</description>
+			<pubDate>Sat, 28 Jan 2006 14:21:05 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=4491</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=4491</guid>
+			<itunes:duration>5:00</itunes:duration>
+		</item>
+			<item>
+			<title>sussurro : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/4457.mp3" length="7612362" type=""></enclosure>
+			<description>祭りにつられて、本来より早いタイミングで…。 札幌の集団81crewのコンピCD(２月６日発売)に参加してるのですが、それのボツ曲を。 詳細は こちら 。 クラブイベントを意識して、普段よりもちょいトラックものっぽい感じで作ろうと思ったんだけど、ちょっと違うかも(笑)。  81crew内のレーベル「Interfade Record」のプロデューサ＆エンジニア、029さんがマスタリングしてくれたバージョンです。...</description>
+			<pubDate>Mon, 23 Jan 2006 01:18:16 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=4457</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=4457</guid>
+			<itunes:duration>7:56</itunes:duration>
+		</item>
+			<item>
+			<title>flashback : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos1/279.mp3" length="2883263" type=""></enclosure>
+			<description>去る7月2日、アップルストア銀座にて開催された「ガレバンナイト2.0」でのメインイベント、「GBUC for LiFE*」投稿曲。 先に フォトシネマ版 をアップしたのですが、音声版のリクエストを複数頂いたので、こちらにもアップしちゃいます。すんません。 温度も色も感じられない「ええと、これってホントにフォトシネマのBGMに使えるの？」という疑問を自分ですら感じてしまう(笑)。そっけない音です。...</description>
+			<pubDate>Tue, 6 Sep 2005 22:39:04 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum1/photo.php?lid=279</link>
+			<guid>http://gbuc.net/modules/myalbum1/photo.php?lid=279</guid>
+			<itunes:duration>3:00</itunes:duration>
+		</item>
+			<item>
+			<title>flashback : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/6664.mov" length="5653770" type=""></enclosure>
+			<description>一応、この形式で公開、かなあと(笑)。 去る7月2日、アップルストア銀座にて開催された 「ガレバンナイト2.0」 でのメインイベント、「GBUC for LiFE*」投稿曲。 何故か手元にある(笑)「LiFE* with PhotoCinema 2」に自動生成させてみました。マニュアル操作一切なし。</description>
+			<pubDate>Sat, 3 Sep 2005 01:43:56 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=6664</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=6664</guid>
+			<itunes:duration>3:00</itunes:duration>
+		</item>
+			<item>
+			<title>http (Loop_9 Remix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/2914.mp3" length="5747054" type=""></enclosure>
+			<description>junさんの 「http」 をリミックス。 元曲の印象的なピアノのフレーズを活かしたつもりです。 junさんありがとー！</description>
+			<pubDate>Sat, 11 Jun 2005 12:13:14 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=2914</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=2914</guid>
+			<itunes:duration>5:58</itunes:duration>
+		</item>
+			<item>
+			<title>Ah_Eh_Yah (Loop_9 Remix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/2867.mp3" length="4579251" type=""></enclosure>
+			<description>Norick.hさんの 「Ah Eh Yah: Norick&apos;s Samba」 をリミックス。ものすごく普通、です。ヒネリなし。   kiariさん たち主催のクラブイベント「under progressing vol.5」にてプレイ。</description>
+			<pubDate>Mon, 6 Jun 2005 20:45:22 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=2867</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=2867</guid>
+			<itunes:duration>4:46</itunes:duration>
+		</item>
+			<item>
+			<title>眼鏡音頭 (L9mix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/2581.mp3" length="9490882" type=""></enclosure>
+			<description>YO-CO.さんの 元書類 で作ってみました。 まあ、いつも通りの音ですね(笑)。 先に白状しとくと、メインのリフはループ（音色差換）です。 YO-CO.さん、ありがとう！</description>
+			<pubDate>Sun, 1 May 2005 19:58:14 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=2581</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=2581</guid>
+			<itunes:duration>6:35</itunes:duration>
+		</item>
+			<item>
+			<title>fragment of apple(L9mix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/2381.mp3" length="5400119" type=""></enclosure>
+			<description>２月５日の「ガレバンナイト」の企画『100 seconds for Apple』でYO-CO.さんが披露した名曲 「fragment of apple ~100sec.」 を愛を込めてリミックス。 BPM191(!!!)の元曲とはうってかわってノンビリです(笑)。  「またリミックス？」というツッコミは、奥歯で噛み締めて下さい(笑)。...</description>
+			<pubDate>Fri, 1 Apr 2005 19:27:44 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=2381</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=2381</guid>
+			<itunes:duration>3:45</itunes:duration>
+		</item>
+			<item>
+			<title>COME!!! (under progressing mix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/2207.m4a" length="4571877" type=""></enclosure>
+			<description>GBUCを代表するヒップホップチーム、 kiariさん 率いる「サッポロ帝国」の曲をリミックス。 つうのも、kiariさん主催のクラブイベント「under progressing」の３月３日の回でプレイするために、リスペクトを込めて制作しました。 ホントはもっと作り込もうと思ったけど、ナマモノだし、まんまいっちゃえって感じです。...</description>
+			<pubDate>Sat, 5 Mar 2005 23:31:18 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=2207</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=2207</guid>
+			<itunes:duration>4:46</itunes:duration>
+		</item>
+			<item>
+			<title>white : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos1/200.m4a" length="1651976" type=""></enclosure>
+			<description>アップルコンピュータのビジュアルの基調色「白」をイメージ。 当日、司会のKDさんにも突っ込まれましたが、いつもと違うのをやってみようと狙いました(笑)。だいいち、地味に３/４拍子だし。</description>
+			<pubDate>Mon, 7 Feb 2005 23:09:09 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum1/photo.php?lid=200</link>
+			<guid>http://gbuc.net/modules/myalbum1/photo.php?lid=200</guid>
+			<itunes:duration>1:40</itunes:duration>
+		</item>
+			<item>
+			<title>lonesomeguitar 〜ルンルンドムーのテーマ〜 : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos1/49.m4a" length="3446732" type=""></enclosure>
+			<description>初めまして！チーム「ルンルンドムー」です！ メンバーは mustang_jp 、 Laloop 、 HIDE 、 Loop_9 の４人です。 リレー形式で、上記の順番で音をまわしていきました。 まずは聴いてみて下さい！そんで感想よろしくです。</description>
+			<pubDate>Wed, 1 Dec 2004 00:16:44 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum1/photo.php?lid=49</link>
+			<guid>http://gbuc.net/modules/myalbum1/photo.php?lid=49</guid>
+			<itunes:duration>3:32</itunes:duration>
+		</item>
+			<item>
+			<title>現代のクラブショー_9 : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos1/42.m4a" length="3547985" type=""></enclosure>
+			<description>　タイトルと全然関係ない、可愛いのができちゃいました。 「この人はどうしてこんなにワンフレーズだけで押すんだろう？」 　という疑念を新たにして下さい(笑)。 　今回は早めに登場してみました。</description>
+			<pubDate>Sun, 7 Nov 2004 20:47:48 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum1/photo.php?lid=42</link>
+			<guid>http://gbuc.net/modules/myalbum1/photo.php?lid=42</guid>
+			<itunes:duration>4:05</itunes:duration>
+		</item>
+			<item>
+			<title>cycle (Loop_9 Remix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/1322.m4a" length="6591974" type=""></enclosure>
+			<description>Marhearさんの名曲 「cycle」 をリミックス。 原曲へのラブ＆リスペクトが少しでも聴こえるなら、嬉しいです。 「うた」を大切にしたつもりなのですが、ものすごくわかりにくいかもしんないです。 リミックスの許諾、元ファイルの提供、仮ミックス版へのアドバイスなどなど、Marhearさんホントにありがとうですー。 つか、元曲にゲストでコメントしてたの、今気付きました(笑)。...</description>
+			<pubDate>Tue, 5 Oct 2004 20:05:18 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=1322</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=1322</guid>
+			<itunes:duration>6:49</itunes:duration>
+		</item>
+			<item>
+			<title>スーパー・カットマン!!! (Loop_9 Remix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/1388.m4a" length="5064539" type=""></enclosure>
+			<description>eijiさんのテーマソング(笑) 「スーパー・カットマン!!!」 をリミックス。 パーティーチューンに仕上げたつもり、です。 作業中、「いや、まじで良い曲だなー」と再確認できました。</description>
+			<pubDate>Sun, 3 Oct 2004 18:42:19 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=1388</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=1388</guid>
+			<itunes:duration>5:40</itunes:duration>
+		</item>
+			<item>
+			<title>土曜日のロックステディ : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos1/23.m4a" length="6000941" type=""></enclosure>
+			<description>一段落したっぽいので、自分も投稿。 ドラムとベース以外は割と素直に使ってるつもりです。 （ストリングスとオルガンは頭だけしか使ってないけど） 結局、自分の音になるのが、面白くもあり、つまらなくもあり(笑)。</description>
+			<pubDate>Sun, 5 Sep 2004 11:48:36 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum1/photo.php?lid=23</link>
+			<guid>http://gbuc.net/modules/myalbum1/photo.php?lid=23</guid>
+			<itunes:duration>6:13</itunes:duration>
+		</item>
+			<item>
+			<title>INTERLUDE_Loop_9_03 : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/1064.m4a" length="627112" type=""></enclosure>
+			<description>没ネタリサイクル第３弾(泣)。割と気に入ってたんだけど…。 ハウスです。 続き作ってみたい！という方、データ丸ごとお渡ししますんで、ご一報ください…。</description>
+			<pubDate>Wed, 21 Jul 2004 00:52:17 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=1064</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=1064</guid>
+			<itunes:duration>0:36</itunes:duration>
+		</item>
+			<item>
+			<title>mutation（プレビュー版） : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/984.m4a" length="1582266" type=""></enclosure>
+			<description>OOC 7/1号投稿曲。 あまりの切り刻みっぷりに、「ああ、この人はガレバンの間違った使い方をしてるなあ」と思って下さい(笑)。  ホントは完成してからアップする予定だったのですが、某所からリクエスト(笑)を頂いたことと、諸事情で完成が難...</description>
+			<pubDate>Sat, 3 Jul 2004 11:59:19 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=984</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=984</guid>
+			<itunes:duration>1:46</itunes:duration>
+		</item>
+			<item>
+			<title>INTERLUDE　〜凌辱〜 : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/915.m4a" length="530251" type=""></enclosure>
+			<description>某所での罰ゲームを、中途半端＆ずいぶん遅れて敢行(笑)。 モチーフとして膨らませるのがやっぱ辛かったんで。 つうか、ストリーミングで、これの次にかかる曲の方が罰ゲームですね、すんません…。  あ、ちなみに、ebivaさん発明、Laloopさん提唱の、この「INTERLUDE」カテゴリの説明は、下のリンクです。  http://gbuc.net/modules/myalbum/photo.php?lid=754&amp;cid=31...</description>
+			<pubDate>Sat, 19 Jun 2004 06:35:01 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=915</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=915</guid>
+			<itunes:duration>0:30</itunes:duration>
+		</item>
+			<item>
+			<title>6 dool (Loop_9 Remix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/874.m4a" length="3270912" type=""></enclosure>
+			<description>preciousさんの名曲「6 dool」をリミックス。以上！ ええと、元曲は下のリンク！  http://gbuc.net/modules/myalbum/photo.php?lid=779&amp;cid=37 </description>
+			<pubDate>Thu, 10 Jun 2004 04:15:43 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=874</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=874</guid>
+			<itunes:duration>3:22</itunes:duration>
+		</item>
+			<item>
+			<title>Dirty, Nasty &amp; Stingy (Loop_9 Remix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/695.m4a" length="5126403" type=""></enclosure>
+			<description>preciousさんの、あの名曲をリミックス！ 血湧き肉踊る原曲が、だいぶ低血圧で駄目な感じになってます(笑)。 まず、ギターループもホーンループも使うの初めてで（！）、処理の仕方にだいぶ戸惑いましたことを告白しておきます…。 つうか、プレさん待たせてソーリー（野村義男）です…。しかもこんなんだし。  あ、原曲こちらです。低血圧じゃない方はこちらをどうぞ(笑)。  http://gbuc.net/modules/myalbum/photo.php?lid=774...</description>
+			<pubDate>Thu, 20 May 2004 23:48:13 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=695</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=695</guid>
+			<itunes:duration>5:17</itunes:duration>
+		</item>
+			<item>
+			<title>INTERLUDE_Loop_9_01 : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/772.m4a" length="442631" type=""></enclosure>
+			<description>INTERLUDEネタ参加です。 発明したebivaさんと、提唱したLaloop兄貴に、改めてリスペクト、です。 えー、ひらたく言えば没ネタのリサイクルです(笑)。</description>
+			<pubDate>Thu, 20 May 2004 10:44:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=772</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=772</guid>
+			<itunes:duration>0:25</itunes:duration>
+		</item>
+			<item>
+			<title>nightfly : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/757.mp3" length="6096036" type=""></enclosure>
+			<description>やっと１曲できたので投稿。全て純正ループ。 使い方を覚えるよりも、どうしたら負荷が減るかを 考え続けた１曲目でした(泣)。 （iBookG3 500MHz 256MB） 不本意ながらキレイめのトラックに仕上がりました。 （福富幸宏をお湯割りにしたような(笑)） 次は汚れ系でいきたいのだが…負荷が…。...</description>
+			<pubDate>Tue, 11 May 2004 10:58:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=757</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=757</guid>
+			<itunes:duration>5:05</itunes:duration>
+		</item>
+			<item>
+			<title>unsteadyfunk : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/756.m4a" length="3891915" type=""></enclosure>
+			<description>Ralphさん(北米在住、男性、50歳)が、自ら率いる高齢者ファンクバンドをバックに自慢のブルースハープを披露です。だいぶみんなよぼよぼです。 Ralphさん談：「俺のファンクはニューオリンズ仕込みだぜ」。 （学生時代に夏休みに一回行っただけ） ============================================== ドラムループを４つ切り刻んで合成したら、ひきつったような、変なグルーブがうまれました。良い湯加減を目指して、完成度を放り投げて仕上げてみました。座りの悪い、気持ち悪いグ...</description>
+			<pubDate>Tue, 11 May 2004 10:58:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=756</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=756</guid>
+			<itunes:duration>4:00</itunes:duration>
+		</item>
+			<item>
+			<title>monkeybusiness : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/771.m4a" length="4802563" type=""></enclosure>
+			<description>あのブルブルズが、いつもライブのオープニングでやってる曲の初レコーディングバージョンを入手(笑)したのでアップします。 何かドラムとベースが若返ってますが、…もしかして……合掌…。 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ まさかのネタバンドもの第２弾。ゆるゆるです。楽器構成＆作り方＆曲構成まったく一緒。ドラムはループを５個合成してるのですが、全然わかんなくなっちゃいましたね。ああ、それを含めて、久々の「全て純正ループ使用」です。...</description>
+			<pubDate>Tue, 11 May 2004 10:58:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=771</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=771</guid>
+			<itunes:duration>4:58</itunes:duration>
+		</item>
+			<item>
+			<title>nightfly (HardStepMix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/767.mp3" length="7288263" type=""></enclosure>
+			<description> デビュー曲 (笑)のセルフリミックス。 ピアノ・ベース・シンセは同じループです。 イメージ的には「日本盤のみボーナストラック収録」に入ってる オマケみたいな感じです。</description>
+			<pubDate>Tue, 11 May 2004 10:58:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=767</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=767</guid>
+			<itunes:duration>6:04</itunes:duration>
+		</item>
+			<item>
+			<title>invasion : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/770.m4a" length="2868052" type=""></enclosure>
+			<description>曲としてはなんということもないですが、 制作方法に特徴がある、実験的な作品です。 「ループを一切使わずAIFF貼付けのみ」 「キックとハット以外はMacOSのアラート音のみ」 …結果、音一個消すにも１分位かかる、激重ファイルになったので、 適当に切り上げちゃいました。もう二度とやりません(笑)。...</description>
+			<pubDate>Tue, 11 May 2004 10:58:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=770</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=770</guid>
+			<itunes:duration>2:56</itunes:duration>
+		</item>
+			<item>
+			<title>depth : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/760.mp3" length="6579282" type=""></enclosure>
+			<description>bpm100の、たゆたうようなトラック。 深海散歩と洒落こんでみましょうか。 ======================================== とうとう外部音源、大幅導入。 （フリーのアップルループとか、手製のAIFFとか） スピーチ機能まで…。いやぁ、これ使うの楽しい！ dj_beastさん流にいうなら、「feat. Victoria」です(笑)。 作りかけの基本トラックを聴いて「これ海みたいだね」 と、曲に方向性を与えてくれた、妻に捧げます。...</description>
+			<pubDate>Tue, 11 May 2004 10:58:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=760</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=760</guid>
+			<itunes:duration>5:29</itunes:duration>
+		</item>
+			<item>
+			<title>dirty : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/759.mp3" length="4611200" type=""></enclosure>
+			<description>bpm150の、ちょっと懐かしい90年代ミニマルテクノ風。 あらかた組み終わって、パートの切れ目にシンバルとか アクセントいれよっかなー、とか思ったらトラックもう 足せなくなっちゃって、結局まんまアップ。 あと、mp3にしたら随分音変わった…。 2/17 説明文のみ訂正。音は変えてません。...</description>
+			<pubDate>Tue, 11 May 2004 10:58:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=759</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=759</guid>
+			<itunes:duration>3:50</itunes:duration>
+		</item>
+			<item>
+			<title>housetick : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/761.mp3" length="5467523" type=""></enclosure>
+			<description>なんか流行ってたので(笑)、ハウスなトラック。 まっとうなハウスって、意外と難しいっすね。 monpanさんって上手いな、と思いました。 ================================= っていうか、最近アップルループ作って遊んでて、 この曲の基本ループが出来てたんでさっそく使用。 やっぱ909だよね！　とか思っているのは、 自分の上の世代が「やっぱツェッペリンだよね」とか 言うのと同じだと気づいてしまったナイスエイジな自分…。 あ、タイトルは「ハウスっぽい」ではありません。「イエダニ...</description>
+			<pubDate>Tue, 11 May 2004 10:58:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=761</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=761</guid>
+			<itunes:duration>4:33</itunes:duration>
+		</item>
+			<item>
+			<title>anonymity : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/763.mp3" length="6147204" type=""></enclosure>
+			<description>bpm１５０のミニマル。…って、前にも書いたなぁ(笑)。 スケッチ段階での仮タイトルは「jazz」だったのだが、ループを入れ替えたりしてるうちに、こうなってしまった。なんでだ？ 正直、「dirty」のが出来がいいと思うんで、適当にあしらって下さい、いやマジで。何の特徴も新機軸もないということで、こんなタイトルです。...</description>
+			<pubDate>Tue, 11 May 2004 10:58:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=763</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=763</guid>
+			<itunes:duration>5:07</itunes:duration>
+		</item>
+			<item>
+			<title>fragments : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/769.m4a" length="4318360" type=""></enclosure>
+			<description>BPM90のロウ＆ファットなトラック。 タイトルどおり断片化してます。しまくってます。 インターネット回線やMacの不調ではありません、ご注意を(笑)。 踊っていると膝カックンされたような気分になります(笑)。</description>
+			<pubDate>Tue, 11 May 2004 10:58:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=769</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=769</guid>
+			<itunes:duration>4:27</itunes:duration>
+		</item>
+			<item>
+			<title>wicked : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/765.mp3" length="7692107" type=""></enclosure>
+			<description>殺伐として、緊張感あふれる、アンチ和み系ダブ。 「SilentDrum (Loop_9 Remix)」も元曲のほのぼの感は消え失せてましたが、それ以下です。 っていうか、何がこんなに和ませなくしてるかが、自分では分かりません(笑)。久々の自信作だ！ ============================================ ７トラックで、これをやりくりしてると、画面はパズルみたいになります。 どの音がどのトラックから鳴ってるのか、しまいには自分でもわからなくなりました(笑)。あ、あと、初め...</description>
+			<pubDate>Tue, 11 May 2004 10:58:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=765</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=765</guid>
+			<itunes:duration>6:24</itunes:duration>
+		</item>
+			<item>
+			<title>SilentDrum (Loop_9 Remix) : Loop_9</title>
+			<itunes:author>Loop_9</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<enclosure url="http://gbuc.net/uploads/exphotos/758.mp3" length="5763237" type=""></enclosure>
+			<description>このサイト初のコラボレーション！ Laloopさんの曲「SilentDrum」をリミックス。 元曲んとこにも書いたけど、ダブっぽくしても格好いいんじゃないかと思ったんで。 まあ、どっちかというと同じ素材でのリコンストラクションですか。 相変わらず全て純正ループ。 元曲はこちらです。Laloopさんリスペクト！  http://gbuc.net/modules/myalbum/photo.php?lid=739...</description>
+			<pubDate>Tue, 11 May 2004 10:58:00 +0900</pubDate>
+			<link>http://gbuc.net/modules/myalbum/photo.php?lid=758</link>
+			<guid>http://gbuc.net/modules/myalbum/photo.php?lid=758</guid>
+			<itunes:duration>4:48</itunes:duration>
+		</item>
+				
+	</channel>
+</rss>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<channel>
+
+ <title>Pineapster Random Audio Generator</title>
+ <link>http://pineapster.com/profiles/pineapster_random_audio_generator</link>
+ <description>Pineapster Random Audio Generator</description>
+ <language>en-PI</language>
+ <copyright>http://creativecommons.org/licenses/by/2.0/</copyright>
+ <generator>JellyCast http://www.jellycast.com</generator>
+ <managingEditor>seanc@cuttlefish.com (cuttlefish)</managingEditor>
+<category>Music</category>
+ <pubDate>Sun, 13 Sep 2009 22:40:47 +0100</pubDate>
+ <lastBuildDate>Sun, 13 Dec 2009 17:00:33 +0000</lastBuildDate>
+
+<image>
+ <url>http://cuttlefish.jellycast.com/files/prag4_small.png</url>
+ <title>Pineapster Random Audio Generator</title>
+ <link>http://pineapster.com/profiles/pineapster_random_audio_generator</link>
+<width>144</width>
+<height>144</height>
+ <description>Pineapster Random Audio Generator</description>
+ </image>
+
+ <itunes:author>cuttlefish</itunes:author>
+ <itunes:image href="http://cuttlefish.jellycast.com/files/prog4.png" />
+ 
+ <itunes:keywords>music,prag,pineapster,leicester</itunes:keywords>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:block>No</itunes:block>
+ <itunes:subtitle>Pineapster Random Audio Generator</itunes:subtitle>
+ <itunes:summary>PRAG is a songwriting / recording challenge, where each participant submits a song title. These are then drawn from a hat and assigned to the other participants. The person receiving the song title then has to use it as a starting point for a NEW song. In addition, each participant will receive a random 'instruction', which must be observed during the recording process.</itunes:summary>
+ 
+
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/pineapsterrandomaudiogenerator" /><feedburner:info uri="pineapsterrandomaudiogenerator" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>http://creativecommons.org/licenses/by/2.0/</media:copyright><media:thumbnail url="http://cuttlefish.jellycast.com/files/prog4.png" /><media:keywords>music,prag,pineapster,leicester</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Music</media:category><itunes:owner><itunes:email>podcasts@cuttlefish.com</itunes:email></itunes:owner><itunes:category text="Music" /><feedburner:feedFlare href="http://www.podnova.com/add.srf?url=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://www.podnova.com/img_chicklet_podnova.gif">Subscribe with Podnova</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://odeo.com/listen/subscribe?feed=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://odeo.com/img/badge-channel-black.gif">Subscribe with ODEO</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare><feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare><feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsalloy.com/?rss=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://www.newsalloy.com/subrss3.gif">Subscribe with NewsAlloy</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare><feedburner:feedFlare href="http://download.attensa.com/app/get_attensa.html?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://www.attensa.com/blogs/attensa/WindowsLiveWriter/BadgeredintoBadges_10C02/attensa_feed_button5.gif">Subscribe with Attensa for Outlook</feedburner:feedFlare><feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare><feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:feedFlare href="http://www.flurry.com/pushRssFeed.do?r=fb&amp;url=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://www.flurry.com/images/flurry_rss_logo2.gif">Subscribe with Flurry</feedburner:feedFlare><feedburner:feedFlare href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare><feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2Fpineapsterrandomaudiogenerator" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare><item>
+ <title>PRAG 4</title>
+ <link>http://feedproxy.google.com/~r/pineapsterrandomaudiogenerator/~3/_cjj4OIYM8Q/63</link>
+ <description>00. PRAGMaster - PRAG 4 Intro
+01. Paul Carden - A Prayer For Jdimytai Damour
+02. Distant Guns - Arson Attack On A Christmas Tree
+03. The Kafinjers - An Office Party Without Alcohol Is Like An Office Party Without Alcohol
+04. Pseudonyx - Mistletoe And Rohypnol
+05. Solid - Match Report From No-Man's Land
+06. Little Baby Jesus - Hey! Corporate Scrooge
+07. Chelsea Clinton - Hip-Hop Hannukah
+08. Darko - Brass Monkeys On Black Ice
+09. Telling Tales - Do Not Travel (Unless Your Journey Is Necessary)
+10. Gizz &amp; The Headkicks - The Best Christmas Since 0 AD
+11. AJ &amp; The 81s - Sayonara, Santa-san
+12. DrumAliens - Angels From The Realms Of Groby
+13. Doctor Skinner - Caga Tió De Nadal
+14. red_riviera - A Christmas Message From Far Away
+</description>
+ <enclosure url="http://cuttlefish.jellycast.com/files/audio/Pineapster%20Random%20Audio%20Generator%20No.4.mp3" length="81480047" type="audio/mpeg" />
+ <pubDate>Sun, 13 Dec 2009 17:01:37 +0000</pubDate>
+ <content:encoded><![CDATA[00. PRAGMaster - PRAG 4 Intro
+01. Paul Carden - A Prayer For Jdimytai Damour
+02. Distant Guns - Arson Attack On A Christmas Tree
+03. The Kafinjers - An Office Party Without Alcohol Is Like An Office Party Without Alcohol
+04. Pseudonyx - Mistletoe And Rohypnol
+05. Solid - Match Report From No-Man's Land
+06. Little Baby Jesus - Hey! Corporate Scrooge
+07. Chelsea Clinton - Hip-Hop Hannukah
+08. Darko - Brass Monkeys On Black Ice
+09. Telling Tales - Do Not Travel (Unless Your Journey Is Necessary)
+10. Gizz & The Headkicks - The Best Christmas Since 0 AD
+11. AJ & The 81s - Sayonara, Santa-san<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/pineapsterrandomaudiogenerator?a=_cjj4OIYM8Q:gp_F21SQs5Q:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/pineapsterrandomaudiogenerator?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/pineapsterrandomaudiogenerator/~4/_cjj4OIYM8Q" height="1" width="1" alt=""/>]]></content:encoded>
+ <comments>http://cuttlefish.jellycast.com/node/63</comments>
+ <dc:creator>podcasts@cuttlefish.com</dc:creator>
+ <guid isPermaLink="false">http://cuttlefish.jellycast.com/node/63</guid>
+ <itunes:summary>00. PRAGMaster - PRAG 4 Intro
+01. Paul Carden - A Prayer For Jdimytai Damour
+02. Distant Guns - Arson Attack On A Christmas Tree
+03. The Kafinjers - An Office Party Without Alcohol Is Like An Office Party Without Alcohol
+04. Pseudonyx - Mistletoe And Rohypnol
+05. Solid - Match Report From No-Man's Land
+06. Little Baby Jesus - Hey! Corporate Scrooge
+07. Chelsea Clinton - Hip-Hop Hannukah
+08. Darko - Brass Monkeys On Black Ice
+09. Telling Tales - Do Not Travel (Unless Your Journey Is Necessary)
+10. Gizz &amp; The Headkicks - The Best Christmas Since 0 AD
+11. AJ &amp; The 81s - Sayonara, Santa-san</itunes:summary>
+ <itunes:explicit>No</itunes:explicit>
+ <itunes:keywords>Pineapster, Leicester</itunes:keywords>
+ <itunes:duration>00:56:21</itunes:duration>
+ <itunes:image href="http://cuttlefish.jellycast.com/files/prag4_small.png" />
+<media:content url="http://cuttlefish.jellycast.com/files/audio/Pineapster%20Random%20Audio%20Generator%20No.4.mp3" fileSize="81480047" type="audio/mpeg" /><itunes:subtitle>Pineapster Random Audio Generator</itunes:subtitle><feedburner:origLink>http://cuttlefish.jellycast.com/node/63</feedburner:origLink></item>
+
+<item>
+ <title>PRAG 1</title>
+ <link>http://feedproxy.google.com/~r/pineapsterrandomaudiogenerator/~3/3sRsnFL06pU/38</link>
+ <description>01_Winter Vomiting Virus - Moscow Youth Cult
+02_Underground We Prosper - The Salesman
+03_Running Scared - The Joe Stalin Sextet
+04_She Never Said No At The Time - Distant Guns
+05_ 2008 Toronto Rock Season - Peter Wyeth
+06_Bedford Falls - Dovo of Solingen
+07_Laughing Box - Gray from Mentira
+08_A Beckoning, A Reckoning - Palmer Eldritch
+09_IQ Of 80 In Room No.8 - gem*
+10_Man Was Born Free And He Is Everywhere In Chains - Soul Sonic Sauce
+11_The Billowy Black - Torpedo Kutasai
+12_Trading Camels - Chelsea Clinton
+13_It's About Time You Went Home - Logfox
+14_My Favourite Made-Up Drug (Riviera Mix) - Nathan Heretic-Angelic
+15_Don't Ask Me... I Don't Know The Answer - Donald Twain
+16_Off-road Driving &amp; Winching Techniques - 20% Of Lovers</description>
+ <enclosure url="http://cuttlefish.jellycast.com/files/audio/Pineapster%20Random%20Audio%20Generator%20No.1.mp3" length="88938667" type="audio/mpeg" />
+ <pubDate>Wed, 04 Nov 2009 10:40:21 +0000</pubDate>
+ <content:encoded><![CDATA[01_Winter Vomiting Virus - Moscow Youth Cult
+02_Underground We Prosper - The Salesman
+03_Running Scared - The Joe Stalin Sextet
+04_She Never Said No At The Time - Distant Guns
+05_ 2008 Toronto Rock Season - Peter Wyeth
+06_Bedford Falls - Dovo of Solingen
+07_Laughing Box - Gray from Mentira
+08_A Beckoning, A Reckoning - Palmer Eldritch
+09_IQ Of 80 In Room No.8 - gem*
+10_Man Was Born Free And He Is Everywhere In Chains - Soul Sonic Sauce
+11_The Billowy Black - Torpedo Kutasai
+12_Trading Camels - Chelsea Clinton
+13_It's About Time You Went Home - Logfox
+14_My Favourite Made-Up Drug (Riviera Mix) - Nathan Heretic-Angelic<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/pineapsterrandomaudiogenerator?a=3sRsnFL06pU:3mQZkXQBwUY:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/pineapsterrandomaudiogenerator?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/pineapsterrandomaudiogenerator/~4/3sRsnFL06pU" height="1" width="1" alt=""/>]]></content:encoded>
+ <comments>http://cuttlefish.jellycast.com/node/38</comments>
+ <dc:creator>podcasts@cuttlefish.com</dc:creator>
+ <guid isPermaLink="false">http://cuttlefish.jellycast.com/node/38</guid>
+ <itunes:summary>01_Winter Vomiting Virus - Moscow Youth Cult
+02_Underground We Prosper - The Salesman
+03_Running Scared - The Joe Stalin Sextet
+04_She Never Said No At The Time - Distant Guns
+05_ 2008 Toronto Rock Season - Peter Wyeth
+06_Bedford Falls - Dovo of Solingen
+07_Laughing Box - Gray from Mentira
+08_A Beckoning, A Reckoning - Palmer Eldritch
+09_IQ Of 80 In Room No.8 - gem*
+10_Man Was Born Free And He Is Everywhere In Chains - Soul Sonic Sauce
+11_The Billowy Black - Torpedo Kutasai
+12_Trading Camels - Chelsea Clinton
+13_It's About Time You Went Home - Logfox
+14_My Favourite Made-Up Drug (Riviera Mix) - Nathan Heretic-Angelic</itunes:summary>
+ <itunes:explicit>No</itunes:explicit>
+ <itunes:keywords>Pineapster, Leicester</itunes:keywords>
+ <itunes:duration>01:01:27</itunes:duration>
+ <itunes:image href="http://cuttlefish.jellycast.com/files/prag4_small.png" />
+<media:content url="http://cuttlefish.jellycast.com/files/audio/Pineapster%20Random%20Audio%20Generator%20No.1.mp3" fileSize="88938667" type="audio/mpeg" /><itunes:subtitle>Pineapster Random Audio Generator</itunes:subtitle><feedburner:origLink>http://cuttlefish.jellycast.com/node/38</feedburner:origLink></item>
+
+<item>
+ <title>PRAG 2</title>
+ <link>http://feedproxy.google.com/~r/pineapsterrandomaudiogenerator/~3/wtuQ5Lej2JM/37</link>
+ <description>Illinois Death Spree - The Mountain
+Solid - Bobby The Boss-eyed Sniffer Dog
+Mike Deathray - Evo-Stik
+The Joe Stalin Sextet - Fridge Full Of Pizza
+The Sixth Southern Secular Tabernacle of Blues &amp; Soul - Mmmmmmm... Shake 'Dem Sausages!
+Les Tonton Macoutes - Enter Homo Sapien
+Jimmy Olsen And His Wonderful Camera - Kafka, Are You Shore?
+Luke Warm - The Code of Hammurabi
+Pseudonyx - Medium Atomic Demolition Weapon
+Chelsea Clinton - Wanted For Sale
+The Inspectors - A Wonderfully Crafted Move
+DrumAliens - Messages From A Secret Lover</description>
+ <enclosure url="http://cuttlefish.jellycast.com/files/audio/Pineapster%20Random%20Audio%20Generator%20No.2.mp3" length="73511996" type="audio/mpeg" />
+ <pubDate>Tue, 03 Nov 2009 23:56:19 +0000</pubDate>
+ <content:encoded><![CDATA[Shake 'Dem Sausages!
+Les Tonton Macoutes - Enter Homo Sapien
+Jimmy Olsen And His Wonderful Camera - Kafka, Are You Shore?
+Luke Warm - The Code of Hammurabi
+Pseudonyx - Medium Atomic Demolition Weapon
+Chelsea Clinton - Wanted For Sale
+The Inspectors - A Wonderfully Crafted Move
+DrumAliens - Messages From A Secret Lover<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/pineapsterrandomaudiogenerator?a=wtuQ5Lej2JM:-wKfqeRT2ZQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/pineapsterrandomaudiogenerator?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/pineapsterrandomaudiogenerator/~4/wtuQ5Lej2JM" height="1" width="1" alt=""/>]]></content:encoded>
+ <comments>http://cuttlefish.jellycast.com/node/37</comments>
+ <dc:creator>podcasts@cuttlefish.com</dc:creator>
+ <guid isPermaLink="false">http://cuttlefish.jellycast.com/node/37</guid>
+ <itunes:summary>Illinois Death Spree - The Mountain
+Solid - Bobby The Boss-eyed Sniffer Dog
+Mike Deathray - Evo-Stik
+The Joe Stalin Sextet - Fridge Full Of Pizza
+The Sixth Southern Secular Tabernacle of Blues &amp; Soul - Mmmmmmm... Shake 'Dem Sausages!
+Les Tonton Macoutes - Enter Homo Sapien
+Jimmy Olsen And His Wonderful Camera - Kafka, Are You Shore?
+Luke Warm - The Code of Hammurabi
+Pseudonyx - Medium Atomic Demolition Weapon
+Chelsea Clinton - Wanted For Sale
+The Inspectors - A Wonderfully Crafted Move
+DrumAliens - Messages From A Secret Lover</itunes:summary>
+ <itunes:explicit>No</itunes:explicit>
+ <itunes:keywords>Pineapster, Leicester</itunes:keywords>
+ <itunes:duration>00:49:18</itunes:duration>
+ <itunes:image href="http://cuttlefish.jellycast.com/files/prag4_small.png" />
+<media:content url="http://cuttlefish.jellycast.com/files/audio/Pineapster%20Random%20Audio%20Generator%20No.2.mp3" fileSize="73511996" type="audio/mpeg" /><itunes:subtitle>Pineapster Random Audio Generator</itunes:subtitle><feedburner:origLink>http://cuttlefish.jellycast.com/node/37</feedburner:origLink></item>
+
+<item>
+ <title>PRAG 3</title>
+ <link>http://feedproxy.google.com/~r/pineapsterrandomaudiogenerator/~3/yiUhhDUVdgQ/31</link>
+ <description>Track	Time		Title / Artist								Inspired by
+
+00	00:00		PRAG 3 Intro by PRAGMaster						Pearl &amp; Dean
+01	00:19		Mandrake's Apology by Postkogeko 					Group Captain Mandrake (Dr.Strangelove)
+02	04:12		Mothman by The Splendid Droplets					Mothman (The Mothman Prophecies)
+03	08:26		Brazilian by Replicants							Sam Lowry (Brazil)
+04	13:27		I Couldn't Even Buy Your Love by Solid					Caleb Trask (East Of Eden)
+05	16:47		Mercenary by Gizz And The Headkicks					Madmartigan (Willow)
+06	20:01		Bela Lugosi And His Race Of Atomic Superhumans by Mark Fernando		Bela Lugosi (Ed Wood)
+07	23:38		The Great Pretender by Darko						McMurphy (One Flew Over The Cuckoo's Nest)
+08	27:40		Baron Bomburst by Sexy Kenny And The War Machine			Baron Bomburst (Chitty Chitty Bang Bang)
+09	30:40		Bennet's Dying Thoughts by Batman Killed My Dad				Bennett (Commando)
+10	35:46		T2 by Jack Bomb								John Connor (Terminator 2: Judgment Day)
+11	40:24		Finney by Echoes Of Khan						Arthur (Saturday Night And Sunday Morning)
+12	43:08		Neville by Jimmy Olsen And His Magnificent Camera			Neville Flynn (Snakes On A Plane)
+13	47:05		HAL 9000 by Mike Deathray						HAL 9000 (2001: A Space Odyssey)
+14	50:34		Welcome, Ladies by DrumAliens						Gunnery Sgt Hartman (Full Metal Jacket)</description>
+ <enclosure url="http://cuttlefish.jellycast.com/files/audio/Pineapster%20Random%20Audio%20Generator%20No.3.mp3" length="52977652" type="audio/mpeg" />
+ <pubDate>Wed, 04 Nov 2009 00:19:44 +0000</pubDate>
+ <content:encoded><![CDATA[Track	Time		Title / Artist								Inspired by
+
+00	00:00		PRAG 3 Intro by PRAGMaster						Pearl & Dean
+01	00:19		Mandrake's Apology by Postkogeko 					Group Captain Mandrake (Dr.Strangelove)
+02	04:12		Mothman by The Splendid Droplets					Mothman (The Mothman Prophecies)
+03	08:26		Brazilian by Replicants							Sam Lowry (Brazil)
+04	13:27		I Couldn't Even Buy Your Love by Solid					Caleb Trask (East Of Eden)
+05	16:47		Mercenary by Gizz And The Headkicks					Madmartigan (Willow)
+06	20:01		Bela Lugosi And His Race Of Atomic Superhumans by Mark Fernando		Bela Lugosi (Ed Wood)
+07	23:38		The Great Pretender by Darko						McMurphy (One Flew Over The Cuckoo's Nest)<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/pineapsterrandomaudiogenerator?a=yiUhhDUVdgQ:RC9E7BVZWpw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/pineapsterrandomaudiogenerator?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/pineapsterrandomaudiogenerator/~4/yiUhhDUVdgQ" height="1" width="1" alt=""/>]]></content:encoded>
+ <comments>http://cuttlefish.jellycast.com/node/31</comments>
+ <dc:creator>podcasts@cuttlefish.com</dc:creator>
+ <guid isPermaLink="false">http://cuttlefish.jellycast.com/node/31</guid>
+ <itunes:summary>Track	Time		Title / Artist								Inspired by
+
+00	00:00		PRAG 3 Intro by PRAGMaster						Pearl &amp; Dean
+01	00:19		Mandrake's Apology by Postkogeko 					Group Captain Mandrake (Dr.Strangelove)
+02	04:12		Mothman by The Splendid Droplets					Mothman (The Mothman Prophecies)
+03	08:26		Brazilian by Replicants							Sam Lowry (Brazil)
+04	13:27		I Couldn't Even Buy Your Love by Solid					Caleb Trask (East Of Eden)
+05	16:47		Mercenary by Gizz And The Headkicks					Madmartigan (Willow)
+06	20:01		Bela Lugosi And His Race Of Atomic Superhumans by Mark Fernando		Bela Lugosi (Ed Wood)
+07	23:38		The Great Pretender by Darko						McMurphy (One Flew Over The Cuckoo's Nest)</itunes:summary>
+ <itunes:explicit>No</itunes:explicit>
+ <itunes:keywords>Pineapster, Leicester</itunes:keywords>
+ <itunes:duration>00:55:05</itunes:duration>
+ <itunes:image href="http://cuttlefish.jellycast.com/files/prag4_small.png" />
+<media:content url="http://cuttlefish.jellycast.com/files/audio/Pineapster%20Random%20Audio%20Generator%20No.3.mp3" fileSize="52977652" type="audio/mpeg" /><itunes:subtitle>Pineapster Random Audio Generator</itunes:subtitle><feedburner:origLink>http://cuttlefish.jellycast.com/node/31</feedburner:origLink></item>
+
+<media:credit role="author">cuttlefish</media:credit><media:rating>nonadult</media:rating><media:description type="plain">Pineapster Random Audio Generator</media:description></channel>
+</rss>

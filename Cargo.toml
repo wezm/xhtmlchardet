@@ -1,0 +1,7 @@
+[package]
+name = "xhtmlchardet"
+version = "0.1.0"
+authors = ["Wesley Moore <wes@wezm.net>"]
+
+[dev-dependencies]
+toml = "*"

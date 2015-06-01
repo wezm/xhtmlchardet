@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<language>ja</language>
+<title>【Season1】麻貝結衣の今夜は朝帰り -iTunes Podcast-</title>
+<description>Connect harmony with Life.一日の終わりに、一日の始まりに。「麻貝結衣の今夜は朝帰り」///「麻貝結衣の今夜は朝帰り」は、毎月の定期生放送とポッドキャストで、日常のトピックスや音楽サークル「Groovoxe」情報などを配信します。また、番組は新しい「可能性」を追求します。普段とは違う…、旅人・音楽家・作家としての、麻貝結衣を。さらには実験的に放送される新しい試みも...。歴史と自然に包まれる放送室から、麻貝結衣がお送りします。</description>
+<link>http://yui-asagaeri.jimdo.com/</link>
+<copyright>麻貝結衣Project/Project_Yui_Asagai</copyright>
+<image>
+<url>http://kugleewave.web.fc2.com/icon.jpg</url>
+<title>【Season1】麻貝結衣の今夜は朝帰り -iTunes Podcast-</title>
+<link>http://yui-asagaeri.jimdo.com/</link>
+</image>        
+<lastBuildDate>Sat, 06 July 2013 0:0:0 +0900</lastBuildDate>
+<pubDate>Fri, 05 July 2013 0:0:0 +0900</pubDate>
+<itunes:subtitle>真夜中、音楽の祭典</itunes:subtitle>
+<itunes:summary>Connect harmony with Life.一日の終わりに、一日の始まりに。「麻貝結衣の今夜は朝帰り」///「麻貝結衣の今夜は朝帰り」は、毎月の定期生放送とポッドキャストで、日常のトピックスや音楽サークル「Groovoxe」情報などを配信します。また、番組は新しい「可能性」を追求します。普段とは違う…、旅人・音楽家・作家としての、麻貝結衣を。さらには実験的に放送される新しい試みも...。歴史と自然に包まれる放送部スタジオから、麻貝結衣がお送りします。/なお、iTunes Podcast版はサーバー都合上ダイジェスト版となります。本放送をお聞きになりたい場合は、ウェブサイトのリンクを参照してください。</itunes:summary>
+<itunes:author>Yui_Asagai</itunes:author>
+<itunes:owner>
+<itunes:name>Yui_Asagai</itunes:name>
+<itunes:email>tadashi213@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:category text="Music"/> 
+<itunes:keywords>ambient,pop,lounge,piano,vocaloid,travel,train,techno,instrumental,anime,talk,FM,KOBE</itunes:keywords>
+<itunes:image href="http://kugleewave.web.fc2.com/icon.jpg"/>        <itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<image>
+<title>麻貝結衣の今夜は朝帰りVol.001</title>
+<url>
+http://kugleewave.web.fc2.com/icon.jpg
+</url>	
+<link>http://yui-asagaeri.jimdo.com/</link>
+</image>
+<item>
+<title>麻貝結衣の今夜は朝帰りVol.001</title>
+<itunes:author>麻貝結衣</itunes:author>
+<itunes:subtitle>「麻貝結衣」、何する者ぞ</itunes:subtitle>
+<itunes:summary>麻貝結衣の今夜は朝帰りVol.001_配信日2012-10-31_「麻貝結衣」、何する者ぞ_高校演劇について語る</itunes:summary>
+<enclosure url="http://yui-asagaeri.up.seesaa.net/image/Asayui_radio_pc_001.mp3" length="21598659" type="audio/mpeg" />
+<guid></guid>
+<pubDate>Wed, 31 Oct 2012 19:00:00 GMT</pubDate>
+<itunes:duration>00:17:59</itunes:duration>
+</item>
+<image>
+<title>麻貝結衣の今夜は朝帰りVol.002</title>
+<url>
+http://kugleewave.web.fc2.com/icon.jpg
+</url>	
+<link>http://yui-asagaeri.jimdo.com/</link>
+</image>
+<item>
+<title>麻貝結衣の今夜は朝帰りVol.002</title>
+<description>麻貝結衣の今夜は朝帰りVol.002_配信日2013-02-27_「totes_amaze」東京レコーディング報告_鴨川・江ノ島でのアニメコンテンツツーリズムのフィールドワークから学んだこと</description> 
+<link></link>  
+<enclosure url="http://yui-asagaeri.up.seesaa.net/image/Asayui_radio_pc_002.mp3" length="20339557" type="audio/mpeg"/>
+<pubDate>Wed, 27 Feb 2013 0:0:0 +0900</pubDate>
+<itunes:subtitle>研究者としての「麻貝結衣」</itunes:subtitle>
+<itunes:summary>麻貝結衣の今夜は朝帰りVol.002_「totes_amaze」東京レコーディング報告_鴨川・江ノ島でのアニメコンテンツツーリズムのフィールドワークから学んだこと</itunes:summary>
+<itunes:image href="http://yui-asagaeri.up.seesaa.net/image/iTunesimage201.jpg"/>
+<itunes:duration>00:16:56</itunes:duration>
+<itunes:author>Yui_Asagai</itunes:author>
+<itunes:keywords>ambient,pop,lounge,piano,vocaloid,travel,train,techno,instrumental,anime,talk,FM,KOBE</itunes:keywords>  
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<image>
+<title>麻貝結衣の今夜は朝帰りVol.003</title>
+<url>
+http://kugleewave.web.fc2.com/icon.jpg
+</url>	
+<link>http://yui-asagaeri.jimdo.com/</link>
+</image>
+<item>
+<title>麻貝結衣の今夜は朝帰りVol.003</title>
+<description>麻貝結衣の今夜は朝帰りVol.003_配信日2013-03-29_Groovoxeの内輪話と未来について_「おじゃり申せ、種子島！」たねがしまロケットマラソンとフィールドワーク</description> 
+<link></link>  
+<enclosure url="http://yui-asagaeri.up.seesaa.net/image/Asayui_radio_pc_003.mp3" length="21599130" type="audio/mpeg"/>
+<pubDate>Fri, 29 Mar 2013 0:0:0 +0900</pubDate>
+<itunes:subtitle>「おじゃり申せ、種子島！」走る麻貝結衣</itunes:subtitle>
+<itunes:summary>麻貝結衣の今夜は朝帰りVol.003_Groovoxeの内輪話と未来について_「おじゃり申せ、種子島！」たねがしまロケットマラソンとフィールドワーク</itunes:summary>
+<itunes:image href="http://yui-asagaeri.up.seesaa.net/image/iTunesimage201.jpg"/>
+<itunes:duration>00:17:59</itunes:duration>
+<itunes:author>Yui_Asagai</itunes:author>
+<itunes:keywords>ambient,pop,lounge,piano,vocaloid,travel,train,techno,instrumental,anime,talk,FM,KOBE,TANEGASHIMA,ROCKET,MARATHON</itunes:keywords>  
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<image>
+<title>麻貝結衣の今夜は朝帰りVol.004</title>
+<url>
+http://kugleewave.web.fc2.com/icon.jpg
+</url>	
+<link>http://yui-asagaeri.jimdo.com/</link>
+</image>
+<item>
+<title>麻貝結衣の今夜は朝帰りVol.004</title>
+<description>麻貝結衣の今夜は朝帰りVol.004_配信日2013-09-13_道具としての「萌え」とアニメーション_セルティックと音楽</description> 
+<link></link>  
+<enclosure url="http://yui-asagaeri.up.seesaa.net/image/Asayui_radio_pc_004.mp3" length="16863646" type="audio/mpeg"/>
+<pubDate>Fri, 13 Sep 2013 0:0:0 +0900</pubDate>
+<itunes:subtitle>「サブカルチャー・観光研究家」としての麻貝結衣</itunes:subtitle>
+<itunes:summary>麻貝結衣の今夜は朝帰りVol.004_道具としての「萌え」とアニメーション_セルティックと音楽</itunes:summary>
+<itunes:image href="http://yui-asagaeri.up.seesaa.net/image/iTunesimage201.jpg"/>
+<itunes:duration>00:14:02</itunes:duration>
+<itunes:author>Yui_Asagai</itunes:author>
+<itunes:keywords>ambient,pop,lounge,piano,vocaloid,travel,train,techno,instrumental,anime,talk,FM,KOBE,Kotonohanoniwa,Anime,Movie</itunes:keywords>  
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<image>
+<title>麻貝結衣の今夜は朝帰りVol.006</title>
+<url>
+http://kugleewave.web.fc2.com/icon.jpg
+</url>	
+<link>http://yui-asagaeri.jimdo.com/</link>
+</image>
+<item>
+<title>麻貝結衣の今夜は朝帰りVol.006</title>
+<description>麻貝結衣の今夜は朝帰りVol.006_配信日2013-12-06_アルバム「Modern_Robin_Hood」を手に語る</description> 
+<link></link>  
+<enclosure url="http://yui-asagaeri.up.seesaa.net/image/Asayui_radio_pc_006.mp3" length="21997098" type="audio/mpeg"/>
+<pubDate>Fri, 06 Dec 2013 0:0:0 +0900</pubDate>
+<itunes:subtitle>アルバム「Modern_Robin_Hood」完成記念放送回-その苦労と喜び、また日常について語る</itunes:subtitle>
+<itunes:summary>麻貝結衣の今夜は朝帰りVol.006_アルバム「Modern Robin Hood」を手に語る</itunes:summary>
+<itunes:image href="http://yui-asagaeri.up.seesaa.net/image/iTunesimage201.jpg"/>
+<itunes:duration>00:18:17</itunes:duration>
+<itunes:author>Yui_Asagai</itunes:author>
+<itunes:keywords>ambient,pop,lounge,piano,vocaloid,travel,train,techno,instrumental,anime,talk,FM,KOBE,Kotonohanoniwa,Anime,Movie,Car,Drive,ピアノ,アンビエント,ドライブ,車,ラジオ,トーク,アニメ,旅</itunes:keywords>  
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<image>
+<title>麻貝結衣の今夜は朝帰りVol.008</title>
+<url>
+http://kugleewave.web.fc2.com/icon.jpg
+</url>	
+<link>http://yui-asagaeri.jimdo.com/</link>
+</image>
+<item>
+<title>麻貝結衣の今夜は朝帰りVol.008</title>
+<description>麻貝結衣の今夜は朝帰りVol.008_配信日2014-03-27_クルマを語らう/「走る喜びとは何ぞや」「初音ミクBMW-GSR今年の展望」</description> 
+<link></link>  
+<enclosure url="http://yui-asagaeri.up.seesaa.net/image/Asayui_radio_pc_008.mp3" length="23428977" type="audio/mpeg"/>
+<pubDate>Thu, 27 Mar 2014 0:0:0 +0900</pubDate>
+<itunes:subtitle>「走る喜び」がそこにはある。そのためのクルマとは一体何なのか。麻貝結衣がドライブ経験から語ります</itunes:subtitle>
+<itunes:summary>カードライブレビューSkyActiveTechnology搭載「マツダ・デミオ」に乗ってみた/「初音ミクBMW」GSR今年もSuperGT300に参戦!!</itunes:summary>
+<itunes:image href="http://yui-asagaeri.up.seesaa.net/image/iTunesimage201.jpg"/>
+<itunes:duration>00:16:14</itunes:duration>
+<itunes:author>Yui_Asagai</itunes:author>
+<itunes:keywords>ambient,pop,lounge,piano,vocaloid,travel,train,techno,instrumental,anime,talk,FM,KOBE,Kotonohanoniwa,Anime,Movie,Car,Drive,ピアノ,アンビエント,ドライブ,車,ラジオ,トーク,アニメ,旅</itunes:keywords>  
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+</channel>
+</rss>

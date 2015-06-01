@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    version="2.0">
+    <channel>
+        <title>TonyOn - DJ mixes</title>
+        <description>Mixes full of beautiful progressive house, smart tech house and hot spain vocal house from resident dj of the most popular afterparty in Moscow/RU.</description>
+        <link>itpc://www.djtonyon.ru/podcast/</link>
+        <category domain="">Afterparty</category>
+        <copyright>Promo use only. Not for sale.</copyright>
+        <language>ru-ru</language>
+        <lastBuildDate>Wed, 21 Dec 2011 12:47:20 +0400</lastBuildDate>
+        <managingEditor>mail@tonyon.ru</managingEditor>
+        <pubDate>Wed, 21 Dec 2011 12:47:05 +0400</pubDate>
+        <generator>FeedForAll v2.0 (2.0.3.1) unlicensed version http://www.feedforall.com</generator>
+        <itunes:subtitle>TonyOn DJ mixes</itunes:subtitle>
+        <itunes:summary>Mixes full of beautiful progressive house, smart tech house and hot spain vocal house from resident dj of the most popular afterparty in Moscow/RU.</itunes:summary>
+        <itunes:author>TonyOn</itunes:author>
+        <itunes:owner>
+            <itunes:name>TonyOn</itunes:name>
+            <itunes:email>mail@tonyon.ru</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Music"/>
+        <itunes:keywords>tonyon, afterparty, chuba bar, chubabar, afterhours, bvp, progressive, tech, чубабар, тонион, бвп, beautiful</itunes:keywords>
+        <itunes:image href="http://www.djtonyon.ru/img/tonyon_2_medsquare_bego.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+        <image>
+            <url>http://www.djtonyon.ru/img/tonyon_2_medsquare_bego.jpg</url>
+            <title>TonyOn - DJ mixes</title>
+            <link>itpc://www.djtonyon.ru/podcast/</link>
+            <description>TonyOn - DJ mixes</description>
+            <width>144</width>
+            <height>144</height>
+        </image>
+        <item>
+            <title>Happy Birthday 2011</title>
+            <description>My Birthday mix / Progressive house</description>
+            <link>http://www.djtonyon.ru/mp3/tonyon_hb2011.mp3</link>
+            <author>mail@tonyon.ru</author>
+            <category domain="">Music</category>
+            <enclosure url="http://www.djtonyon.ru/mp3/tonyon_hb2011.mp3" length="181228161" type="audio/mpeg"/>
+            <guid isPermaLink="false">http://www.djtonyon.ru/mp3/tonyon_hb2011.mp3</guid>
+            <pubDate>Wed, 21 Dec 2011 12:27:40 +0400</pubDate>
+            <itunes:subtitle>My Birthday mix / Progressive house</itunes:subtitle>
+            <itunes:summary>My Birthday mix / Progressive house</itunes:summary>
+            <itunes:duration>01:15:27</itunes:duration>
+            <itunes:author>TonyOn</itunes:author>
+            <itunes:keywords>progressive, bvp, chubabar, tonyon, tony on, chuba bar</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+        <item>
+            <title>Stan-is-Love</title>
+            <description>Stan-is-Love birthday mix</description>
+            <link>http://www.djtonyon.ru/mp3/tonyon_stan_is_love.mp3</link>
+            <author>mail@tonyon.ru</author>
+            <category domain="">Music</category>
+            <enclosure url="http://www.djtonyon.ru/mp3/tonyon_stan_is_love.mp3" length="169471053" type="audio/mpeg"/>
+            <guid isPermaLink="true">http://www.djtonyon.ru/mp3/tonyon_stan_is_love.mp3</guid>
+            <pubDate>Sun, 27 Mar 2011 03:04:12 +0400</pubDate>
+            <itunes:subtitle>Stan-is-Love birthday mix</itunes:subtitle>
+            <itunes:summary>Stan-is-Love birthday mix</itunes:summary>
+            <itunes:duration>1:09:55</itunes:duration>
+            <itunes:author>TonyOn</itunes:author>
+            <itunes:keywords>progressive, stan-is-love, stanislove, stanislav, stany, house, club, music, dj, tonyon, tony on, tony-on</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+        <item>
+            <title>Impress!</title>
+            <description>Birthday mix 2010 @ Chubabar&lt;br /&gt;
+For &quot;Colors motion&quot; project</description>
+            <link>http://www.djtonyon.ru/mp3/tonyon_vpechatlyat.mp3</link>
+            <author>mail@tonyon.ru</author>
+            <category domain="">Music</category>
+            <enclosure url="http://www.djtonyon.ru/mp3/tonyon_vpechatlyat.mp3" length="191914515" type="audio/mpeg"/>
+            <guid isPermaLink="true">http://www.djtonyon.ru/mp3/tonyon_vpechatlyat.mp3</guid>
+            <pubDate>Fri, 15 Oct 2010 03:04:57 +0400</pubDate>
+            <itunes:subtitle>Birthday mix 2010 @ Chubabar for &quot;Colors motion&quot; project</itunes:subtitle>
+            <itunes:summary>Birthday mix 2010 @ Chubabar for &quot;Colors motion&quot; project</itunes:summary>
+            <itunes:duration>1:19:56</itunes:duration>
+            <itunes:author>TonyOn</itunes:author>
+            <itunes:keywords>progressive, impress, vpechatlyat, house, club, music, dj, tonyon, tony on, tony-on</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+        <item>
+            <title>Orange</title>
+            <description>Promo mix for Chinatown parties @ Propaganda night club / Tech house</description>
+            <link>http://www.djtonyon.ru/mp3/tonyon_orange.mp3</link>
+            <author>mail@tonyon.ru</author>
+            <category domain="">Music</category>
+            <enclosure url="http://www.djtonyon.ru/mp3/tonyon_orange.mp3" length="170923179" type="audio/mpeg"/>
+            <guid isPermaLink="true">http://www.djtonyon.ru/mp3/tonyon_orange.mp3</guid>
+            <pubDate>Tue, 1 Jun 2010 03:06:17 +0400</pubDate>
+            <itunes:subtitle>Promo for Chinatown 06/2010 @ Propaganda / Tech house</itunes:subtitle>
+            <itunes:summary>Promo mix for Chinatown parties at Propaganda night club / Tech house</itunes:summary>
+            <itunes:duration>1:11:11</itunes:duration>
+            <itunes:author>TonyOn</itunes:author>
+            <itunes:keywords>orange, tech, house, club, music, dj, tonyon, tony on, tony-on, propaganda, chinatown, china town</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+        <item>
+            <title>This is my birthday / 2009</title>
+            <description>My Birthday mix / Progressive house</description>
+            <link>http://www.djtonyon.ru/mp3/tonyon_my_twentyseven.mp3</link>
+            <author>mail@tonyon.ru</author>
+            <category domain="">Music</category>
+            <enclosure url="http://www.djtonyon.ru/mp3/tonyon_my_twentyseven.mp3" length="190675577" type="audio/mpeg"/>
+            <guid isPermaLink="true">http://www.djtonyon.ru/mp3/tonyon_my_twentyseven.mp3</guid>
+            <pubDate>Mon, 14 Dec 2009 02:07:20 +0300</pubDate>
+            <itunes:subtitle>Birthday mix 14.12.2009 @ Home / Progressive house</itunes:subtitle>
+            <itunes:summary>My Birthday mix / Progressive house</itunes:summary>
+            <itunes:duration>1:19:21</itunes:duration>
+            <itunes:author>TonyOn</itunes:author>
+            <itunes:keywords>this, is, my, birthday, tonyon, tony on, tony-on, progressive, house</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+        <item>
+            <title>Destinations</title>
+            <description>Destinations / Progressive house</description>
+            <link>http://www.djtonyon.ru/mp3/tonyon_destinations.mp3</link>
+            <author>mail@tonyon.ru</author>
+            <category domain="">Music</category>
+            <enclosure url="http://www.djtonyon.ru/mp3/tonyon_destinations.mp3" length="189285261" type="audio/mpeg"/>
+            <guid isPermaLink="true">http://www.djtonyon.ru/mp3/tonyon_destinations.mp3</guid>
+            <pubDate>Sat, 28 Nov 2009 02:08:27 +0300</pubDate>
+            <itunes:subtitle>Destinations - 28.11.2009 @ Home / Progressive house</itunes:subtitle>
+            <itunes:summary>Destinations / Progressive house</itunes:summary>
+            <itunes:duration>1:18:52</itunes:duration>
+            <itunes:author>TonyOn</itunes:author>
+            <itunes:keywords>destinations, tonyon, tony on, tony-on, progressive, house</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+        <item>
+            <title>Reflections in Plexiglass</title>
+            <description>Reflections in Plexiglass / Tech house</description>
+            <link>http://www.djtonyon.ru/mp3/tonyon_reflections_in_plexiglass.mp3</link>
+            <author>mail@tonyon.ru</author>
+            <category domain="">Music</category>
+            <enclosure url="http://www.djtonyon.ru/mp3/tonyon_reflections_in_plexiglass.mp3" length="131655680" type="audio/mpeg"/>
+            <guid isPermaLink="true">http://www.djtonyon.ru/mp3/tonyon_reflections_in_plexiglass.mp3</guid>
+            <pubDate>Fri, 30 Oct 2009 03:11:36 +0300</pubDate>
+            <itunes:subtitle>Reflections in Plexiglass - 30.10.2009 @ Home / Tech house</itunes:subtitle>
+            <itunes:summary>Reflections in Plexiglass / Tech house</itunes:summary>
+            <itunes:duration>1:17:52</itunes:duration>
+            <itunes:author>TonyOn</itunes:author>
+            <itunes:keywords>reflections, in, plexiglass tonyon, tony on, tony-on, progressive, house</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+        <item>
+            <title>Pride 2009</title>
+            <description>Pride 2009 / Tribal house</description>
+            <link>http://www.djtonyon.ru/mp3/tonyon_pride.mp3</link>
+            <author>mail@tonyon.ru</author>
+            <category domain="">Music</category>
+            <enclosure url="http://www.djtonyon.ru/mp3/tonyon_pride.mp3" length="114564360" type="audio/mpeg"/>
+            <guid isPermaLink="true">http://www.djtonyon.ru/mp3/tonyon_pride.mp3</guid>
+            <pubDate>Sun, 3 May 2009 03:08:54 +0400</pubDate>
+            <itunes:subtitle>Pride 2009 / Tribal house</itunes:subtitle>
+            <itunes:summary>Pride 2009 / Tribal house</itunes:summary>
+            <itunes:duration>1:19:06</itunes:duration>
+            <itunes:author>TonyOn</itunes:author>
+            <itunes:keywords>pride, 2009, amsterdam, rapido, tribal, house, club, music, dj, tonyon, tony on, tony-on</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+        <item>
+            <title>Music is salvation</title>
+            <description>Music is salvation - My Birthday mix / Progressive house</description>
+            <link>http://www.djtonyon.ru/mp3/tonyon_music_is_salvation.mp3</link>
+            <author>mail@tonyon.ru</author>
+            <category domain="">Music</category>
+            <enclosure url="http://www.djtonyon.ru/mp3/tonyon_music_is_salvation.mp3" length="112343040" type="audio/mpeg"/>
+            <guid isPermaLink="true">http://www.djtonyon.ru/mp3/tonyon_music_is_salvation.mp3</guid>
+            <pubDate>Sun, 14 Dec 2008 02:09:41 +0300</pubDate>
+            <itunes:subtitle>Music is salvation - Birthday mix 14.12.2008 @ Home / Progressive house</itunes:subtitle>
+            <itunes:summary>Music is salvation - My Birthday mix / Progressive house</itunes:summary>
+            <itunes:duration>1:18:00</itunes:duration>
+            <itunes:author>TonyOn</itunes:author>
+            <itunes:keywords>music, is, salvation, 26, tonyon, tony on, tony-on, progressive, house</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+        <item>
+            <title>Grapefruit music</title>
+            <description>Chill house</description>
+            <link>http://www.djtonyon.ru/mp3/tonyon_grapefruit_music.mp3</link>
+            <author>mail@tonyon.ru</author>
+            <category domain="">Music</category>
+            <enclosure url="http://www.djtonyon.ru/mp3/tonyon_grapefruit_music.mp3" length="64129024" type="audio/mpeg"/>
+            <guid isPermaLink="true">http://www.djtonyon.ru/mp3/tonyon_grapefruit_music.mp3</guid>
+            <pubDate>Fri, 10 Oct 2008 03:11:26 +0400</pubDate>
+            <itunes:subtitle>Grapefruit music - 10.10.2008 / Chill house</itunes:subtitle>
+            <itunes:summary>Grapefruit music / Chill house</itunes:summary>
+            <itunes:duration>44:32</itunes:duration>
+            <itunes:author>TonyOn</itunes:author>
+            <itunes:keywords>grape, fruit, vodka, finlandia, promo, tonyon, tony on, tony-on, chill, house</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+        <item>
+            <title>Tribal never die</title>
+            <description>Tribal</description>
+            <link>http://www.djtonyon.ru/mp3/tonyon_tribal_never_die.mp3</link>
+            <author>mail@tonyon.ru</author>
+            <category domain="">Music</category>
+            <enclosure url="http://www.djtonyon.ru/mp3/tonyon_tribal_never_die.mp3" length="130772992" type="audio/mpeg"/>
+            <guid isPermaLink="true">http://www.djtonyon.ru/mp3/tonyon_tribal_never_die.mp3</guid>
+            <pubDate>Tue, 1 Jul 2008 03:13:57 +0400</pubDate>
+            <itunes:subtitle>Tribal never die - 01.07.2008 / Tribal house</itunes:subtitle>
+            <itunes:summary>Tribal never die / Tribal house</itunes:summary>
+            <itunes:duration>1:17:50</itunes:duration>
+            <itunes:author>TonyOn</itunes:author>
+            <itunes:keywords>tribal, tonyon, rapido</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+    </channel>
+</rss>

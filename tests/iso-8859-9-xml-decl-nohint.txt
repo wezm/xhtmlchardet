@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="ISO-8859-9" standalone="yes"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+	<title>Michael Kuyucu Podcast</title>
+	<link>http://www.michaelshow.com/</link>
+	<language>tr-TR</language>
+	<copyright>Michael Kuyucu</copyright>
+	<itunes:subtitle>Michael Kuyucu Podcast</itunes:subtitle>
+	<itunes:author>Michael Kuyucu</itunes:author>
+	<itunes:summary>Michael Kuyucu Podcast</itunes:summary>
+	<description>Michael Kuyucu Podcast</description>
+	<image>
+		<title>Michael Kuyucu Podcast</title>
+		<url>http://www.michaelshow.com/podcast/michael_kuyucu_060315074907.jpg</url>
+		<link>http://www.michaelshow.com/</link>
+	</image>
+	<itunes:owner>
+		<itunes:name>Michael Kuyucu</itunes:name>
+	</itunes:owner>
+	<itunes:image href="http://www.michaelshow.com/podcast/michael_kuyucu_060315074907.jpg" />
+	<itunes:category text="Music"/>
+	<itunes:category text="Podcasting"/>
+	<itunes:keywords>Michael Kuyucu</itunes:keywords>
+	<itunes:explicit>clean</itunes:explicit>
+	<item>
+		<pubDate>Fri, 08 May 2015 14:17:38 GMT</pubDate>
+		<title>Alaturka Müziğin Kilometre Taşları Programı</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Türkçe Alaturka Nostalji Programı</itunes:subtitle>
+		<itunes:summary>Müziğin K.M. Taşları Programında 70&apos;ler- 80&apos;ler ve 90&apos;ların Sevilen Alaturka Şarkıları</itunes:summary>
+		<description>Müziğin K.M. Taşları Programında 70&apos;ler- 80&apos;ler ve 90&apos;ların Sevilen Alaturka Şarkıları</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/bf5a301c55af2f03312c58e26b27bdec.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Alaturka.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Alaturka.mp3</guid>
+		<itunes:duration>01:33:50</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Alaturka,  Nostalji, Oldies, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Fri, 17 Apr 2015 14:00:32 GMT</pubDate>
+		<title>Yılmaz Morgül</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Yılmaz Morgül&apos;ün Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Yılmaz Morgül Michael Kuyucu&apos;ya Çocukluk yıllarını ve müzik kariyerinin kilometre taşlarını anlattı.</itunes:summary>
+		<description>Yılmaz Morgül Michael Kuyucu&apos;ya Çocukluk yıllarını ve müzik kariyerinin kilometre taşlarını anlattı.</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/d30a4cd6d66837489f2e79b1b23aec4d.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Yilmaz_Morgul.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Yilmaz_Morgul.mp3</guid>
+		<itunes:duration>01:34:22</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Yılmaz Morgül</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Fri, 17 Apr 2015 12:01:34 GMT</pubDate>
+		<title>Selmi Andak</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Selmi Andak Şarkılarının Hikayesi</itunes:subtitle>
+		<itunes:summary>Selmi Andak, Michael Kuyucu Röportajı</itunes:summary>
+		<description>Selmi Andak, Michael Kuyucu Röportajı</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/1ae822fe1897eb660d9e20babec22c37.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Selmi_Andak.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Selmi_Andak.mp3</guid>
+		<itunes:duration>01:03:49</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Selmi Andak,  </itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Fri, 17 Apr 2015 12:00:13 GMT</pubDate>
+		<title>MFÖ - Mazhar Fuat Özkan</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Mazhar Fuat Özkan&apos;ın Collection Albümü</itunes:subtitle>
+		<itunes:summary>MFÖ Michael Kuyucu&apos;ya Collection Albümlerinin Hikayesini Anlattı</itunes:summary>
+		<description>MFÖ Michael Kuyucu&apos;ya Collection Albümlerinin Hikayesini Anlattı</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/06fa2292de987fd5d2e87492e8d6bf52.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/MFO.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/MFO.mp3</guid>
+		<itunes:duration>00:43:15</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>MFÖ, Mazhar Fuat Özkan, </itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Fri, 17 Apr 2015 11:58:35 GMT</pubDate>
+		<title>Bahadır Akkuzu - Kurtalan Ekspres</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Bahadır Akkuzu&apos;nun Kendi Sesinden Solo Albümünün Hikayesi</itunes:subtitle>
+		<itunes:summary>Bahadır Akkuzu&apos;nun Müzik Kariyeri ve solo albümü</itunes:summary>
+		<description>Bahadır Akkuzu&apos;nun Müzik Kariyeri ve solo albümü</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/035bef45f8ee407a15bdda7a9cf90466.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Bahadir_Akkuzu.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Bahadir_Akkuzu.mp3</guid>
+		<itunes:duration>00:41:19</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Bahadır Akkuzu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 31 Mar 2015 12:35:17 GMT</pubDate>
+		<title>Nalan </title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Of Aman Nalan&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Of Aman Nalan Müzik Kariyerini ve şarkılarının hikayesini Michael Kuyucu&apos;ya anlattı.</itunes:summary>
+		<description>Of Aman Nalan Müzik Kariyerini ve şarkılarının hikayesini Michael Kuyucu&apos;ya anlattı.</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/669962286608e4070bc811bfc7e1f267.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Nalan.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Nalan.mp3</guid>
+		<itunes:duration>01:34:03</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Nalan</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Thu, 12 Mar 2015 14:33:45 GMT</pubDate>
+		<title>Altay</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Altay&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Altay Michael Kuyucu&apos;ya Sahne Yaşamı ve müzik kariyerinin hikayesini anlatıyor</itunes:summary>
+		<description>Altay Michael Kuyucu&apos;ya Sahne Yaşamı ve müzik kariyerinin hikayesini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/8f27bcb749ecaaeb0e5bab78a0af911e.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Altay.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Altay.mp3</guid>
+		<itunes:duration>01:34:26</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Altay</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Thu, 12 Mar 2015 14:31:28 GMT</pubDate>
+		<title>Ercüment Vural</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Ercüment Vural&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Ercüment Vural Michael Kuyucu&apos;ya Müzik Kariyerini &quot;Gemiler&quot; Son Sigara&quot; Rüyalar&quot; ve diğer klasiklerinin hikayesini anlatıyor</itunes:summary>
+		<description>Ercüment Vural Michael Kuyucu&apos;ya Müzik Kariyerini &quot;Gemiler&quot; Son Sigara&quot; Rüyalar&quot; ve diğer klasiklerinin hikayesini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/13644301084e0c7e248337cebb0c25af.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/ErcumentVura.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/ErcumentVura.mp3</guid>
+		<itunes:duration>01:33:20</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Ercüment Vural</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Thu, 12 Mar 2015 14:28:36 GMT</pubDate>
+		<title>Deniz Arcak</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Deniz Arcak&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Deniz Arcak Michael Kuyucu&apos;ya Müzik Kariyerini Anlatıyor</itunes:summary>
+		<description>Deniz Arcak Michael Kuyucu&apos;ya Müzik Kariyerini Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/c4fd896bc24dcab9c81d66d1bf07e475.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/DenizArcak.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/DenizArcak.mp3</guid>
+		<itunes:duration>01:31:20</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Deniz Arcak</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:34:57 GMT</pubDate>
+		<title>Seyyal Taner</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Seyyal Taner&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Seyyal Taner Michael Kuyucu&apos;ya Müzik Kariyerini Anlatıyor</itunes:summary>
+		<description>Seyyal Taner Michael Kuyucu&apos;ya Müzik Kariyerini Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/92528c6b88b36182ad03cd969b6ac448.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Seyyal_Taner.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Seyyal_Taner.mp3</guid>
+		<itunes:duration>01:32:37</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Seyyal Taner, Nostalji, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:32:27 GMT</pubDate>
+		<title>Selçuk Alagöz</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Selçuk Alagöz&apos;ün Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Selçuk Alagöz Michael Kuyucu&apos;ya Müzik Kariyerini Anlatıyor</itunes:summary>
+		<description>Selçuk Alagöz Michael Kuyucu&apos;ya Müzik Kariyerini Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/a8ed1a08bbaa41f310716bbf59fef721.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Selcuk_Alagoz.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Selcuk_Alagoz.mp3</guid>
+		<itunes:duration>01:34:25</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Selçuk Alagöz, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:30:05 GMT</pubDate>
+		<title>Asu Maralman</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Asu Maralman&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Asu Maralman Michael Kuyucu&apos;ya Müzik Kariyerini Anlatıyor</itunes:summary>
+		<description>Asu Maralman Michael Kuyucu&apos;ya Müzik Kariyerini Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/718443480b1ee0387bfe4c0ff3b58d4b.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Asu_maralman.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Asu_maralman.mp3</guid>
+		<itunes:duration>01:33:18</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Asu Maralman, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:27:48 GMT</pubDate>
+		<title>Kıraç</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Kıraç&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Kıraç Michael Kuyucu&apos;ya Müzik Kariyerinin K.M. Taşlarını Anlatıyor</itunes:summary>
+		<description>Kıraç Michael Kuyucu&apos;ya Müzik Kariyerinin K.M. Taşlarını Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/127786b4b4bb86a8adf22b57c0af8dca.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Kirac.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Kirac.mp3</guid>
+		<itunes:duration>01:34:34</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Kıraç, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:25:26 GMT</pubDate>
+		<title>80&apos;ler Belgeseli</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>80&apos;lerin Sevilen Klasikleri Belgeseli</itunes:subtitle>
+		<itunes:summary>Michael Kuyucu&apos;nun Hazırlayıp Sunduğu 80ler Belgeseli</itunes:summary>
+		<description>Michael Kuyucu&apos;nun Hazırlayıp Sunduğu 80ler Belgeseli</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/fe8c98e606c230a801fc07e1ec64b101.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/80_Ler.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/80_Ler.mp3</guid>
+		<itunes:duration>01:34:49</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>80ler, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:22:37 GMT</pubDate>
+		<title>Tual</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Tual Grubunun Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Sezi Michael Kuyucu&apos;ya Tual Grubu ve Solo Kariyerinin Hikayesini Anlatıyor</itunes:summary>
+		<description>Sezi Michael Kuyucu&apos;ya Tual Grubu ve Solo Kariyerinin Hikayesini Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/ab52a59d8b0665973e316323e629cae0.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Tual.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Tual.mp3</guid>
+		<itunes:duration>01:33:20</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Tual</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:20:28 GMT</pubDate>
+		<title>Selim Çaldıran</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Selim Çaldıran&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Selim Çaldıran  Michael Kuyucu&apos;ya müzisyenlikten stüdyo patronluğuna uzanan müzik kariyerini anlatıyor</itunes:summary>
+		<description>Selim Çaldıran  Michael Kuyucu&apos;ya müzisyenlikten stüdyo patronluğuna uzanan müzik kariyerini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/be5e663f4bf2eddbcd7b5dd2a9b3605e.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Selim_Caldiran.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Selim_Caldiran.mp3</guid>
+		<itunes:duration>01:33:07</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Selim Çaldıran</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:18:05 GMT</pubDate>
+		<title>Zeki Müren Anma Programı</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Çağdaş ile Zeki Müren Canlı Şarkıları</itunes:subtitle>
+		<itunes:summary>Çağdaş ve Michael Kuyucu Sanat Güneşi Zeki Müren&apos;i Anıyor. </itunes:summary>
+		<description>Çağdaş ve Michael Kuyucu Sanat Güneşi Zeki Müren&apos;i Anıyor. </description>
+		<itunes:image href="http://www.michaelshow.com/podcast/32c1fcc24c6d629bfaabf83b90660805.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Zeki_Muren_Anma.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Zeki_Muren_Anma.mp3</guid>
+		<itunes:duration>01:31:35</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Zeki Müren</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:14:49 GMT</pubDate>
+		<title>Nino Varon</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Nino Varon&apos;un Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Nino Varon Michael Kuyucu&apos;ya Prodüktörlük Anılarını Anlatıyor</itunes:summary>
+		<description>Nino Varon Michael Kuyucu&apos;ya Prodüktörlük Anılarını Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/3a93e2212ea0521ceb5c7681a6205eee.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Nino_Varon.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Nino_Varon.mp3</guid>
+		<itunes:duration>01:34:06</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Nino Varon, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:12:33 GMT</pubDate>
+		<title>Eski 45&apos;ler Belgeseli</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Eski 45&apos;likler Belgeseli</itunes:subtitle>
+		<itunes:summary>Michael Kuyucu&apos;nun Sunumu ile Eski 45&apos;likler Belgeseli</itunes:summary>
+		<description>Michael Kuyucu&apos;nun Sunumu ile Eski 45&apos;likler Belgeseli</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/0418f3c1da15604678c7c63326cbbe49.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Eski_45likler.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Eski_45likler.mp3</guid>
+		<itunes:duration>01:33:06</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:10:01 GMT</pubDate>
+		<title>Sibel Tüzün</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Sibel Tüzün&apos;ün Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Sibel Tüzün Michaael Kuyucu&apos;ya Müzik Kariyerini Anlatıyor</itunes:summary>
+		<description>Sibel Tüzün Michaael Kuyucu&apos;ya Müzik Kariyerini Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/43864c87a7637894e87cdd6ebd181de6.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Sibel_Tuzun.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Sibel_Tuzun.mp3</guid>
+		<itunes:duration>01:33:10</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Sibel Tüzün</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:07:43 GMT</pubDate>
+		<title>Orhan Ölmez</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Orhan Ölmez&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Orhan Ölmez Michael Kuyucu&apos;ya Müzik Kariyerini Canlı müzik eşliğinde anlatıyor</itunes:summary>
+		<description>Orhan Ölmez Michael Kuyucu&apos;ya Müzik Kariyerini Canlı müzik eşliğinde anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/5f8c6a6a6d271269e8f53800dbcdf152.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Orhan_Olmez.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Orhan_Olmez.mp3</guid>
+		<itunes:duration>01:33:47</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Orhan Ölmez</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:05:23 GMT</pubDate>
+		<title>Niran Ünsal</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Niran Ünsal&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Niran Ünsal Michael Kuyucu&apos;ya Müzik Kariyerini ve Albümlerini Anlatıyor</itunes:summary>
+		<description>Niran Ünsal Michael Kuyucu&apos;ya Müzik Kariyerini ve Albümlerini Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/9f415323b8725be57a5e7724aac7673b.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Niran_Unsal.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Niran_Unsal.mp3</guid>
+		<itunes:duration>01:34:27</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Niran Ünsal</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:03:22 GMT</pubDate>
+		<title>Figen Çakmak</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Figen Çakmak&apos;ın Sanat Yaşamı</itunes:subtitle>
+		<itunes:summary>Figen Çakmak Michael Kuyucu&apos;ya Eurovision ve Festival Yıllarını, Sevilen şarkılarını ve sanat yaşamını anlatıyor</itunes:summary>
+		<description>Figen Çakmak Michael Kuyucu&apos;ya Eurovision ve Festival Yıllarını, Sevilen şarkılarını ve sanat yaşamını anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/cfce2cfead191e508bac3bdee2d26a18.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Figen_Cakmak.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Figen_Cakmak.mp3</guid>
+		<itunes:duration>01:34:22</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Figen Çakmak</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 21:00:57 GMT</pubDate>
+		<title>Sinan Erkoç</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Sinan Erkoç&apos;un Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Sinan Erkoç Michael Kuyucu&apos;ya Müzik Kariyerini, albümlerini ve çocukluğunu anlaıyor</itunes:summary>
+		<description>Sinan Erkoç Michael Kuyucu&apos;ya Müzik Kariyerini, albümlerini ve çocukluğunu anlaıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/3129f85ada6c58f08d773394c10f8c55.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Sinan_Erkoc.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Sinan_Erkoc.mp3</guid>
+		<itunes:duration>01:32:13</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Sinan Erkoç</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 20:58:30 GMT</pubDate>
+		<title>Yeşim Salkım</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Yeşim Salkım&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Yeşim Salkım Michael Kuyucu&apos;ya Müzik yaşamının kilometre taşlarını anlatıyor</itunes:summary>
+		<description>Yeşim Salkım Michael Kuyucu&apos;ya Müzik yaşamının kilometre taşlarını anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/b79ce962b614275cbfd4e1eec0a988bb.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Yesim_Salkim.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Yesim_Salkim.mp3</guid>
+		<itunes:duration>01:32:42</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Yeşim Salkım</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 20:53:53 GMT</pubDate>
+		<title>Ümit Sayın</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Ümit Sayın&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Ümit Sayın Michael Kuyucu&apos;ya Müzik Kariyerini, bestelerini ve albümlerinin hikayesini anlatıyor</itunes:summary>
+		<description>Ümit Sayın Michael Kuyucu&apos;ya Müzik Kariyerini, bestelerini ve albümlerinin hikayesini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/cb08aa649b41114587d33e72b7da531f.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Umit_Sayin.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Umit_Sayin.mp3</guid>
+		<itunes:duration>01:30:58</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Ümit Sayın</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 20:51:02 GMT</pubDate>
+		<title>Ayşe Birgül Yılmaz</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Ayşe Birgül Yılmaz&apos;ın Sanat Yaşamı</itunes:subtitle>
+		<itunes:summary>Ayşe Birgül Yılmaz Michael Kuyucu&apos;ya Sevilen Şarkı Sözlerinin Hikayesini Anlatıyor</itunes:summary>
+		<description>Ayşe Birgül Yılmaz Michael Kuyucu&apos;ya Sevilen Şarkı Sözlerinin Hikayesini Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/8ae97cc7de98c8cfb6a4340b653a17f8.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Ayse_Birgul.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Ayse_Birgul.mp3</guid>
+		<itunes:duration>01:32:34</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Ayşe Birgül Yılmaz, </itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 20:47:59 GMT</pubDate>
+		<title>Grup Gündoğarken</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Grup Gündoğarken&apos;in Müzik Kariyeri</itunes:subtitle>
+		<itunes:summary>Grup Gündoğarken klasikleri ve Grubun Kurulış Hikayesi</itunes:summary>
+		<description>Grup Gündoğarken klasikleri ve Grubun Kurulış Hikayesi</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/eb9f09b61014d3259941c629248f67d3.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Gundogarken.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Gundogarken.mp3</guid>
+		<itunes:duration>01:34:02</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Grup Gündoğarken, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 25 Feb 2015 20:45:04 GMT</pubDate>
+		<title>Hazal</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Hazal&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Hazal Michael Kuyucu&apos;ya Müzik Kariyerini ve 90ları Anlatıyor</itunes:summary>
+		<description>Hazal Michael Kuyucu&apos;ya Müzik Kariyerini ve 90ları Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/9c19fc31e7dbbb02e5420d876f5d25d8.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Hazal.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Hazal.mp3</guid>
+		<itunes:duration>01:33:42</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Hazal, 90lar</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 21:27:51 GMT</pubDate>
+		<title>Ahmet Selçuk İlkan</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Ahmet Selçuk İlkan&apos;ın Sanat Yaşamı</itunes:subtitle>
+		<itunes:summary>Ahmet Selçuk İlkan Michael Kuyucu&apos;ya şairliğe nasıl başladığını, ilk şiir albümünü nasıl hazırladığını ve ölümsüz klasiklerinin hikayesini anlatıyor</itunes:summary>
+		<description>Ahmet Selçuk İlkan Michael Kuyucu&apos;ya şairliğe nasıl başladığını, ilk şiir albümünü nasıl hazırladığını ve ölümsüz klasiklerinin hikayesini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/e97ac880b5945d58e82db58cc44500bc.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Ahmet_Selcuk.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Ahmet_Selcuk.mp3</guid>
+		<itunes:duration>01:34:35</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Ahmet Selçuk İlkan, Nostalji, LŞiir, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 21:24:51 GMT</pubDate>
+		<title>Ferdi Özbeğen</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Ferdi Özbeğen&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Ferdi Özbeğen Anma Programı. Michael Kuyucu&apos;nun yorumları ile Ferdi Özbeğen&apos;in son katıldığı radyo programının kayıtları ile ...</itunes:summary>
+		<description>Ferdi Özbeğen Anma Programı. Michael Kuyucu&apos;nun yorumları ile Ferdi Özbeğen&apos;in son katıldığı radyo programının kayıtları ile ...</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/b997663b6a15cdd1a4cf18640ce83354.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Ferdi_Ozbegen.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Ferdi_Ozbegen.mp3</guid>
+		<itunes:duration>01:33:46</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Ferdi Özbeğen, Nostalji, 70ler, 80ler, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 21:22:03 GMT</pubDate>
+		<title>Selami Şahin</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Selami Şahin&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Selami Şahin Michael Kuyucu&apos;ya bestelerinin hikayesini ve müzik yaşamının kilometre taşlarını anlatıyor</itunes:summary>
+		<description>Selami Şahin Michael Kuyucu&apos;ya bestelerinin hikayesini ve müzik yaşamının kilometre taşlarını anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/2b3c0370a913ee52dad73c36d152b4cb.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Selami_Sahin.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Selami_Sahin.mp3</guid>
+		<itunes:duration>01:33:31</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Selami Şahin, Nostalji, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 21:19:37 GMT</pubDate>
+		<title>Hakkı Yalçın</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Hakkı Yalçın&apos;ın Sanat Yaşamı</itunes:subtitle>
+		<itunes:summary>Hakkı Yalçın Michael Kuyucu&apos;ya ünlü şarkılarının hikayesini ve şarkı sözü yazarlığının kilometre taşlarını anlatıyor</itunes:summary>
+		<description>Hakkı Yalçın Michael Kuyucu&apos;ya ünlü şarkılarının hikayesini ve şarkı sözü yazarlığının kilometre taşlarını anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/4e95a640d82867ef1e2c1f3b0afb17f9.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Hakki_Yalcin.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Hakki_Yalcin.mp3</guid>
+		<itunes:duration>01:34:37</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Hakkı Yalçın, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 21:16:07 GMT</pubDate>
+		<title>Yeliz</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Yeliz&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Yeliz Michael Kuyucu&apos;ya 70&apos;lerden 2010&apos;lara Müzik Kariyerini Anlatıyor</itunes:summary>
+		<description>Yeliz Michael Kuyucu&apos;ya 70&apos;lerden 2010&apos;lara Müzik Kariyerini Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/c4f34e1f84898e48f7de34d486b6b758.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Yeliz.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Yeliz.mp3</guid>
+		<itunes:duration>01:28:45</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Yeliz, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 21:13:44 GMT</pubDate>
+		<title>Aşkın Tuna</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Aşkın Tuna</itunes:subtitle>
+		<itunes:summary>Aşkın Tuna Michael Kuyucu&apos;ya şarkı sözü yazarlığının hikayesini ve sevilen şarkılarının nasıl ortaya çıktığını anlatıyor</itunes:summary>
+		<description>Aşkın Tuna Michael Kuyucu&apos;ya şarkı sözü yazarlığının hikayesini ve sevilen şarkılarının nasıl ortaya çıktığını anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/1a1b8b99dd358a51628dcf34baf18bcf.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Askin_Tuna.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Askin_Tuna.mp3</guid>
+		<itunes:duration>01:33:35</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Aşkın Tuna, Nostalji, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 21:11:02 GMT</pubDate>
+		<title>Aykut Gürel</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Aykut Gürel&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Aykut Gürel Michael Kuyucu&apos;ya müzisyenlikle başlayan prodüktörlüğe giden müzik kariyerini anlatıyor</itunes:summary>
+		<description>Aykut Gürel Michael Kuyucu&apos;ya müzisyenlikle başlayan prodüktörlüğe giden müzik kariyerini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/1bfb1ca08b836a540686e616b4ffd85c.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Aykut_Gurel.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Aykut_Gurel.mp3</guid>
+		<itunes:duration>01:33:36</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Aykut Gürel, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 21:08:04 GMT</pubDate>
+		<title>Yeni Türkü</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Yeni Türkü&apos;nün Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Derya Köroğlu Michael Kuyucu&apos;ya Yasaklı Yıllardan &apos;Böyle Gitmez&apos;e Yeni Türkü&apos;nün müzik kariyerini anlatıyor</itunes:summary>
+		<description>Derya Köroğlu Michael Kuyucu&apos;ya Yasaklı Yıllardan &apos;Böyle Gitmez&apos;e Yeni Türkü&apos;nün müzik kariyerini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/d5261800e7f0f5e4d6d32cdfd737a85d.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Yeni_Turku.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Yeni_Turku.mp3</guid>
+		<itunes:duration>01:35:23</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Yeni Türkü,Derya Köroğlu, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 21:05:40 GMT</pubDate>
+		<title>Soner Arıca</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Soner Arıca&apos;nın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Soner Arıca Michael Kuyucu&apos;ya &quot;Parazit&quot;le başlayan şöhretli yılları ve albümlerininin hikayesini anlatıyor </itunes:summary>
+		<description>Soner Arıca Michael Kuyucu&apos;ya &quot;Parazit&quot;le başlayan şöhretli yılları ve albümlerininin hikayesini anlatıyor </description>
+		<itunes:image href="http://www.michaelshow.com/podcast/ca6c3862997245566b19d61ed12c0ff1.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Soner_Arica.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Soner_Arica.mp3</guid>
+		<itunes:duration>01:35:28</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Soner Arıca, Michael Kuyucu, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 21:02:22 GMT</pubDate>
+		<title>Yonca Evcimik</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Yonca Evcimik&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Yonca Evcimik Michael Kuyucu&apos;ya Abone Öncesi ve Sonrasını Anlatıyor. </itunes:summary>
+		<description>Yonca Evcimik Michael Kuyucu&apos;ya Abone Öncesi ve Sonrasını Anlatıyor. </description>
+		<itunes:image href="http://www.michaelshow.com/podcast/4e34ddad18b7075cb378b44e0aadb0ce.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Yonca_Evcimik.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Yonca_Evcimik.mp3</guid>
+		<itunes:duration>01:33:39</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Yonca Evcimik, Nostalji, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 20:58:38 GMT</pubDate>
+		<title>Harun Kolçak</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Harun Kolçak&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Harun Kolçak Michael Kuyucu&apos;ya Sezen Aksu&apos;nun onu keşfediş yıllarından günümüze müzik kariyerini ve klasiklerinin hikayesini anlatıyor</itunes:summary>
+		<description>Harun Kolçak Michael Kuyucu&apos;ya Sezen Aksu&apos;nun onu keşfediş yıllarından günümüze müzik kariyerini ve klasiklerinin hikayesini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/1d466b985f0e06a7bfac74c051a4aa12.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Harun_Kolcak.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Harun_Kolcak.mp3</guid>
+		<itunes:duration>01:37:07</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Harun Kolçak, Michael Kuyucu, 90lar</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 20:56:10 GMT</pubDate>
+		<title>Hakan Peker</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Hakan Peker&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Hakan Peker Michael Kuyucu&apos;ya &apos;Bir Efsane&apos;den 2015&apos;e kadar ki müzik kariyerini anlatıyor</itunes:summary>
+		<description>Hakan Peker Michael Kuyucu&apos;ya &apos;Bir Efsane&apos;den 2015&apos;e kadar ki müzik kariyerini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/46ed8e44d420dc586453b70e7bf2d375.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Hakan_Peker.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Hakan_Peker.mp3</guid>
+		<itunes:duration>01:34:53</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Hakan Peker, Nostalji, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 20:48:53 GMT</pubDate>
+		<title>Fatih Erkoç</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Fatih Erkoç&apos;un Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Fatih Erkoç Michael Kuyucu&apos;ya Norveç&apos;te Başlayan Türkiye&apos;de gelişen müzik kariyerini anlatıyor</itunes:summary>
+		<description>Fatih Erkoç Michael Kuyucu&apos;ya Norveç&apos;te Başlayan Türkiye&apos;de gelişen müzik kariyerini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/2120d4a05b3ab52f11047cc8a6131714.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Fatih_Erkoc.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Fatih_Erkoc.mp3</guid>
+		<itunes:duration>01:30:27</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Fatih Erkoç, Michael Kuyucu, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 20:46:32 GMT</pubDate>
+		<title>Zafer Peker</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Zafer Peker&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Zafer Peker Michael Kuyucu&apos;ya Prodüktörlük ve solistlik kariyerinin kilometre taşlarını anlatıyor</itunes:summary>
+		<description>Zafer Peker Michael Kuyucu&apos;ya Prodüktörlük ve solistlik kariyerinin kilometre taşlarını anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/36d8a82d6cc0ddaac4274272c522337f.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Zafer_Peker.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Zafer_Peker.mp3</guid>
+		<itunes:duration>01:35:35</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Zafer Peker, Michael Kuyucu, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 20:40:32 GMT</pubDate>
+		<title>Jale</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Jale&apos;nin Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Jale Michael Kuyucu müzik yaşamını anlatıyor.</itunes:summary>
+		<description>Jale Michael Kuyucu müzik yaşamını anlatıyor.</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/d95e3f8509678c3a76c7d98d5d12fdd9.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Jale.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Jale.mp3</guid>
+		<itunes:duration>01:43:09</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Jale, Nostalj, </itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 18:55:19 GMT</pubDate>
+		<title>Çelik</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Çelik&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Çelik Michael Kuyucu&apos;ya Müzik Yaşamını Anlatıyor</itunes:summary>
+		<description>Çelik Michael Kuyucu&apos;ya Müzik Yaşamını Anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/b5fd72402fb04603f69464035af51bba.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Celik.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Celik.mp3</guid>
+		<itunes:duration>01:24:06</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Çelik,Michael Kuyucu, Nostalji </itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 18:45:58 GMT</pubDate>
+		<title>Suat Aydoğan</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Suat Aydoğan&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Suat Aydoğan Michael Kuyucu&apos;ya bestecilik kariyerinin önemli kilometre taşlarını anlatıyor</itunes:summary>
+		<description>Suat Aydoğan Michael Kuyucu&apos;ya bestecilik kariyerinin önemli kilometre taşlarını anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/e75397af84e587b2de3bba07d6de60fb.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Suat_Aydogan.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Suat_Aydogan.mp3</guid>
+		<itunes:duration>01:35:34</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Suat Aydoğan, Nostalji,  Michael Kuyucu,  Serdar Ortaç</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 18:42:46 GMT</pubDate>
+		<title>Reyhan Karaca</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Reyhan Karaca&apos;nın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Reyhan Karaca Michael Kuyucu&apos;ya Solist kariyerini, Eurovision Hikayesini ve seslendirdiği şarkıların hikayesini anlattı</itunes:summary>
+		<description>Reyhan Karaca Michael Kuyucu&apos;ya Solist kariyerini, Eurovision Hikayesini ve seslendirdiği şarkıların hikayesini anlattı</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/1e66f46e18c6e1c82d87f8166f7bb010.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Reyhan_Karaca.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Reyhan_Karaca.mp3</guid>
+		<itunes:duration>01:47:17</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Reyhan Karaca, Nostali, </itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 18:37:25 GMT</pubDate>
+		<title>Ege</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Ege&apos;nin Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Ege Michael Kuyucu&apos;ya İzmir&apos;de başlayan müzik kariyerini ve klasiklerinin hikayelerini anlattı</itunes:summary>
+		<description>Ege Michael Kuyucu&apos;ya İzmir&apos;de başlayan müzik kariyerini ve klasiklerinin hikayelerini anlattı</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/f8ae2c29a74284bb0a6045342ca42a6e.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Ege.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Ege.mp3</guid>
+		<itunes:duration>01:44:37</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Ege, Nostalji,  90 lar</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 18:32:48 GMT</pubDate>
+		<title>Bora Öztoprak</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Bora Öztoprak&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Bora Öztoprak Michael Kuyucu&apos;ya solistlik ve müzisyenlik kariyerini anlatıyor</itunes:summary>
+		<description>Bora Öztoprak Michael Kuyucu&apos;ya solistlik ve müzisyenlik kariyerini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/7848b5817b3e8bbdf6e1ef53137afaa9.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Bora_Oztoprak.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Bora_Oztoprak.mp3</guid>
+		<itunes:duration>01:33:47</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Bora Öztoprak, Michael Kuyucu, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 18:27:28 GMT</pubDate>
+		<title>Asya</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Asya&apos;nın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Asya Michael Kuyucu&apos;ya vokalistlik yıllarından solistliğe giden yolda müzik kariyerini anlatıyor</itunes:summary>
+		<description>Asya Michael Kuyucu&apos;ya vokalistlik yıllarından solistliğe giden yolda müzik kariyerini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/38a797329e83604aac47a0cc3f66a578.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Asya.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Asya.mp3</guid>
+		<itunes:duration>01:32:53</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Asya, Nostalji, 90 lar, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 24 Feb 2015 18:24:37 GMT</pubDate>
+		<title>Ah Canım Ahmet</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Ah Canım Ahmet&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Ah Canım Ahmet Michael Kuyucu&apos;ya müzik kariyerini anlatıyor</itunes:summary>
+		<description>Ah Canım Ahmet Michael Kuyucu&apos;ya müzik kariyerini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/2dc5f1a13d9d46cf2cadb8c436622935.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Ah_Canim.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Ah_Canim.mp3</guid>
+		<itunes:duration>01:41:32</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Ah Canım Ahmet, Radyo, Nostalji, 90 lar, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 22:15:30 GMT</pubDate>
+		<title>Selçuk Ural</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Selçuk Ural&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Selçuk Ural Michael Kuyucu&apos;ya müzik yaşamını anlatıyor. Sevilen Selçuk Ural şarkıları ve hikayeleri </itunes:summary>
+		<description>Selçuk Ural Michael Kuyucu&apos;ya müzik yaşamını anlatıyor. Sevilen Selçuk Ural şarkıları ve hikayeleri </description>
+		<itunes:image href="http://www.michaelshow.com/podcast/e967977b5b5b30f16a6e7cd6d4f877d1.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Selcuk_Ural.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Selcuk_Ural.mp3</guid>
+		<itunes:duration>01:38:44</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Selçuk Ural, Nostalji, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 22:06:01 GMT</pubDate>
+		<title>Salim Dündar</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Salim Dündar&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Salim Dündar Michael Kuyucu&apos;ya müzik kariyerinin başlangıç yıllarından sahneleri bırakışına kadar geçen süreyi, müziği neden erken bıraktığını anlatıyor. Salim Dündar klasikleri ve hikayeleri</itunes:summary>
+		<description>Salim Dündar Michael Kuyucu&apos;ya müzik kariyerinin başlangıç yıllarından sahneleri bırakışına kadar geçen süreyi, müziği neden erken bıraktığını anlatıyor. Salim Dündar klasikleri ve hikayeleri</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/010d0ffba8ac644778e3b0febe6285ed.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Salim_Dundar.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Salim_Dundar.mp3</guid>
+		<itunes:duration>01:41:50</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Salim Dündar, Michael Kuyucu, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 22:02:47 GMT</pubDate>
+		<title>Recep Aktuğ</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Recep Aktuğ&apos;un Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Recep Aktuğ Michael Kuyucu&apos;ya müzik yaşamını, Kısa dalga vokal grubunu, Eurovision yıllarını ve oyunculuğa geçişini anlatıyor</itunes:summary>
+		<description>Recep Aktuğ Michael Kuyucu&apos;ya müzik yaşamını, Kısa dalga vokal grubunu, Eurovision yıllarını ve oyunculuğa geçişini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/4b40fdd08770b6b17c50ed4b66c513bc.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Recep_Aktug.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Recep_Aktug.mp3</guid>
+		<itunes:duration>01:35:36</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Recep Aktuğ, Michael Kuyucu, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 21:58:11 GMT</pubDate>
+		<title>Ömür Göksel</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Ömür Göksel&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Ömür Göksel Michael Kuyucu&apos;ya Türkiye&apos;de başladığı ve yurt dışında devam ettirdiği müzik kariyerini anlattı. Ömür Göksel klasikleri ve hikayeleri.</itunes:summary>
+		<description>Ömür Göksel Michael Kuyucu&apos;ya Türkiye&apos;de başladığı ve yurt dışında devam ettirdiği müzik kariyerini anlattı. Ömür Göksel klasikleri ve hikayeleri.</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/2fcdf6858261a344da818339c3cd1bc2.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Omur_Goksel.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Omur_Goksel.mp3</guid>
+		<itunes:duration>01:35:42</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Ömür Göksel, Nostalji, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 21:54:45 GMT</pubDate>
+		<title>Nur Yoldaş</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Nur Yoldaş&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Sultan-i Yegah&apos;ın Kraliçesi Nur Yoldaş Michael Kuyucu&apos;ya müzik kariyerini anlatıyor</itunes:summary>
+		<description>Sultan-i Yegah&apos;ın Kraliçesi Nur Yoldaş Michael Kuyucu&apos;ya müzik kariyerini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/1ded0cacdcc7f903ab52ad616888fe70.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Nur_Yoldas.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Nur_Yoldas.mp3</guid>
+		<itunes:duration>01:33:32</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Nur Yoldaş, Ergüder Yoldaş, Nostalji , Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 21:51:40 GMT</pubDate>
+		<title>Nil Burak</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Nil Burak&apos;ın Müzik Kariyeri</itunes:subtitle>
+		<itunes:summary>Nil Burak Michael Kuyucu&apos;ya müzik kariyerinin başlangıç yıllarından 2000lere kadar ki kariyerini anlatıyor</itunes:summary>
+		<description>Nil Burak Michael Kuyucu&apos;ya müzik kariyerinin başlangıç yıllarından 2000lere kadar ki kariyerini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/89774ed0676fa311babc16f4af502811.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Nil_Burak.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Nil_Burak.mp3</guid>
+		<itunes:duration>01:35:52</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Nil Burak, Nostalji, Michael Kuyucu, Eurovision</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 21:49:08 GMT</pubDate>
+		<title>Metin Özülkü</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Metin Özülkü</itunes:subtitle>
+		<itunes:summary>Metin Özülkü Michael Kuyucu&apos;ya müzik yaşamını anlatıyor Çocuk yaşta yaptığı ilk plak ve sonrasında gelişen yıllar. Metin Özülkü beste ve düzenlemelerinin hikayesi</itunes:summary>
+		<description>Metin Özülkü Michael Kuyucu&apos;ya müzik yaşamını anlatıyor Çocuk yaşta yaptığı ilk plak ve sonrasında gelişen yıllar. Metin Özülkü beste ve düzenlemelerinin hikayesi</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/2cac4d3ab8e4a2aabaaccf7928e8d4be.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Metin_Ozulku.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Metin_Ozulku.mp3</guid>
+		<itunes:duration>01:28:22</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Metin Özülkü, Michael Kuyucu, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 21:45:59 GMT</pubDate>
+		<title>Hurşid Yenigün</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Hurşid Yenigün&apos;ün Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Hurşid Yenigün Michael Kuyucu&apos;ya müzik kariyerini anlatıyor. Hürşid Yenigün ve Grubu nasıl kuruldu? Müzisyenin grup öncesi ve sonrasındaki müzik kariyeri nasıl gelişti. Hürşid Yenigün şarkıları, besteleri ve düzenlemeleri</itunes:summary>
+		<description>Hurşid Yenigün Michael Kuyucu&apos;ya müzik kariyerini anlatıyor. Hürşid Yenigün ve Grubu nasıl kuruldu? Müzisyenin grup öncesi ve sonrasındaki müzik kariyeri nasıl gelişti. Hürşid Yenigün şarkıları, besteleri ve düzenlemeleri</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/b6a704237952420d8cacede528a06fdb.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Hursid_Yenigun.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Hursid_Yenigun.mp3</guid>
+		<itunes:duration>01:34:01</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Hurşid Yenigün, Nostalji, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 21:42:41 GMT</pubDate>
+		<title>Fatih Mühürdar</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Fatih Mühürdar&apos;ın Sanat Yaşamı</itunes:subtitle>
+		<itunes:summary>Fatih Mühürdar Michael Kuyucu&apos;ya komedyenlik yıllarını anlatıyor. Müzik kariyeri nasıl başladı? TRT&apos;de yaptığı showlar ve şarkıları</itunes:summary>
+		<description>Fatih Mühürdar Michael Kuyucu&apos;ya komedyenlik yıllarını anlatıyor. Müzik kariyeri nasıl başladı? TRT&apos;de yaptığı showlar ve şarkıları</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/b1b6ff26372286b4752b79de4133fc92.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Fatih_Muhurdar.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Fatih_Muhurdar.mp3</guid>
+		<itunes:duration>01:35:34</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Fatih Mühürdar, Nostalji, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 21:39:13 GMT</pubDate>
+		<title>Ersan Erdura</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Ersan Erdura&apos;nın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Kadife sesli yorumcu Ersan Erdura Michael Kuyucu&apos;ya müziğe nasıl başladığını anlatıyor. Ersan Erdura kendi sesinden müzik kariyeri ve klasikleri</itunes:summary>
+		<description>Kadife sesli yorumcu Ersan Erdura Michael Kuyucu&apos;ya müziğe nasıl başladığını anlatıyor. Ersan Erdura kendi sesinden müzik kariyeri ve klasikleri</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/4c319d46b724ddc78184ed14f11cfdf3.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Ersan_Erdura.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Ersan_Erdura.mp3</guid>
+		<itunes:duration>01:36:53</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Ersan Erdura, Nostalji, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 21:33:53 GMT</pubDate>
+		<title>Erdener Koyutürk</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Erdener Koyutürk&apos;ün Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Erdener Koyutürk Michael Kuyucu&apos;ya babasından devraldığı misyonu anlatıyor. Erdener Koyutürk&apos;ün müzik kariyeri ve bol tango</itunes:summary>
+		<description>Erdener Koyutürk Michael Kuyucu&apos;ya babasından devraldığı misyonu anlatıyor. Erdener Koyutürk&apos;ün müzik kariyeri ve bol tango</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/8fa9090453838d18fab55884c7a5d784.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Erdener_Koyuturk.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Erdener_Koyuturk.mp3</guid>
+		<itunes:duration>01:31:36</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Erdener Koyutürk, Nostalji, Tango, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 21:30:21 GMT</pubDate>
+		<title>Ercan Turgut</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Ercan Turgut&apos;un Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Ercan Turgut Michael Kuyucu&apos;ya müzik kariyerini anlatıyor. Rock&apos;n Roll&apos;dan Tavernaya Geçiş Yılları ve Ercan Turgut Klasikleri</itunes:summary>
+		<description>Ercan Turgut Michael Kuyucu&apos;ya müzik kariyerini anlatıyor. Rock&apos;n Roll&apos;dan Tavernaya Geçiş Yılları ve Ercan Turgut Klasikleri</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/5c3f949d4b757f7595e5a0b021dc4ef1.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Ercan_Turgut.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Ercan_Turgut.mp3</guid>
+		<itunes:duration>01:15:29</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Ercan Turgut,  Michael Kuyucu, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 21:26:01 GMT</pubDate>
+		<title>Edip Akbayram</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Edip Akbayram&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Edip Akbayram Michael Kuyucu&apos;ya müzik kariyerinin bilinmeyenlerini anlatıyor. 70ler , yasaklı yıllar, bir efsanenin müzik savaşı</itunes:summary>
+		<description>Edip Akbayram Michael Kuyucu&apos;ya müzik kariyerinin bilinmeyenlerini anlatıyor. 70ler , yasaklı yıllar, bir efsanenin müzik savaşı</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/99edad385c02d7f30d825ff26def903a.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Edip_Akbayram.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Edip_Akbayram.mp3</guid>
+		<itunes:duration>01:41:48</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Edip Akbayram , Nostalj, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 21:21:53 GMT</pubDate>
+		<title>Coşkun Demir</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Coşkun Demir&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Coşkun Demir Michael Kuyucu&apos;ya müzik kariyerinin kilometre taşlarını anlatıyor. Mühendislikten yorumculuğa geçiş yılları, Melih Kibar ile çalışmaları..</itunes:summary>
+		<description>Coşkun Demir Michael Kuyucu&apos;ya müzik kariyerinin kilometre taşlarını anlatıyor. Mühendislikten yorumculuğa geçiş yılları, Melih Kibar ile çalışmaları..</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/38c3afb5ec9cbd65ad79e2d89d803609.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Coskun_Demir.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Coskun_Demir.mp3</guid>
+		<itunes:duration>01:43:42</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Coşkun Demir,  Eurovision, Michael Kuyucu, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Wed, 18 Feb 2015 21:18:51 GMT</pubDate>
+		<title>Cenk Taşkan</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Cenk Taşkan&apos;ın Müzik Yaşamı </itunes:subtitle>
+		<itunes:summary>Cenk Taşkan Michael Kuyucu&apos;ya müzik kariyerini anlatıyor. Nükhet Duru klasikleri nasıl doğdu? Eurovision&apos;e neden gidemedi ve dahası</itunes:summary>
+		<description>Cenk Taşkan Michael Kuyucu&apos;ya müzik kariyerini anlatıyor. Nükhet Duru klasikleri nasıl doğdu? Eurovision&apos;e neden gidemedi ve dahası</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/e8ed45e6cbc896afed186cbf11252dac.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Cenk_Taskan.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Cenk_Taskan.mp3</guid>
+		<itunes:duration>01:31:22</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Nostalji , Cenk Taşkan, Nükhet Duru, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 17 Feb 2015 22:09:55 GMT</pubDate>
+		<title>Bora Ayanoğlu</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Bora Ayanoğlu&apos;nun Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Bora Ayanoğlu Michael Kuyucu&apos;ya müzik kariyerini ve klasiklerinin hikayesini anlatıyor</itunes:summary>
+		<description>Bora Ayanoğlu Michael Kuyucu&apos;ya müzik kariyerini ve klasiklerinin hikayesini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/351a4c9bb2e4f083adc0c40d186401b3.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Bora_Ayanoglu.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Bora_Ayanoglu.mp3</guid>
+		<itunes:duration>01:28:25</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Bora Ayanoğlu, Nostalji ,Fabrika Kızı,  Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 17 Feb 2015 22:06:32 GMT</pubDate>
+		<title>Bilgen Bengü</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Bilgen Bengü ve Cici Kızlar&apos;ın Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Bilgen Bengü Michael Kuyucu&apos;ya Cici Kızlar ve Eurovision Serüvenlerini , solo kariyerini anlatıyor</itunes:summary>
+		<description>Bilgen Bengü Michael Kuyucu&apos;ya Cici Kızlar ve Eurovision Serüvenlerini , solo kariyerini anlatıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/3009373c7926a6415347b72fb4c86781.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Bilgen_Bengu.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Bilgen_Bengu.mp3</guid>
+		<itunes:duration>01:31:53</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Bilgen Bengü, Cici Kızlar, Delisin, Eurovision, Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 17 Feb 2015 22:03:52 GMT</pubDate>
+		<title>Baha Boduroğlu (Güzin ile Baha)</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Güzin ile Baha ikilisinin müzik kariyeri</itunes:subtitle>
+		<itunes:summary>Baha Boduroğlu Michael Kuyucu&amp;apos;ya müzik kariyerini, Güzin &amp;amp; Baha ikilisini &amp;quot;Ateş Başında Duman&amp;quot;ın hikayesini anlatıyor.</itunes:summary>
+		<description>Baha Boduroğlu Michael Kuyucu&amp;apos;ya müzik kariyerini, Güzin &amp;amp; Baha ikilisini &amp;quot;Ateş Başında Duman&amp;quot;ın hikayesini anlatıyor.</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/2e5f6c39274972b05a6bf4f3c64db745.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Baha_Boduroglu.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Baha_Boduroglu.mp3</guid>
+		<itunes:duration>01:37:53</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Baha Boduroğlu, Güzin ile Baha, Michael Kuyucu, Nostalji, Gençlik Başımda Duman</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 17 Feb 2015 22:00:46 GMT</pubDate>
+		<title>Atilla Yelken</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Atilla Yelken&apos;in Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Atilla Yelken Michael Kuyucu&amp;apos;ya Müzik kariyerini anlatıyor. &amp;quot;Gözler Kalbin Aynasıdır&amp;quot; ve diğer klasikler, Taverna müziğinin farklı bir hikayesi ve Atilla Yelken klasikleri</itunes:summary>
+		<description>Atilla Yelken Michael Kuyucu&amp;apos;ya Müzik kariyerini anlatıyor. &amp;quot;Gözler Kalbin Aynasıdır&amp;quot; ve diğer klasikler, Taverna müziğinin farklı bir hikayesi ve Atilla Yelken klasikleri</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/f324390eb22c324cf7fa8b7b70959f4d.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Atilla_Yelken.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Atilla_Yelken.mp3</guid>
+		<itunes:duration>01:38:38</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Atilla Yelken, Nostalji, Michael Kuyucu, Gözler Kalbin Aynasıdır</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 17 Feb 2015 21:57:16 GMT</pubDate>
+		<title>Ali Kocatepe</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Ali Kocatepe&apos;nin Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Ali Kocatepe Michael Kuyucu&apos;ya müzik kariyerini anlatıyor. Eurovision, 1 Numara Plak, Prodüktörlük serüveni ve Ali Kocatepe klasikleri</itunes:summary>
+		<description>Ali Kocatepe Michael Kuyucu&apos;ya müzik kariyerini anlatıyor. Eurovision, 1 Numara Plak, Prodüktörlük serüveni ve Ali Kocatepe klasikleri</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/9f235ae387d27b2b5cd55947cf2d0b63.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Ali_Kocatepe.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Ali_Kocatepe.mp3</guid>
+		<itunes:duration>01:35:34</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Ali Kocatepe, Eurovision, Nostalji</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 17 Feb 2015 21:52:33 GMT</pubDate>
+		<title>Attila Atasoy</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Attila Atasoy&apos;un müzik yaşamı. </itunes:subtitle>
+		<itunes:summary>Michael Kuyucu&apos;nun Attila Atasoy ile gerçekleştirdiği röportaj. Attila Atasoy klasikleri, müzik yaşamından anektodlar </itunes:summary>
+		<description>Michael Kuyucu&apos;nun Attila Atasoy ile gerçekleştirdiği röportaj. Attila Atasoy klasikleri, müzik yaşamından anektodlar </description>
+		<itunes:image href="http://www.michaelshow.com/podcast/4b9e227d77a5499b8e2e125e477a874b.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Atilla_Atasoy.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Atilla_Atasoy.mp3</guid>
+		<itunes:duration>01:40:31</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Nostalji, Atilla Atasoy, Attila Atasoy</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 17 Feb 2015 09:11:13 GMT</pubDate>
+		<title>Erol Büyükburç</title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Erol Büyükburç&apos;un Müzik Yaşamı</itunes:subtitle>
+		<itunes:summary>Erol Büyükburç klasikleri ve sanatçının müzik kariyeri. Michael Kuyucu ile Erol Büyükburç&apos;un yaptığı özel röportaj</itunes:summary>
+		<description>Erol Büyükburç klasikleri ve sanatçının müzik kariyeri. Michael Kuyucu ile Erol Büyükburç&apos;un yaptığı özel röportaj</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/49c13be24e8bad0c440e00b6313eefc1.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Erol_Buyukburc.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Erol_Buyukburc.mp3</guid>
+		<itunes:duration>01:35:30</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Nostalji , Erol Büyükburç , Michael Kuyucu</itunes:keywords>
+	</item>
+	<item>
+		<pubDate>Tue, 17 Feb 2015 09:06:01 GMT</pubDate>
+		<title>Atilla Özdemiroğlu </title>
+		<itunes:author>Michael Show</itunes:author>
+		<itunes:subtitle>Atilla Özdemiroğlu Müzik Yaşamını Anlatıyor</itunes:subtitle>
+		<itunes:summary>Michael Kuyucu&apos;nun Atilla Özedemiroğlu ile gerçekleştirdiği müzik kariyerini konu alan röportaj. Atilla Özdemiroğlu besteleri ve hikayeleri müzisyenin kendi ağzından anlatılıyor</itunes:summary>
+		<description>Michael Kuyucu&apos;nun Atilla Özedemiroğlu ile gerçekleştirdiği müzik kariyerini konu alan röportaj. Atilla Özdemiroğlu besteleri ve hikayeleri müzisyenin kendi ağzından anlatılıyor</description>
+		<itunes:image href="http://www.michaelshow.com/podcast/165b7c2dbe59356bc311acbc9fc615f2.jpg"/>
+		<enclosure url="http://www.michaelshow.com/podcast/Atilla_Ozdemiroglu.mp3" type="audio/mpeg"/>
+		<guid>http://www.michaelshow.com/podcast/Atilla_Ozdemiroglu.mp3</guid>
+		<itunes:duration>01:33:59</itunes:duration>
+		<itunes:explicit>clean</itunes:explicit>
+		<category>Podcasting</category>
+		<itunes:keywords>Müzik, Nostalji, Mp3, Radyo</itunes:keywords>
+	</item>
+	
+</channel>
+</rss>

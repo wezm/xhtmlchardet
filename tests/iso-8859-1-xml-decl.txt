@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+	<title>Fréquence Banane | Podcasting 2</title>
+	<itunes:subtitle>FB votre radio en podcasting</itunes:subtitle>
+	<description>FB votre radio en podcasting</description>
+	<itunes:new-feed-url>http://podcast.frequencebanane.ch</itunes:new-feed-url>
+	<link>http://www.frequencebanane.ch</link>
+	<generator>FB Team, 2015 by hb</generator>
+	<lastBuildDate>Mon, 1 Jun 2015 03:03:12 +0200</lastBuildDate>
+	<language>fr-ch</language>
+	<copyright>(c) 2006-2015 Fréquence Banane</copyright>
+	<itunes:author>Fréquence Banane</itunes:author>
+	<itunes:summary>Fréquence Banane - La radio des étudiants lausannois.</itunes:summary>
+	<itunes:keywords>radio, podcast, podcasting, banane, fb, emission, indépendant, EPFL, UNIL, epfl, unil, Lausanne, festival, concert, jazz, music, musique, association, campus, loisir, fréquence, fruit</itunes:keywords>
+	<itunes:owner>
+		<itunes:name>FB Team</itunes:name>
+		<itunes:email>info@frequencebanane.ch</itunes:email>
+	</itunes:owner>
+	<docs>http://www.frequencebanane.ch/?page=podcasts</docs>
+	<itunes:image href="http://podcast.frequencebanane.ch/podcast.jpg" />
+	<image>
+		<url>http://podcast.frequencebanane.ch/podcast.jpg</url>
+		<title>Fréquence Banane | Podcasting 2</title>
+		<link>http://www.frequencebanane.ch</link>
+	</image>
+	<itunes:category text="Music" />
+	<category>Music</category>
+	<itunes:explicit>No</itunes:explicit>
+
+
+
+	<item>
+		<title>Interview d&apos;Elisabeth Carreira, membre du comité LAGO</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>LAGO est une association universitaire qui promeut les droits LGBT. Elisabeth nous parle de leur prochain évenement. </itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1430130693_itw eli carreira.mp3" length="8526821" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1430130693_itw eli carreira.mp3</guid>
+		<pubDate>Mon, 27 Apr 2015 20:00:00 +0200</pubDate>
+		<description>LAGO est une association universitaire qui promeut les droits LGBT. Elisabeth nous parle de leur prochain évenement. </description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Micropolis spécial SACR: Interview de Yohana Ruffiner</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Interview de Yohana Ruffiner, coordinatrice de l&apos;association Métis&apos;Arte.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1427280378_yohana ruffiner.mp3" length="7658944" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1427280378_yohana ruffiner.mp3</guid>
+		<pubDate>Sat, 21 Mar 2015 17:00:00 +0100</pubDate>
+		<description>Interview de Yohana Ruffiner, coordinatrice de l&apos;association Métis&apos;Arte.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Micropolis spécial SACR: Interview d&apos;Isabel Bauman partie 1</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Interview d&apos;Isabel Bauman, assistante diplômée de l&apos;Unil en sciences sociales.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1427280556_isabel bauman part.1.mp3" length="10236704" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1427280556_isabel bauman part.1.mp3</guid>
+		<pubDate>Sat, 21 Mar 2015 17:00:00 +0100</pubDate>
+		<description>Interview d&apos;Isabel Bauman, assistante diplômée de l&apos;Unil en sciences sociales.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Micropolis spécial SACR: Interview d&apos;Isabel Bauman partie 2</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Interview d&apos;Isabel Bauman, assistante diplômée de l&apos;Unil en sciences sociales.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1427280720_isabel bauman part.2.mp3" length="7025091" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1427280720_isabel bauman part.2.mp3</guid>
+		<pubDate>Sat, 21 Mar 2015 17:00:00 +0100</pubDate>
+		<description>Interview d&apos;Isabel Bauman, assistante diplômée de l&apos;Unil en sciences sociales.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Micropolis spécial SACR: interview de Sergio Antrilli</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Interview réalisée par Camille Poursac avec Sergio Antrilli, responsable du Ciné-Club les Toiles Filantes.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1426860985_sacr-le-plafond-de-verre-sergio-antrilli.mp3" length="29218564" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1426860985_sacr-le-plafond-de-verre-sergio-antrilli.mp3</guid>
+		<pubDate>Fri, 20 Mar 2015 15:03:00 +0100</pubDate>
+		<description>Interview réalisée par Camille Poursac avec Sergio Antrilli, responsable du Ciné-Club les Toiles Filantes.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Micropolis spécial SACR: interview avec AccEnt</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Interview réalisée par Danièle Weren avec Saskia Fischer et Vanessa Geronomi.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1426860174_sacr-la-mesure-accent-daniele-werren.mp3" length="48136437" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1426860174_sacr-la-mesure-accent-daniele-werren.mp3</guid>
+		<pubDate>Fri, 20 Mar 2015 14:56:00 +0100</pubDate>
+		<description>Interview réalisée par Danièle Weren avec Saskia Fischer et Vanessa Geronomi.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Micropolis spécial SACR: Interview et témoignage de Ronaldo (nom d&apos;emprunt)</title>
+		<itunes:author>Marc Perez</itunes:author>
+		<itunes:summary>Interview par skype réalisée par Marc Pérez de Ronaldo, étudiant colombien à l&apos;université de Lausanne.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1426842696_sacr-interview-manuel sandoval-par-skype-marc-perez.mp3" length="31666771" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1426842696_sacr-interview-manuel sandoval-par-skype-marc-perez.mp3</guid>
+		<pubDate>Fri, 20 Mar 2015 10:06:00 +0100</pubDate>
+		<description>Interview par skype réalisée par Marc Pérez de Ronaldo, étudiant colombien à l&apos;université de Lausanne.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Micropolis spécial SACR: Interview de Maïka Bruni</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Interview réalisée par Fabio Cattaneo avec Maïka Bruni pour la compagnie Autonyme.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1426842315_sacr-interview-maika-bruni-compagnie-autonyme-fabio-cattaneo.mp3" length="46570159" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1426842315_sacr-interview-maika-bruni-compagnie-autonyme-fabio-cattaneo.mp3</guid>
+		<pubDate>Fri, 20 Mar 2015 10:01:00 +0100</pubDate>
+		<description>Interview réalisée par Fabio Cattaneo avec Maïka Bruni pour la compagnie Autonyme.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Micropolis spécial SACR: Exposition avec Couleurs</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Chronique de Florence Müller sur l&apos;exposition &apos;&apos; Avec couleurs&apos;&apos; qui se tient à la Bibliothèque Municipale de Lausanne.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1426842066_sacr-exposition-avec-couleurs.mp3" length="5455484" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1426842066_sacr-exposition-avec-couleurs.mp3</guid>
+		<pubDate>Fri, 20 Mar 2015 09:58:00 +0100</pubDate>
+		<description>Chronique de Florence Müller sur l&apos;exposition &apos;&apos; Avec couleurs&apos;&apos; qui se tient à la Bibliothèque Municipale de Lausanne.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Culture Banane: OVERGRASS / interview et session acoustique</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>OVERGRASS, jeune groupe de rock valaisan, est venu papoter avec nous et même pousser la chansonnette! (musique / interview/ session acoustique)</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1426538900_itw overgrass.mp3" length="18992482" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1426538900_itw overgrass.mp3</guid>
+		<pubDate>Mon, 16 Mar 2015 21:46:00 +0100</pubDate>
+		<description>OVERGRASS, jeune groupe de rock valaisan, est venu papoter avec nous et même pousser la chansonnette! (musique / interview/ session acoustique)</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Culture Banane: interview Marie Feihl</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Marie Feihl est venue nous parler du prochain festival FECULE!</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1426538710_itw marie feihl.mp3" length="9087267" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1426538710_itw marie feihl.mp3</guid>
+		<pubDate>Mon, 16 Mar 2015 21:44:00 +0100</pubDate>
+		<description>Marie Feihl est venue nous parler du prochain festival FECULE!</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Culture Banane: interview Dominique Hauser</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Dominique Hauser de la Grange de Dorigny est venue nous parler du prochain spectacle &apos;&apos;Le Chat du Rabin&apos;&apos;.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1426538635_itw dominique hauser.mp3" length="5946304" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1426538635_itw dominique hauser.mp3</guid>
+		<pubDate>Mon, 16 Mar 2015 21:42:00 +0100</pubDate>
+		<description>Dominique Hauser de la Grange de Dorigny est venue nous parler du prochain spectacle &apos;&apos;Le Chat du Rabin&apos;&apos;.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Culture Banane: interview avec Vincent Baudriller</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Vincent Baudriller, directeur du théâtre de Vidy, est venu nous parler du &apos;&apos;Programme Commun&apos;&apos;.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1426841346_vincent baudriller.mp3" length="9823154" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1426841346_vincent baudriller.mp3</guid>
+		<pubDate>Mon, 16 Mar 2015 21:00:00 +0100</pubDate>
+		<description>Vincent Baudriller, directeur du théâtre de Vidy, est venu nous parler du &apos;&apos;Programme Commun&apos;&apos;.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Interview Viviane morey</title>
+		<itunes:author>Marc Perez</itunes:author>
+		<itunes:summary>La directrice artistique de la fête du slip en personne!</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1425778641_int v.morey.mp3" length="9349746" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1425778641_int v.morey.mp3</guid>
+		<pubDate>Sun, 8 Mar 2015 02:35:00 +0100</pubDate>
+		<description>La directrice artistique de la fête du slip en personne!</description>
+		<category>Actualité - manifestations</category>
+	</item>
+	<item>
+		<title>Interview Daniel Hellmann</title>
+		<itunes:author>Marc Perez</itunes:author>
+		<itunes:summary>L&apos;interview du performeur suisse au festival de la fête du slip de Lausanne</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1425778487_int d.hellman.mp3" length="7502784" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1425778487_int d.hellman.mp3</guid>
+		<pubDate>Sun, 8 Mar 2015 02:33:00 +0100</pubDate>
+		<description>L&apos;interview du performeur suisse au festival de la fête du slip de Lausanne</description>
+		<category>Actualité - manifestations</category>
+	</item>
+	<item>
+		<title>Témoignage de Yasmine, lanceuse d&apos;alerte chez Nestlé</title>
+		<itunes:author>Clara Boismorand</itunes:author>
+		<itunes:summary>Yasmine, Ex-assistante vice-présidente, ancienne cheffe de la sécurité alimentaire chez Nestlé. Une plongée dans l&apos;enfer...</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1425218061_témoignage de yasmine, licensiée par nestlé.wav" length="83671084" type="audio/wav" />
+		<guid>http://podcast.frequencebanane.ch/files/1425218061_témoignage de yasmine, licensiée par nestlé.wav</guid>
+		<pubDate>Sun, 1 Mar 2015 15:27:34 +0100</pubDate>
+		<description>Yasmine, Ex-assistante vice-présidente, ancienne cheffe de la sécurité alimentaire chez Nestlé. Une plongée dans l&apos;enfer...</description>
+		<category>Culture - divers</category>
+	</item>
+	<item>
+		<title>Questions posées lors du débat portant sur Nestlé au Pakistan</title>
+		<itunes:author>Clara Boismorand</itunes:author>
+		<itunes:summary>Je suis Genève, je n&apos;en peux plus et je veux agir; Huit colombiens travaillant pour Nestlé assassinés, une coïncidence ? </itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1425217548_je suis geneve et je veux agir, 8 colombiens assassinés.wav" length="63577644" type="audio/wav" />
+		<guid>http://podcast.frequencebanane.ch/files/1425217548_je suis geneve et je veux agir, 8 colombiens assassinés.wav</guid>
+		<pubDate>Sun, 1 Mar 2015 15:27:20 +0100</pubDate>
+		<description>Je suis Genève, je n&apos;en peux plus et je veux agir; Huit colombiens travaillant pour Nestlé assassinés, une coïncidence ? </description>
+		<category>Culture - divers</category>
+	</item>
+	<item>
+		<title>Questions posées lors du débat portant sur Nestlé au Pakistan (2)</title>
+		<itunes:author>Clara Boismorand</itunes:author>
+		<itunes:summary>Nestlé assassine? Persona non grata ? Engine for growth?</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1425218038_nestlé and death, persona non grata, engine for growth.wav" length="94330924" type="audio/wav" />
+		<guid>http://podcast.frequencebanane.ch/files/1425218038_nestlé and death, persona non grata, engine for growth.wav</guid>
+		<pubDate>Sun, 1 Mar 2015 15:26:38 +0100</pubDate>
+		<description>Nestlé assassine? Persona non grata ? Engine for growth?</description>
+		<category>Culture - divers</category>
+	</item>
+	<item>
+		<title>Questions posées lors du débat portant sur Nestlé au Pakistan (3)</title>
+		<itunes:author>Clara Boismorand</itunes:author>
+		<itunes:summary>Des solutions? l&apos;OMS?</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1425217001_des solutions- oms.wav" length="44633644" type="audio/wav" />
+		<guid>http://podcast.frequencebanane.ch/files/1425217001_des solutions- oms.wav</guid>
+		<pubDate>Sun, 1 Mar 2015 15:26:17 +0100</pubDate>
+		<description>Des solutions? l&apos;OMS?</description>
+		<category>Culture - divers</category>
+	</item>
+	<item>
+		<title>Micropolis du 25 février 2015 </title>
+		<itunes:author>Alexandra Schmidt</itunes:author>
+		<itunes:summary>Où l&apos;on vous parle des réseaux sociaux, ainsi des dangers ou des plaisirs qu&apos;ils représentent.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1424888488_fb low quality broadcast 25 février 2015 17_59_50.mp3" length="86867393" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1424888488_fb low quality broadcast 25 février 2015 17_59_50.mp3</guid>
+		<pubDate>Wed, 25 Feb 2015 19:21:28 +0100</pubDate>
+		<description>Où l&apos;on vous parle des réseaux sociaux, ainsi des dangers ou des plaisirs qu&apos;ils représentent.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Micropolis du 24/02/2015 - Les conspirations</title>
+		<itunes:author>Quentin Anglio</itunes:author>
+		<itunes:summary>Sommes nous manipulés par les illuminatis et leurs potes ? reponse ici</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1424801665_fb low quality broadcast 24 février 2015 17_59_55.mp3" length="91345784" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1424801665_fb low quality broadcast 24 février 2015 17_59_55.mp3</guid>
+		<pubDate>Tue, 24 Feb 2015 19:14:25 +0100</pubDate>
+		<description>Sommes nous manipulés par les illuminatis et leurs potes ? reponse ici</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Café Kawa - C&apos;est reparti !</title>
+		<itunes:author>Hugo Stache</itunes:author>
+		<itunes:summary>La reprise du Café Kawa avec le groupe Omega !</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1424761698_fb low quality broadcast 24 février 2015 06_29_53.mp3" length="84556178" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1424761698_fb low quality broadcast 24 février 2015 06_29_53.mp3</guid>
+		<pubDate>Tue, 24 Feb 2015 08:08:18 +0100</pubDate>
+		<description>La reprise du Café Kawa avec le groupe Omega !</description>
+		<category>Général - divers</category>
+	</item>
+	<item>
+		<title>Black Movie 2015: Une Lucy de la direction et sa Betty</title>
+		<itunes:author>Pierre-Antoine Possa</itunes:author>
+		<itunes:summary>Black Movie 2015: Une Lucy de la direction et sa Betty, par Maria Watzlawick et Cetuss - FBGenève - par Pierre-Antoine Possa et Sarah Rempe</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1422028656_radio_black_21012015_directrice+cetusstravesti_pa_sarah.mp3" length="2889768" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1422028656_radio_black_21012015_directrice+cetusstravesti_pa_sarah.mp3</guid>
+		<pubDate>Fri, 23 Jan 2015 16:56:00 +0100</pubDate>
+		<description>Black Movie 2015: Une Lucy de la direction et sa Betty, par Maria Watzlawick et Cetuss - FBGenève - par Pierre-Antoine Possa et Sarah Rempe</description>
+		<category>Culture - cinéma</category>
+	</item>
+	<item>
+		<title>Café Kawa du 16.12.2014</title>
+		<itunes:author>Thibaut Clémence</itunes:author>
+		<itunes:summary> </itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1421699551_cafe kawa 16 decembre 2014.mp3" length="62160166" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1421699551_cafe kawa 16 decembre 2014.mp3</guid>
+		<pubDate>Mon, 19 Jan 2015 21:32:31 +0100</pubDate>
+		<description> </description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Jean dans La Musicale du 13 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>Les Dead Bunny.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418749785_la musicale 13 décembre 2014 jean.mp3" length="10168665" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418749785_la musicale 13 décembre 2014 jean.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 18:08:00 +0100</pubDate>
+		<description>Les Dead Bunny.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Thibaut dans La Musicale du 13 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>Il nous parle d&apos;Emigrate !</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418749691_la musicale 13 décembre 2014 thibault.mp3" length="11502551" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418749691_la musicale 13 décembre 2014 thibault.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 18:06:00 +0100</pubDate>
+		<description>Il nous parle d&apos;Emigrate !</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Maxime dans La Musicale du 13 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>Thurston Moore ça vous parle ?</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418749594_la musicale 13 décembre 2014 maxime.mp3" length="8531685" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418749594_la musicale 13 décembre 2014 maxime.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 18:05:00 +0100</pubDate>
+		<description>Thurston Moore ça vous parle ?</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Alexandra lue par Johann -  La Musicale du 13 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>Sur Iggy Pop et les Stooges</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418749350_la musicale 13 décembre 2014 alexandra.mp3" length="11447271" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418749350_la musicale 13 décembre 2014 alexandra.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 17:37:00 +0100</pubDate>
+		<description>Sur Iggy Pop et les Stooges</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Francois dans La Musicale du 13 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>Il nous parle de Thank You Satan.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418747804_la musicale 13 décembre 2014 francois.mp3" length="18179133" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418747804_la musicale 13 décembre 2014 francois.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 17:36:00 +0100</pubDate>
+		<description>Il nous parle de Thank You Satan.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>La Plage (par Arthur) de La Musicale du 13 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary> </itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418747750_la musicale 13 décembre 2014 la plage.mp3" length="47067331" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418747750_la musicale 13 décembre 2014 la plage.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 17:34:00 +0100</pubDate>
+		<description> </description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Fin de La Musicale du 13 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary> </itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418747648_la musicale 13 décembre 2014 fin.mp3" length="5347769" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418747648_la musicale 13 décembre 2014 fin.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 17:33:00 +0100</pubDate>
+		<description> </description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Début de la Banane Rose du 8 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary> </itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418747576_banane rose 2014-12-08 21_01_02.mp3" length="15664524" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418747576_banane rose 2014-12-08 21_01_02.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 17:32:00 +0100</pubDate>
+		<description> </description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>L&apos;histoire sans queue de Johann - Banane Rose du 8 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>Des sextoys pour Noël ? Pour un enfant ? Et que vient faire le père Noël russe dans l&apos;histoire (St. Nicolas) ?</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418747546_banane rose 2014-12-08 21_15_10.mp3" length="17134082" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418747546_banane rose 2014-12-08 21_15_10.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 17:29:00 +0100</pubDate>
+		<description>Des sextoys pour Noël ? Pour un enfant ? Et que vient faire le père Noël russe dans l&apos;histoire (St. Nicolas) ?</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>La chronique de Basile - Banane Rose du 8 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>Des idées de cadeaux ? Merci Basile.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418747377_banane rose 2014-12-08 21_30_47.mp3" length="15633183" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418747377_banane rose 2014-12-08 21_30_47.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 17:28:00 +0100</pubDate>
+		<description>Des idées de cadeaux ? Merci Basile.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>La chronique d&apos;Albéric - Banane Rose du 8 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>Ne ratez pas la chute très... silencieuse! Puis la déclaration d&apos;amour d&apos;Albéric à Basile, appuyé par la BO du Titanic, placé par Margherita.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418747299_banane rose 2014-12-08 21_46_24.mp3" length="20429332" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418747299_banane rose 2014-12-08 21_46_24.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 17:24:00 +0100</pubDate>
+		<description>Ne ratez pas la chute très... silencieuse! Puis la déclaration d&apos;amour d&apos;Albéric à Basile, appuyé par la BO du Titanic, placé par Margherita.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>La vidéo sur les sextoys - Banane Rose du 8 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>Avec la lecture languoureuse des questions par Margherita, et des commentaires inappropriés de la part des hommes.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418747059_banane rose 2014-12-08 22_04_12.mp3" length="22335585" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418747059_banane rose 2014-12-08 22_04_12.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 17:19:00 +0100</pubDate>
+		<description>Avec la lecture languoureuse des questions par Margherita, et des commentaires inappropriés de la part des hommes.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Fin de la Banane Rose du 8 decembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary> </itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418746758_banane rose 2014-12-08 22_23_09.mp3" length="12616265" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418746758_banane rose 2014-12-08 22_23_09.mp3</guid>
+		<pubDate>Tue, 16 Dec 2014 17:18:00 +0100</pubDate>
+		<description> </description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Introduction de la Banane Rose du 24 novembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>Avec un bon ptit jingle live (presque) raté et un bon petit bruitages façon &quot;extrait de film&quot; bien approprié pour une émission orgasmique.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418598196_banane rose 2014-11-24 21_01_07.mp3" length="14388073" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418598196_banane rose 2014-11-24 21_01_07.mp3</guid>
+		<pubDate>Mon, 1 Dec 2014 23:59:00 +0100</pubDate>
+		<description>Avec un bon ptit jingle live (presque) raté et un bon petit bruitages façon &quot;extrait de film&quot; bien approprié pour une émission orgasmique.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Bla bla de Johann - Banane Rose du 24 novembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>Margherita décontenancée par une ouverture tardive des micros finit tout de même par introduire Johann pour un bon bla bla.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418597983_banane rose 2014-11-24 21_11_15.mp3" length="10632560" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418597983_banane rose 2014-11-24 21_11_15.mp3</guid>
+		<pubDate>Mon, 1 Dec 2014 23:58:00 +0100</pubDate>
+		<description>Margherita décontenancée par une ouverture tardive des micros finit tout de même par introduire Johann pour un bon bla bla.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Suite du bla bla de Johann - Banane Rose du 24 novembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>Un peu plus de bla bla concernant le plaisir féminin et masculin.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418597880_banane rose 2014-11-24 21_21_58.mp3" length="22015548" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418597880_banane rose 2014-11-24 21_21_58.mp3</guid>
+		<pubDate>Mon, 1 Dec 2014 23:55:00 +0100</pubDate>
+		<description>Un peu plus de bla bla concernant le plaisir féminin et masculin.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Albéric, Quizz, et Fin de la Banane Rose du 24 novembre 2014</title>
+		<itunes:author>Johann Lozano</itunes:author>
+		<itunes:summary>L&apos;éclairage d&apos;Albéric sur les orgasmes, puis (avec difficulté) l&apos;arrivée du quizz de fin d&apos;émission.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1418597730_banane rose 2014-11-24 21_44_11.mp3" length="46660342" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1418597730_banane rose 2014-11-24 21_44_11.mp3</guid>
+		<pubDate>Mon, 1 Dec 2014 23:50:00 +0100</pubDate>
+		<description>L&apos;éclairage d&apos;Albéric sur les orgasmes, puis (avec difficulté) l&apos;arrivée du quizz de fin d&apos;émission.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>RIDM - Discussion autour du film Le Nez - par Youri et Marion</title>
+		<itunes:author>Marion Malique</itunes:author>
+		<itunes:summary>Rendez-vous du 12 au 23 novembre 2014 pour les Rencontres Internationales du Documentaire de Montréal.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1416170661_ridm-discussionautourdufilmlenez-paryourietmarion.mp3" length="9930446" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1416170661_ridm-discussionautourdufilmlenez-paryourietmarion.mp3</guid>
+		<pubDate>Sun, 16 Nov 2014 21:26:00 +0100</pubDate>
+		<description>Rendez-vous du 12 au 23 novembre 2014 pour les Rencontres Internationales du Documentaire de Montréal.</description>
+		<category>Culture - cinéma</category>
+	</item>
+	<item>
+		<title>RIDM - The Flying Stars - par Youri</title>
+		<itunes:author>Youri Bernet</itunes:author>
+		<itunes:summary>Rendez-vous du 12 au 23 novembre 2014 pour les Rencontres Internationales du Documentaire de Montréal.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1416114568_ridm-theflyingstars-paryouri.mp3" length="10264787" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1416114568_ridm-theflyingstars-paryouri.mp3</guid>
+		<pubDate>Sun, 16 Nov 2014 06:05:00 +0100</pubDate>
+		<description>Rendez-vous du 12 au 23 novembre 2014 pour les Rencontres Internationales du Documentaire de Montréal.</description>
+		<category>Culture - cinéma</category>
+	</item>
+	<item>
+		<title>Culture Banane: Interview de Marc Zendrini pour le LUFF 2014 partie 2</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Marc Zendrini, attaché de presse du LUFF nous parle de ce festival porte parole de la culture underground. </itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1413964435_itw.luff.marczendrini.part2.mp3" length="11160345" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1413964435_itw.luff.marczendrini.part2.mp3</guid>
+		<pubDate>Wed, 22 Oct 2014 09:52:00 +0200</pubDate>
+		<description>Marc Zendrini, attaché de presse du LUFF nous parle de ce festival porte parole de la culture underground. </description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Culture Banane: Interview de Marc Zendrini pour le LUFF 2014 partie 1</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Marc Zendrini, attaché de presse du LUFF nous parle de ce festival porte parole de la culture underground.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1413964303_itw.luff.marczendrini.part1.mp3" length="7855124" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1413964303_itw.luff.marczendrini.part1.mp3</guid>
+		<pubDate>Wed, 22 Oct 2014 09:49:00 +0200</pubDate>
+		<description>Marc Zendrini, attaché de presse du LUFF nous parle de ce festival porte parole de la culture underground.</description>
+		<category>Fréquence Banane - émissions</category>
+	</item>
+	<item>
+		<title>Allo Montréal ! - CURRENT - Entrevue: Alejandro Figueroa - par Marion</title>
+		<itunes:author>Marion Malique</itunes:author>
+		<itunes:summary>L&apos;Arsenal, Speakeasy et Station 16 présentent l&apos;exposition de street art: CURRENT</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1413056786_allomontreal-current-entrevue-alejandrofigueroa-parmarion.mp3" length="5396012" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1413056786_allomontreal-current-entrevue-alejandrofigueroa-parmarion.mp3</guid>
+		<pubDate>Sat, 11 Oct 2014 21:41:00 +0200</pubDate>
+		<description>L&apos;Arsenal, Speakeasy et Station 16 présentent l&apos;exposition de street art: CURRENT</description>
+		<category>Culture - divers</category>
+	</item>
+	<item>
+		<title>Interview de la navigatrice Justine Mettraux</title>
+		<itunes:author>Antonin Python</itunes:author>
+		<itunes:summary>La navigatrice Justine Mettraux a répondu à nos questions quelques heures avant le début de la Volvo Ocean Race</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1413046968_mettraux2.mp3" length="11056064" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1413046968_mettraux2.mp3</guid>
+		<pubDate>Sat, 11 Oct 2014 17:52:00 +0200</pubDate>
+		<description>La navigatrice Justine Mettraux a répondu à nos questions quelques heures avant le début de la Volvo Ocean Race</description>
+		<category>Actualité - sport</category>
+	</item>
+	<item>
+		<title>MacropolisPolitik - La monnaie locale, par Aude</title>
+		<itunes:author>Aude Chollet</itunes:author>
+		<itunes:summary>08.10.14 - Aujourd&apos;hui j&apos;me suis dit : La monnaie locale, par Aude - MacropolisPolitik</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1412949992_aude_monnaielocale.mp3" length="43933812" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1412949992_aude_monnaielocale.mp3</guid>
+		<pubDate>Fri, 10 Oct 2014 16:06:32 +0200</pubDate>
+		<description>08.10.14 - Aujourd&apos;hui j&apos;me suis dit : La monnaie locale, par Aude - MacropolisPolitik</description>
+		<category>Actualité - économie</category>
+	</item>
+	<item>
+		<title>Label Suisse: Microttoir lors du concert de The Young Gods</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Retour sur le concert de The Young Gods le 20 septembre à Label Suisse.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1411390393_microtort young gods label suisse.mp3" length="9105713" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1411390393_microtort young gods label suisse.mp3</guid>
+		<pubDate>Mon, 22 Sep 2014 14:51:00 +0200</pubDate>
+		<description>Retour sur le concert de The Young Gods le 20 septembre à Label Suisse.</description>
+		<category>Musique - suisse</category>
+	</item>
+	<item>
+		<title>Interview de Marius Kaeser, initiateur du projet Kadebostany</title>
+		<itunes:author>Camille Poursac</itunes:author>
+		<itunes:summary>Quelques mots de Marius Kaeser, promoteur de la musique Suisse pour Pro Helvetia.</itunes:summary>
+		<enclosure url="http://podcast.frequencebanane.ch/files/1411388084_itw marius kaeser kadebostany.mp3" length="5183578" type="audio/mpeg" />
+		<guid>http://podcast.frequencebanane.ch/files/1411388084_itw marius kaeser kadebostany.mp3</guid>
+		<pubDate>Mon, 22 Sep 2014 14:13:00 +0200</pubDate>
+		<description>Quelques mots de Marius Kaeser, promoteur de la musique Suisse pour Pro Helvetia.</description>
+		<category>Musique - suisse</category>
+	</item>
+
+</channel>
+</rss>

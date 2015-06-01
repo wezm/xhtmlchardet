@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> <?xml-stylesheet type="text/xsl" href="http://dinamics.ccma.cat/public/podcast/catradio/xsl/master_tmpl.xsl" version="1.0"?> <rss xmlns:encoder="java.net.URLEncoder" xmlns:java="java" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Contrapunts</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Els crítics de Catalunya Música ens donen el seu parer sobre alguns dels concerts més destacats dels que es fan setmanalment al nostre país. Contrasteu-lo amb la vostra opinió. Els contrapunts expressen l'opinió individual de cada crític, no la de Catalunya Música.
+
+Contrapunts de Xavier Chavarria
+
+Contrapunts de Xavier Cester
+
+Contrapunts de Mònica Pagès
+
+Contrapunts de Jaume Radigales
+
+Contrapunts d'Antoni Colomer
+
+Contrapunts d'Aleix Palau</description>
+<ttl>61</ttl>
+<pubDate>Tue, 21 Nov 2006 14:11:51 GMT</pubDate>
+<lastBuildDate>Tue, 02 Dec 2014 13:12:51 GMT</lastBuildDate>
+<language>ca-es</language>
+<copyright>Corporació Catalana de Mitjans Audiovisuals, SA</copyright>
+<managingEditor>cmusica@catradio.cat(Catalunya Ràdio)</managingEditor>
+<itunes:owner>
+<itunes:name>Corporació Catalana de Mitjans Audiovisuals, SA</itunes:name>
+<itunes:email>cmusica@catradio.cat</itunes:email>
+</itunes:owner>
+<image>
+<title>Catalunya Ràdio</title>
+<url>http://statics.ccma.cat/multimedia/jpg/4/6/1358250978464.jpg</url>
+<link>http://www.ccma.cat/catradio</link>
+<width>144</width>
+<height>144</height>
+</image>
+<itunes:image href="http://statics.ccma.cat/multimedia/jpg/3/4/1358250992843.jpg"/>
+<itunes:link href="http://statics.ccma.cat/multimedia/jpg/3/4/1358250992843.jpg" type="video/jpeg" rel="image">Catalunya Radio</itunes:link>
+<itunes:summary>Els crítics de Catalunya Música ens donen el seu parer sobre alguns dels concerts més destacats dels que es fan setmanalment al nostre país. Contrasteu-lo amb la vostra opinió. Els contrapunts expressen l'opinió individual de cada crític, no la de Catalunya Música.
+
+Contrapunts de Xavier Chavarria
+
+Contrapunts de Xavier Cester
+
+Contrapunts de Mònica Pagès
+
+Contrapunts de Jaume Radigales
+
+Contrapunts d'Antoni Colomer
+
+Contrapunts d'Aleix Palau</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>Podcasting</itunes:subtitle>
+<category>Music</category>
+<itunes:category text="Music"/>
+<itunes:category text="Arts"/>
+<itunes:block>no</itunes:block>
+<item>
+<title>Monogràfic Casablancas. Per Xavier Chavarria. - 27/05/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Concert del Sampler Sèries, amb BCN216. L'Auditori 21/05/2015</description>
+<pubDate>Wed, 27 May 2015 00:05:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Monogràfic Casablancas. Per Xavier Chavarria. - 27/05/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="10054800" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/2/0/1432732824902.mp3&amp;programa=Contrapunts&amp;var10=Monogr%E0fic+Casablancas.+Per+Xavier+Chavarria.+-+27%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=883360&amp;var14=883360&amp;v25=Catalunya+R%E0dio&amp;var19=27/05/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/2/0/1432732824902.mp3&amp;programa=Contrapunts&amp;var10=Monogr%E0fic+Casablancas.+Per+Xavier+Chavarria.+-+27%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=883360&amp;var14=883360&amp;v25=Catalunya+R%E0dio&amp;var19=27/05/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:48</itunes:duration>
+</item>
+<item>
+<title>De Bach a Stravinsky. Per Antoni Colomer. - 22/05/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del concert de l'OBC, dirigit per Masaaki Suzuki. L'Auditori 22/05/2015</description>
+<pubDate>Fri, 22 May 2015 00:05:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>De Bach a Stravinsky. Per Antoni Colomer. - 22/05/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="8290800" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/4/5/1432560921654.mp3&amp;programa=Contrapunts&amp;var10=De+Bach+a+Stravinsky.+Per+Antoni+Colomer.+-+22%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=883045&amp;var14=883045&amp;v25=Catalunya+R%E0dio&amp;var19=22/05/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/4/5/1432560921654.mp3&amp;programa=Contrapunts&amp;var10=De+Bach+a+Stravinsky.+Per+Antoni+Colomer.+-+22%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=883045&amp;var14=883045&amp;v25=Catalunya+R%E0dio&amp;var19=22/05/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:08</itunes:duration>
+</item>
+<item>
+<title>Sense ànima. Per Antoni Colomer - 21/05/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del concert d'Ivo Pogorelich . Palau de la Música 21/05/2015</description>
+<pubDate>Thu, 21 May 2015 00:05:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Sense ànima. Per Antoni Colomer - 21/05/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="7893900" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/1/9/1432561222891.mp3&amp;programa=Contrapunts&amp;var10=Sense+%E0nima.+Per+Antoni+Colomer+-+21%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=883046&amp;var14=883046&amp;v25=Catalunya+R%E0dio&amp;var19=21/05/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/1/9/1432561222891.mp3&amp;programa=Contrapunts&amp;var10=Sense+%E0nima.+Per+Antoni+Colomer+-+21%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=883046&amp;var14=883046&amp;v25=Catalunya+R%E0dio&amp;var19=21/05/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:02:59</itunes:duration>
+</item>
+<item>
+<title>Aniversari amb Claudio Monteverdi. Per Xavier Chavarria. - 21/05/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del concert de l'Ensemble Musica Aperta. Palau de la Música  17/05/2015</description>
+<pubDate>Thu, 21 May 2015 00:05:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Aniversari amb Claudio Monteverdi. Per Xavier Chavarria. - 21/05/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="10010700" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/3/4/1432210831343.mp3&amp;programa=Contrapunts&amp;var10=Aniversari+amb+Claudio+Monteverdi.+Per+Xavier+Chavarria.+-+21%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=882636&amp;var14=882636&amp;v25=Catalunya+R%E0dio&amp;var19=21/05/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/3/4/1432210831343.mp3&amp;programa=Contrapunts&amp;var10=Aniversari+amb+Claudio+Monteverdi.+Per+Xavier+Chavarria.+-+21%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=882636&amp;var14=882636&amp;v25=Catalunya+R%E0dio&amp;var19=21/05/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:47</itunes:duration>
+</item>
+<item>
+<title>Così lúcid i pessimista al Liceu. Per Jaume Radigales. - 20/05/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica de l'òpera Così fan tutte. Gran Teatre del Liceu 20/05/2015</description>
+<pubDate>Wed, 20 May 2015 00:05:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Così lúcid i pessimista al Liceu. Per Jaume Radigales. - 20/05/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="8511300" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/0/5/1432195510150.mp3&amp;programa=Contrapunts&amp;var10=Cos%EC+l%FAcid+i+pessimista+al+Liceu.+Per+Jaume+Radigales.+-+20%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=882599&amp;var14=882599&amp;v25=Catalunya+R%E0dio&amp;var19=20/05/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/0/5/1432195510150.mp3&amp;programa=Contrapunts&amp;var10=Cos%EC+l%FAcid+i+pessimista+al+Liceu.+Per+Jaume+Radigales.+-+20%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=882599&amp;var14=882599&amp;v25=Catalunya+R%E0dio&amp;var19=20/05/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:13</itunes:duration>
+</item>
+<item>
+<title>Tot debutant Eugene Onegin. Per Aleix Palau. - 15/05/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica de l'òpera Eugene Onegin. Teatre Principal de Palma 15/05/2015</description>
+<pubDate>Fri, 15 May 2015 00:05:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Tot debutant Eugene Onegin. Per Aleix Palau. - 15/05/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="8070300" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/9/2/1432203622729.mp3&amp;programa=Contrapunts&amp;var10=Tot+debutant+Eugene+Onegin.+Per+Aleix+Palau.+-+15%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=882628&amp;var14=882628&amp;v25=Catalunya+R%E0dio&amp;var19=15/05/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/9/2/1432203622729.mp3&amp;programa=Contrapunts&amp;var10=Tot+debutant+Eugene+Onegin.+Per+Aleix+Palau.+-+15%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=882628&amp;var14=882628&amp;v25=Catalunya+R%E0dio&amp;var19=15/05/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:03</itunes:duration>
+</item>
+<item>
+<title>La lliçó de música de Murray Perahia. Per Xavier Cester. - 13/05/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del concert del pianista al Palau de la Música 13/05/2015</description>
+<pubDate>Wed, 13 May 2015 00:05:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>La lliçó de música de Murray Perahia. Per Xavier Cester. - 13/05/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="6350400" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/0/5/1431617715950.mp3&amp;programa=Contrapunts&amp;var10=La+lli%E7%F3+de+m%FAsica+de+Murray+Perahia.+Per+Xavier+Cester.+-+13%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=881536&amp;var14=881536&amp;v25=Catalunya+R%E0dio&amp;var19=13/05/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/0/5/1431617715950.mp3&amp;programa=Contrapunts&amp;var10=La+lli%E7%F3+de+m%FAsica+de+Murray+Perahia.+Per+Xavier+Cester.+-+13%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=881536&amp;var14=881536&amp;v25=Catalunya+R%E0dio&amp;var19=13/05/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:02:24</itunes:duration>
+</item>
+<item>
+<title>El so de Martha. Per Mònica Pagès. - 06/05/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del concert de Martha Argerich i l'Orquestra da Camera. Palau de la Música 06/05/2015</description>
+<pubDate>Wed, 06 May 2015 00:05:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>El so de Martha. Per Mònica Pagès. - 06/05/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="9261000" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/3/5/1430990408953.mp3&amp;programa=Contrapunts&amp;var10=El+so+de+Martha.+Per+M%F2nica+Pag%E8s.+-+06%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=880621&amp;var14=880621&amp;v25=Catalunya+R%E0dio&amp;var19=06/05/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/3/5/1430990408953.mp3&amp;programa=Contrapunts&amp;var10=El+so+de+Martha.+Per+M%F2nica+Pag%E8s.+-+06%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=880621&amp;var14=880621&amp;v25=Catalunya+R%E0dio&amp;var19=06/05/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:30</itunes:duration>
+</item>
+<item>
+<title>Un Vivaldi de luxe. Per Aleix Palau. - 05/05/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del concert de l'Ensemble Zefiro amb la flautista Dorothee Oberlinger. L'Auditori de Barcelona 05/05/2015</description>
+<pubDate>Tue, 05 May 2015 00:05:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Un Vivaldi de luxe. Per Aleix Palau. - 05/05/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="8599500" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/0/0/1430918724600.mp3&amp;programa=Contrapunts&amp;var10=Un+Vivaldi+de+luxe.+Per+Aleix+Palau.+-+05%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=880522&amp;var14=880522&amp;v25=Catalunya+R%E0dio&amp;var19=05/05/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/0/0/1430918724600.mp3&amp;programa=Contrapunts&amp;var10=Un+Vivaldi+de+luxe.+Per+Aleix+Palau.+-+05%2F05%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=880522&amp;var14=880522&amp;v25=Catalunya+R%E0dio&amp;var19=05/05/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:15</itunes:duration>
+</item>
+<item>
+<title>Plácido Domingo torna a triomfar al Liceu. Per Jaume Radigales - 30/04/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica de l'òpera Foscari, en versió concert. Gran Teatre del Liceu 30/04/2015
+ 
+</description>
+<pubDate>Thu, 30 Apr 2015 00:04:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Plácido Domingo torna a triomfar al Liceu. Per Jaume Radigales - 30/04/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="8026200" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/2/9/1430989511292.mp3&amp;programa=Contrapunts&amp;var10=Pl%E1cido+Domingo+torna+a+triomfar+al+Liceu.+Per+Jaume+Radigales+-+30%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=880617&amp;var14=880617&amp;v25=Catalunya+R%E0dio&amp;var19=30/04/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/2/9/1430989511292.mp3&amp;programa=Contrapunts&amp;var10=Pl%E1cido+Domingo+torna+a+triomfar+al+Liceu.+Per+Jaume+Radigales+-+30%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=880617&amp;var14=880617&amp;v25=Catalunya+R%E0dio&amp;var19=30/04/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:02</itunes:duration>
+</item>
+<item>
+<title>L'àngel de Pau Codina. Per Mònica Pagès. - 29/04/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del concert del violoncel·lista Pau Codina i la pianista Lilit Grigoryan. Palau de la Música 29/04/2015</description>
+<pubDate>Wed, 29 Apr 2015 00:04:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>L'àngel de Pau Codina. Per Mònica Pagès. - 29/04/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="8511300" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/3/3/1430381714033.mp3&amp;programa=Contrapunts&amp;var10=L%27%E0ngel+de+Pau+Codina.+Per+M%F2nica+Pag%E8s.+-+29%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=879715&amp;var14=879715&amp;v25=Catalunya+R%E0dio&amp;var19=29/04/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/3/3/1430381714033.mp3&amp;programa=Contrapunts&amp;var10=L%27%E0ngel+de+Pau+Codina.+Per+M%F2nica+Pag%E8s.+-+29%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=879715&amp;var14=879715&amp;v25=Catalunya+R%E0dio&amp;var19=29/04/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:13</itunes:duration>
+</item>
+<item>
+<title>Seducció barroca amb Juan de la Rubia. Per Aleix Palau. - 29/04/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del concert de l'Orquestra Barroca de Friburg, amb l'organista Juan de la Rubia. Palau de la Música 27/04/2015</description>
+<pubDate>Wed, 29 Apr 2015 00:04:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Seducció barroca amb Juan de la Rubia. Per Aleix Palau. - 29/04/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="7585200" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/5/2/1430320505525.mp3&amp;programa=Contrapunts&amp;var10=Seducci%F3+barroca+amb+Juan+de+la+Rubia.+Per+Aleix+Palau.+-+29%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=879644&amp;var14=879644&amp;v25=Catalunya+R%E0dio&amp;var19=29/04/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/5/2/1430320505525.mp3&amp;programa=Contrapunts&amp;var10=Seducci%F3+barroca+amb+Juan+de+la+Rubia.+Per+Aleix+Palau.+-+29%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=879644&amp;var14=879644&amp;v25=Catalunya+R%E0dio&amp;var19=29/04/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:02:52</itunes:duration>
+</item>
+<item>
+<title>Turandot o el gran repte assolit de Sabadell. Per Jaume Radigales. - 26/04/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica de l'òpera Turandot al Teatre de la Faràndula de Sabadell. 26/04/2015
+ 
+</description>
+<pubDate>Sun, 26 Apr 2015 00:04:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Turandot o el gran repte assolit de Sabadell. Per Jaume Radigales. - 26/04/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="7805700" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/9/3/1430382924339.mp3&amp;programa=Contrapunts&amp;var10=Turandot+o+el+gran+repte+assolit+de+Sabadell.+Per+Jaume+Radigales.+-+26%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=879726&amp;var14=879726&amp;v25=Catalunya+R%E0dio&amp;var19=26/04/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/9/3/1430382924339.mp3&amp;programa=Contrapunts&amp;var10=Turandot+o+el+gran+repte+assolit+de+Sabadell.+Per+Jaume+Radigales.+-+26%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=879726&amp;var14=879726&amp;v25=Catalunya+R%E0dio&amp;var19=26/04/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:02:57</itunes:duration>
+</item>
+<item>
+<title>Arcadi Volodos, al rescat. Per Xavier Cester. - 23/04/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del concert del pianista Arcadi Volodos. Palau de la Música 23/04/2015</description>
+<pubDate>Thu, 23 Apr 2015 00:04:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Arcadi Volodos, al rescat. Per Xavier Cester. - 23/04/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="7761600" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/7/8/1429887019087.mp3&amp;programa=Contrapunts&amp;var10=Arcadi+Volodos%2C+al+rescat.+Per+Xavier+Cester.+-+23%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=879012&amp;var14=879012&amp;v25=Catalunya+R%E0dio&amp;var19=23/04/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/7/8/1429887019087.mp3&amp;programa=Contrapunts&amp;var10=Arcadi+Volodos%2C+al+rescat.+Per+Xavier+Cester.+-+23%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=879012&amp;var14=879012&amp;v25=Catalunya+R%E0dio&amp;var19=23/04/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:02:56</itunes:duration>
+</item>
+<item>
+<title>L'Ensemble Recherche al Festival Mixtur. Per Mònica Pagès. - 23/04/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del concert del conjunt instrumental a la Fàbrica de Creació Fabra i Coats. Barcelona 23/04/2015</description>
+<pubDate>Thu, 23 Apr 2015 00:04:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>L'Ensemble Recherche al Festival Mixtur. Per Mònica Pagès. - 23/04/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="10319400" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/8/5/1429870818158.mp3&amp;programa=Contrapunts&amp;var10=L%27Ensemble+Recherche+al+Festival+Mixtur.+Per+M%F2nica+Pag%E8s.+-+23%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=878958&amp;var14=878958&amp;v25=Catalunya+R%E0dio&amp;var19=23/04/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/8/5/1429870818158.mp3&amp;programa=Contrapunts&amp;var10=L%27Ensemble+Recherche+al+Festival+Mixtur.+Per+M%F2nica+Pag%E8s.+-+23%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=878958&amp;var14=878958&amp;v25=Catalunya+R%E0dio&amp;var19=23/04/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:54</itunes:duration>
+</item>
+<item>
+<title>El talent del Quartet Gringolts. Per Xavier Chavarria. - 22/04/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del concert del cicle de Cambra, amb el Quartet Gringolts. L'Auditori de Barcelona 16/04/2015</description>
+<pubDate>Wed, 22 Apr 2015 00:04:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>El talent del Quartet Gringolts. Per Xavier Chavarria. - 22/04/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="10980900" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/5/5/1429707620255.mp3&amp;programa=Contrapunts&amp;var10=El+talent+del+Quartet+Gringolts.+Per+Xavier+Chavarria.+-+22%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=878668&amp;var14=878668&amp;v25=Catalunya+R%E0dio&amp;var19=22/04/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/5/5/1429707620255.mp3&amp;programa=Contrapunts&amp;var10=El+talent+del+Quartet+Gringolts.+Per+Xavier+Chavarria.+-+22%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=878668&amp;var14=878668&amp;v25=Catalunya+R%E0dio&amp;var19=22/04/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:04:09</itunes:duration>
+</item>
+<item>
+<title>Padmore i la Molinera. Per Antoni Colomer. - 19/04/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del recital de lieder "La bella Molinera". Palau de la Música Catalana 19/04/2015</description>
+<pubDate>Sun, 19 Apr 2015 00:04:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Padmore i la Molinera. Per Antoni Colomer. - 19/04/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="10363500" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/2/3/1429533906932.mp3&amp;programa=Contrapunts&amp;var10=Padmore+i+la+Molinera.+Per+Antoni+Colomer.+-+19%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=878328&amp;var14=878328&amp;v25=Catalunya+R%E0dio&amp;var19=19/04/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/2/3/1429533906932.mp3&amp;programa=Contrapunts&amp;var10=Padmore+i+la+Molinera.+Per+Antoni+Colomer.+-+19%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=878328&amp;var14=878328&amp;v25=Catalunya+R%E0dio&amp;var19=19/04/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:55</itunes:duration>
+</item>
+<item>
+<title>Bizet i Bieito salven Carmen al Liceu. Per Jaume Radigales. - 17/04/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica de l'òpera Carmen. Gran Teatre del Liceu 17/04/2015</description>
+<pubDate>Fri, 17 Apr 2015 00:04:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Bizet i Bieito salven Carmen al Liceu. Per Jaume Radigales. - 17/04/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="8334900" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/3/6/1429532135263.mp3&amp;programa=Contrapunts&amp;var10=Bizet+i+Bieito+salven+Carmen+al+Liceu.+Per+Jaume+Radigales.+-+17%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=878326&amp;var14=878326&amp;v25=Catalunya+R%E0dio&amp;var19=17/04/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/3/6/1429532135263.mp3&amp;programa=Contrapunts&amp;var10=Bizet+i+Bieito+salven+Carmen+al+Liceu.+Per+Jaume+Radigales.+-+17%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=878326&amp;var14=878326&amp;v25=Catalunya+R%E0dio&amp;var19=17/04/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:09</itunes:duration>
+</item>
+<item>
+<title>Joves però sobradament preparats - 14/04/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica del concert de la Jove Orquestra Gustav Mahler, l'Orfeó Català i el Cor de Cambra del Palau de la Música, dirigits per Jonathan Nott 12/04/2015</description>
+<pubDate>Tue, 14 Apr 2015 00:04:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Joves però sobradament preparats - 14/04/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="8158500" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/1/3/1429024526731.mp3&amp;programa=Contrapunts&amp;var10=Joves+per%F2+sobradament+preparats+-+14%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=877576&amp;var14=877576&amp;v25=Catalunya+R%E0dio&amp;var19=14/04/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/1/3/1429024526731.mp3&amp;programa=Contrapunts&amp;var10=Joves+per%F2+sobradament+preparats+-+14%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=877576&amp;var14=877576&amp;v25=Catalunya+R%E0dio&amp;var19=14/04/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:03:05</itunes:duration>
+</item>
+<item>
+<title>Els gustos reunits de Jordi Savall. Per Aleix Palau. - 09/04/15</title>
+<link>http://www.ccma.cat/catradio/contrapunts/fitxa-programa/977</link>
+<description>Crítica de l'últim concert del cicle El So Original. Drassanes de Barcelona 09/04/2015</description>
+<pubDate>Thu, 09 Apr 2015 00:04:00 GMT</pubDate>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>Els gustos reunits de Jordi Savall. Per Aleix Palau. - 09/04/15</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<category>Actualitat</category>
+<enclosure type="audio/mpeg" length="7452900" url="http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/1/1/1428673512711.mp3&amp;programa=Contrapunts&amp;var10=Els+gustos+reunits+de+Jordi+Savall.+Per+Aleix+Palau.+-+09%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=877179&amp;var14=877179&amp;v25=Catalunya+R%E0dio&amp;var19=09/04/15&amp;var12=Programes&amp;var18=36763"/>
+<guid>http://scpodcast.catradio.cat/podcast.mp3?download=http://statics.ccma.cat/multimedia/mp3/1/1/1428673512711.mp3&amp;programa=Contrapunts&amp;var10=Els+gustos+reunits+de+Jordi+Savall.+Per+Aleix+Palau.+-+09%2F04%2F15&amp;var11=video&amp;var15=977&amp;var20=Podcast&amp;var29=Audio&amp;var3=877179&amp;var14=877179&amp;v25=Catalunya+R%E0dio&amp;var19=09/04/15&amp;var12=Programes&amp;var18=36763</guid>
+<itunes:duration>00:02:49</itunes:duration>
+</item>
+</channel>
+</rss>

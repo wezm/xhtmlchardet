@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="IBM864"?>
+<rss version="2.0">
+	<channel>
+	<generator>Feed Editor (Unlicensed)</generator>
+	<pubDate>23 Oct 2007 13:06:38 +0100</pubDate>
+	<title>Music From Brazil</title>
+	<description>Music From Brasil Podcast es un programa de musica brasilera, que a cada mes trae un nuevo artista invitado para hablar y mostrar su musica. Aqui se escucha MPB, JAZZ, SAMBA y MUSICA INSTRUMENTAL, siempre brasilera.  
+Grabado en el estudio del sello Buena Onda en Sao Paulo, Brasil, el programa es generado originalmente en portugues y luego doblado al espanol y ingles.</description>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<copyright>Buena Onda Brazil, 2006</copyright>
+	<managingEditor>Marcelo Martos - marcelo@micromar.com</managingEditor>
+	<category domain="musicfrombrazil.com.br">Music and Interview</category>
+	<language>pt-br</language>
+	<webMaster>Marcelo Martos - marcelo@micromar.com</webMaster>
+	<image>
+	<url>http://www.musicfrombrazil.com.br/mfb_logo.jpg</url>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<title>Logo</title>
+	</image>
+	<item>
+	<title>Music From Brazil - 15</title>
+	<description>En este programa recibimos al baterista Cuca Teixeira.</description>
+	<pubDate>19 Mar 2008 23:53:21 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-015-es.mp3" length="60170786" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_15_es.html</guid>
+	</item>
+	<item>
+	<title>Music From Brazil - 14</title>
+	<description>En este programa recibimos al guitarrista  y compositor Alex Buck.</description>
+	<pubDate>10 Dec 2007 10:14:39 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-014-es.mp3" length="55238032" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_14_es.html</guid>
+	</item>
+	<item>
+	<title>Music From Brazil - 13</title>
+	<description>En este programa recibimos al baterista, pianista  y compositor Alex Buck.</description>
+	<pubDate>23 Oct 2007 13:07:14 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-013-es.mp3" length="62390567" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_13_es.html</guid>
+	</item>
+	<item>
+	<title>Music From Brazil - 12</title>
+	<description>En este programa recibimos al guitarrista y compositor Chico Pinheiro.</description>
+	<pubDate>29 Aug 2007 16:29:44 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-012-es.mp3" length="56338936" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_12_es1.html</guid>
+	</item>
+	<item>
+	<title>Music From Brazil - 11</title>
+	<description>En este programa recibimos al guitarrista Alexandre Mihanovich.</description>
+	<pubDate>25 Aug 2007 16:29:41 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-011-es.mp3" length="59746975" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_11_es.html</guid>
+	</item>
+	<item>
+	<title>Music From Brazil - 10</title>
+	<description>En este programa recibimos al grupo Quaternaglia.</description>
+	<pubDate>20 Aug 2007 16:29:36 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-010-es.mp3" length="54774097" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_10_es.html</guid>
+	</item>
+	<item>
+	<title>Music From Brazil - 9</title>
+	<description>En este programa recibimos al guitarrista Marcus Tardelli.</description>
+	<pubDate>15 Aug 2007 16:29:34 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-009-es.mp3" length="49127050" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_9_es.html</guid>
+	</item>
+	<item>
+	<title>Music From Brazil - 8</title>
+	<description>En este programa recibimos al grupo Comboio.</description>
+	<pubDate>10 Aug 2007 16:29:31 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-008-es.mp3" length="58934045" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_8_es.html</guid>
+	</item>
+	<item>
+	<title>Music From Brazil - 7</title>
+	<description>En este programa recibimos al compositor y bajista Max Robert.</description>
+	<pubDate>28 Sep 2006 11:51:44 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-007-es.mp3" length="47394610" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_7_es.html</guid>
+	</item>
+	<item>
+	<title>Music From Brazil - 6</title>
+	<description>En este programa recibimos al guitarrista y compositor Cornrado Paulino.</description>
+	<pubDate>11 Aug 2006 05:00:50 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-006-es.mp3" length="58598841" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_6_es.html</guid>
+	</item>
+	<item>
+	<title>Music From Brazil - 5</title>
+	<description>En este programa recibimos al baterista y compositor Nene.</description>
+	<pubDate>5 Jul 2006 02:00:50 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-005-es.mp3" length="57463246" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_5_es.html</guid>
+	</item>
+	<item>
+	<title>Music From Brazil - 4</title>
+	<description>En este programa recibimos al musico y compositor Guinga.</description>
+	<pubDate>4 Jun 2006 02:00:50 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-004-es.mp3" length="55520990" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_4_es.html</guid>
+	</item>
+	<item>
+	<title>Music From Brazil - 3</title>
+	<description>En este programa recibimos a la compositora y flautista Lea Freire y el   compositor y pianista Thomas Clausen de Dinamarca.</description>
+	<pubDate>2 May 2006 02:00:50 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-003-es.mp3" length="60030770" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_3_es.html</guid>
+	</item>
+	<item>
+	<title>Music from Brazil - 2</title>
+	<description>En este programa recibimos a la cantante  Zeze Freitas.</description>
+	<pubDate>1 Apr 2006 09:50:39 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-002-es.mp3" length="44926143" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_2_es.html</guid>
+	</item>
+	<item>
+	<title>Music from Brazil - 1</title>
+	<description>En este programa recibimos al guitarrista y compositor Michel Leme.</description>
+	<pubDate>13 Jan 2006 09:50:39 +0100</pubDate>
+	<link>http://www.musicfrombrazil.com.br</link>
+	<author>Marcelo Martos - marcelo@micromar.com</author>
+	<category domain="musicfrombrazil.com.br">Musica e entrevista.</category>
+	<enclosure url="http://www.musicfrombrazil.com.br/mp3/mfb-es/mfb-001-es.mp3" length="51565424" type="audio/mpeg"/>
+	<guid>http://www.musicfrombrazil.com.br/html/player_11.html</guid>
+	</item>
+	</channel>
+	</rss>

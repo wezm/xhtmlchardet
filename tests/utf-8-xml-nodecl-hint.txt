@@ -1,0 +1,361 @@
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>I Voice Music Box</title>
+<link>http://www.ibiza-voice.com/</link>
+<language>en-us</language>
+<copyright>&#xA9; 2015 I Voice.com</copyright>
+<itunes:subtitle>Weekly in your mailbox</itunes:subtitle>
+<itunes:author>Ibiza Voice</itunes:author>
+<itunes:summary>I Voice is all about clubbing lifestyle, and much more besides... I Voice is most popular for its ironical, unbiased and liberated editorial line.</itunes:summary>
+<description>I Voice delivers a weekly podcast of advanced music.</description>
+<itunes:owner>
+<itunes:name>I Voice</itunes:name>
+<itunes:email>content@ibiza-voice.com</itunes:email>
+</itunes:owner>
+<itunes:image href="http://www.ibiza-voice.com/css/images/MUSICBOX.jpg" />
+<itunes:category text="Music" />
+<itunes:explicit>no</itunes:explicit>
+<image>
+<url>http://www.ibiza-voice.com/css/images/MUSICBOX.jpg</url>
+<title>I Voice Music Box</title><link>http://www.ibiza-voice.com/</link>
+</image>
+          <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/tIJN.jpg" />
+        <title>tIJN - I Voice Podcast</title>
+        <itunes:author>tIJN Podcast by I Voice</itunes:author>
+        <itunes:subtitle>tIJN avanced music podcast</itunes:subtitle>
+        <itunes:summary>tIJN from UK delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/TIJN_-_I_Voice_Podcast.mp3" length="105891738" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/TIJN_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 28 May 2015 00:00:00 -0500</pubDate>
+        <itunes:duration>01:13:32</itunes:duration>
+        <itunes:keywords>house, techno, electro,tIJN,UK</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Shaun Reeves.jpg" />
+        <title>Shaun Reeves - I Voice Podcast</title>
+        <itunes:author>Shaun Reeves Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Shaun Reeves avanced music podcast</itunes:subtitle>
+        <itunes:summary>Shaun Reeves from USA delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Shaun_Reeves_-_I_Voice_Podcast.mp3" length="97217413" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Shaun_Reeves_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 21 May 2015 00:00:00 -0500</pubDate>
+        <itunes:duration>01:07:30</itunes:duration>
+        <itunes:keywords>house, techno, electro,Shaun Reeves,USA</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Montel.jpg" />
+        <title>Montel - I Voice Podcast</title>
+        <itunes:author>Montel Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Montel avanced music podcast</itunes:subtitle>
+        <itunes:summary>Montel from UK delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Montel_-_I_Voice_Podcast.mp3" length="92763013 " type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Montel_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 14 May 2015 00:00:00 -0500</pubDate>
+        <itunes:duration>01:04:25</itunes:duration>
+        <itunes:keywords>house, techno, electro,Montel,UK</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Disco Channel.jpg" />
+        <title>Disco Channel - I Voice Podcast</title>
+        <itunes:author>Disco Channel Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Disco Channel avanced music podcast</itunes:subtitle>
+        <itunes:summary>Disco Channel from SWITZERLAND delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Disco_Channel_-_I_Voice_Podcast.mp3" length="125210230" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Disco_Channel_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 07 May 2015 00:00:00 -0500</pubDate>
+        <itunes:duration>01:26:57</itunes:duration>
+        <itunes:keywords>house, techno, electro,Disco Channel,SWITZERLAND</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Mihalis Safras3.jpg" />
+        <title>Mihalis Safras - I Voice Podcast</title>
+        <itunes:author>Mihalis Safras Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Mihalis Safras avanced music podcast</itunes:subtitle>
+        <itunes:summary>Mihalis Safras from GREECE delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Mihalis_Safra_-_I_Voice_Podcast 2015.mp3" length="44518821" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Mihalis_Safra_-_I_Voice_Podcast 2015.mp3</guid>
+        <pubDate>Thu, 30 Apr 2015 00:00:00 -0500</pubDate>
+        <itunes:duration>00:30:54</itunes:duration>
+        <itunes:keywords>house, techno, electro,Mihalis Safras,GREECE</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/bloodymary9.jpg" />
+        <title>Bloody Mary - I Voice Podcast</title>
+        <itunes:author>Bloody Mary Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Bloody Mary avanced music podcast</itunes:subtitle>
+        <itunes:summary>Bloody Mary from GERMANY delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Bloody_Mary_-_I_Voice_Podcast_2015.mp3" length="82896251" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Bloody_Mary_-_I_Voice_Podcast_2015.mp3</guid>
+        <pubDate>Thu, 23 Apr 2015 00:00:00 -0500</pubDate>
+        <itunes:duration>00:57:33</itunes:duration>
+        <itunes:keywords>house, techno, electro,Bloody Mary,GERMANY</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/DJ 3000.jpg" />
+        <title>DJ 3000 - I Voice Podcast</title>
+        <itunes:author>DJ 3000 Podcast by I Voice</itunes:author>
+        <itunes:subtitle>DJ 3000 avanced music podcast</itunes:subtitle>
+        <itunes:summary>DJ 3000 from USA delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/DJ_3000_-_I_Voice_Podcast.mp3" length="91667751" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/DJ_3000_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 16 Apr 2015 00:00:00 -0500</pubDate>
+        <itunes:duration>01:03:39</itunes:duration>
+        <itunes:keywords>house, techno, electro,DJ 3000,USA</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Scientific Funk.jpg" />
+        <title>Scientific Funk - I Voice Podcast</title>
+        <itunes:author>Scientific Funk Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Scientific Funk avanced music podcast</itunes:subtitle>
+        <itunes:summary>Scientific Funk from UK delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Scientific_Funk_-_I_Voice_Podcast.mp3" length="87334350" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Scientific_Funk_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 09 Apr 2015 00:00:00 -0500</pubDate>
+        <itunes:duration>01:00:38</itunes:duration>
+        <itunes:keywords>house, techno, electro,Scientific Funk,UK</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Beard Shaper.jpg" />
+        <title>Beard Shaper - I Voice Podcast</title>
+        <itunes:author>Beard Shaper Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Beard Shaper avanced music podcast</itunes:subtitle>
+        <itunes:summary>Beard Shaper from UK delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Beard_Shaper_-_I_Voice_Podcast.mp3" length="105514948" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Beard_Shaper_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 02 Apr 2015 00:00:00 -0500</pubDate>
+        <itunes:duration>01:13:16</itunes:duration>
+        <itunes:keywords>house, techno, electro,Beard Shaper,UK</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Chris Wood and Meat.jpg" />
+        <title>Chris Wood and Meat - I Voice Podcast</title>
+        <itunes:author>Chris Wood and Meat Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Chris Wood and Meat avanced music podcast</itunes:subtitle>
+        <itunes:summary>Chris Wood and Meat from GERMANY delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Chris_Wood_Meat_-_I_Voice_Podcast.mp3" length="106403320 " type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Chris_Wood_Meat_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 26 Mar 2015 00:00:00 -0500</pubDate>
+        <itunes:duration>01:13:53</itunes:duration>
+        <itunes:keywords>house, techno, electro,Chris Wood and Meat,GERMANY</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Andre Galluzzi4.jpg" />
+        <title>André Galluzzi - I Voice Podcast</title>
+        <itunes:author>André Galluzzi Podcast by I Voice</itunes:author>
+        <itunes:subtitle>André Galluzzi avanced music podcast</itunes:subtitle>
+        <itunes:summary>André Galluzzi from GERMANY delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Andre_Galluzzi_-_I_Voice_Podcast.mp3" length="86786406" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Andre_Galluzzi_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 19 Mar 2015 00:00:00 -0500</pubDate>
+        <itunes:duration>01:00:16</itunes:duration>
+        <itunes:keywords>house, techno, electro,André Galluzzi,GERMANY</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Tassilo Vanhofen.jpg" />
+        <title>Tassilo Vanhöfen - I Voice Podcast</title>
+        <itunes:author>Tassilo Vanhöfen Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Tassilo Vanhöfen avanced music podcast</itunes:subtitle>
+        <itunes:summary>Tassilo Vanhöfen from GERMANY delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Tassilo_Vanhofen_-_I_Voice_Podcast.mp3" length="109127996" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Tassilo_Vanhofen_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 12 Mar 2015 00:00:00 -0500</pubDate>
+        <itunes:duration>01:15:46</itunes:duration>
+        <itunes:keywords>house, techno, electro,Tassilo Vanhöfen,GERMANY</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Walker Barnard.jpg" />
+        <title>Walker Barnard - I Voice Podcast</title>
+        <itunes:author>Walker Barnard Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Walker Barnard avanced music podcast</itunes:subtitle>
+        <itunes:summary>Walker Barnard from GERMANY delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Walker_Barnard_-_I_Voice_Podcast.mp3" length="89453403" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Walker_Barnard_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 05 Mar 2015 00:00:00 -0600</pubDate>
+        <itunes:duration>01:02:07</itunes:duration>
+        <itunes:keywords>house, techno, electro,Walker Barnard,GERMANY</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Iain Taylor - Rejekt.jpg" />
+        <title>Iain Taylor - I Voice Podcast</title>
+        <itunes:author>Iain Taylor Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Iain Taylor avanced music podcast</itunes:subtitle>
+        <itunes:summary>Iain Taylor from UK delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Iain_Taylor_rEJEKTS_-_I_Voice_Podcast.mp3" length="165850909" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Iain_Taylor_rEJEKTS_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 26 Feb 2015 00:00:00 -0600</pubDate>
+        <itunes:duration>01:55:10</itunes:duration>
+        <itunes:keywords>house, techno, electro,Iain Taylor,UK</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Felipe Valenzuela.jpg" />
+        <title>Felipe Valenzuela - I Voice Podcast</title>
+        <itunes:author>Felipe Valenzuela Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Felipe Valenzuela avanced music podcast</itunes:subtitle>
+        <itunes:summary>Felipe Valenzuela from CHILE delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Felipe_Valenzuela_-_I_ Voice_Podcast.mp3" length="83457988" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Felipe_Valenzuela_-_I_ Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 19 Feb 2015 00:00:00 -0600</pubDate>
+        <itunes:duration>00:57:57</itunes:duration>
+        <itunes:keywords>house, techno, electro,Felipe Valenzuela,CHILE</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Jules and Moss.jpg" />
+        <title>Jules and Moss - I Voice Podcast</title>
+        <itunes:author>Jules and Moss Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Jules and Moss avanced music podcast</itunes:subtitle>
+        <itunes:summary>Jules and Moss from FRANCE delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Jules_Moss_-_I_Voice_Podcast.mp3" length="87295480" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Jules_Moss_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 12 Feb 2015 00:00:00 -0600</pubDate>
+        <itunes:duration>01:00:37</itunes:duration>
+        <itunes:keywords>house, techno, electro,Jules and Moss,FRANCE</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Oliver Schories15.jpg" />
+        <title>Oliver Schories - I Voice Podcast</title>
+        <itunes:author>Oliver Schories Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Oliver Schories avanced music podcast</itunes:subtitle>
+        <itunes:summary>Oliver Schories from GERMANY delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Oliver_Schories_-_I_Voice_Podcast_2015.mp3" length="105579523" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Oliver_Schories_-_I_Voice_Podcast_2015.mp3</guid>
+        <pubDate>Thu, 05 Feb 2015 00:00:00 -0600</pubDate>
+        <itunes:duration>01:13:19</itunes:duration>
+        <itunes:keywords>house, techno, electro,Oliver Schories,GERMANY</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Georgi Barrel.jpg" />
+        <title>Georgi Barrel - I Voice Podcast</title>
+        <itunes:author>Georgi Barrel Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Georgi Barrel avanced music podcast</itunes:subtitle>
+        <itunes:summary>Georgi Barrel from GERMANY delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Georgi_Barrel_I_Voice_Podcast.mp3" length="97613012" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Georgi_Barrel_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 29 Jan 2015 00:00:00 -0600</pubDate>
+        <itunes:duration>01:07:47</itunes:duration>
+        <itunes:keywords>house, techno, electro,Georgi Barrel,GERMANY</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Salvo Castelli.jpg" />
+        <title>Salvo Castelli - I Voice Podcast</title>
+        <itunes:author>Salvo Castelli Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Salvo Castelli avanced music podcast</itunes:subtitle>
+        <itunes:summary>Salvo Castelli from GERMANY delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Salvo_Castelli_-_I_Voice_Podcast.mp3" length="86756940" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Salvo_Castelli_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 22 Jan 2015 00:00:00 -0600</pubDate>
+        <itunes:duration>01:00:14</itunes:duration>
+        <itunes:keywords>house, techno, electro,Salvo Castelli,GERMANY</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/VONDA7.jpg" />
+        <title>VONDA7 - I Voice Podcast</title>
+        <itunes:author>VONDA7 Podcast by I Voice</itunes:author>
+        <itunes:subtitle>VONDA7 avanced music podcast</itunes:subtitle>
+        <itunes:summary>VONDA7 from GERMANY delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/VONDA7_-_I_Voice_Podcast.mp3" length="112327265" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/VONDA7_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 15 Jan 2015 00:00:00 -0600</pubDate>
+        <itunes:duration>01:18:00</itunes:duration>
+        <itunes:keywords>house, techno, electro,VONDA7,GERMANY</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Jonty Skrufff.jpg" />
+        <title>Jonty Skrufff - I Voice Podcast</title>
+        <itunes:author>Jonty Skrufff Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Jonty Skrufff avanced music podcast</itunes:subtitle>
+        <itunes:summary>Jonty Skrufff from GERMANY delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Jonty_Skrufff_-_I_Voice_Podcast.mp3" length="97408630" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Jonty_Skrufff_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 08 Jan 2015 00:00:00 -0600</pubDate>
+        <itunes:duration>01:07:38</itunes:duration>
+        <itunes:keywords>house, techno, electro,Jonty Skrufff,GERMANY</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Primarie.jpg" />
+        <title>Primarie - I Voice Podcast</title>
+        <itunes:author>Primarie Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Primarie avanced music podcast</itunes:subtitle>
+        <itunes:summary>Primarie from ROMANIA delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Primarie_-_I_Voice_Podcast.mp3" length="89322373" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Primarie_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 18 Dec 2014 00:00:00 -0600</pubDate>
+        <itunes:duration>01:02:01</itunes:duration>
+        <itunes:keywords>house, techno, electro,Primarie,ROMANIA</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Monika Ross.jpg" />
+        <title>Monika Ross - I Voice Podcast</title>
+        <itunes:author>Monika Ross Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Monika Ross avanced music podcast</itunes:subtitle>
+        <itunes:summary>Monika Ross from AUSTRALIA delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Monika_Ross_-_I_Voice_Podcast.mp3" length="88852796" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Monika_Ross_-_I_Voice_Podcast.mp3</guid>
+        <pubDate>Thu, 11 Dec 2014 00:00:00 -0600</pubDate>
+        <itunes:duration>01:01:42</itunes:duration>
+        <itunes:keywords>house, techno, electro,Monika Ross,AUSTRALIA</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+            <item>
+      <itunes:image href="http://www.ibiza-voice.com/music/images/chart/Mees Dierdorp.jpg" />
+        <title>Mees Dierdorp - I Voice Podcast</title>
+        <itunes:author>Mees Dierdorp Podcast by I Voice</itunes:author>
+        <itunes:subtitle>Mees Dierdorp avanced music podcast</itunes:subtitle>
+        <itunes:summary>Mees Dierdorp from NETHERLANDS delivers a weekly podcast of advanced music.</itunes:summary>
+        
+        <enclosure url="http://www.ibiza-voice.com/sessions/media/Mees_Dierdorp_-_I_Voice_Podcast2014.mp3" length="84598390" type="audio/mpeg" />
+        <guid>http://www.ibiza-voice.com/sessions/media/Mees_Dierdorp_-_I_Voice_Podcast2014.mp3</guid>
+        <pubDate>Thu, 04 Dec 2014 00:00:00 -0600</pubDate>
+        <itunes:duration>00:58:44</itunes:duration>
+        <itunes:keywords>house, techno, electro,Mees Dierdorp,NETHERLANDS</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+      </channel>
+</rss>
+

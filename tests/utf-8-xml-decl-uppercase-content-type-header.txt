@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Polkast</title>
+<link>http://www.polka.es</link>
+<itunes:subtitle>Polkast</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<description></description>
+<language>en</language>
+
+<copyright>(c) POLKA 2009</copyright>
+<itunes:owner>
+   <itunes:name></itunes:name>
+   <itunes:email>polka@polka.es</itunes:email>
+</itunes:owner>
+<managingEditor>mariscal@polka.es (David Mariscal)</managingEditor>
+<itunes:author>POLKA</itunes:author>
+<image>
+   <url>http://www.polka.es/admin/files/POLKA-PODCAST-DAVID-MARISCAL-2-copy.jpg</url>
+
+   <title>Polkast</title>
+
+   <link>http://www.polka.es</link>
+</image>
+<itunes:image href="http://www.polka.es/admin/files/POLKA-PODCAST-DAVID-MARISCAL-2-copy.jpg" />
+<pubDate>Wed, 28 Jan 2009 00:14:01 +0100</pubDate>
+<lastBuildDate>Mon, 01 Jun 2015 3:38:16 +0200</lastBuildDate>
+<generator>Loudblog</generator>
+
+<itunes:explicit>no</itunes:explicit>
+ <itunes:category text="Music"/>
+
+    <item>
+      <title>Polkast_Episode_XIII_By_Angel_Mora </title>
+      <link>http://www.polka.es/index.php?nid=164&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1644d8027b02</guid>
+      <pubDate>Tue, 11 Dec 2012 16:40:45 +0100</pubDate>
+      <description>
+      Angel Mora, productions have been supported and played by artists:
+Laurent Garnier, Luciano, M.A.N.D.Y, Richie Hawntin, Danny Tennaglia, Audiofly, Josh Wink, Silicon Soul,Nima Gorji, Gel Abril, Maceo Plex, Michael Cleis, James Zabiela, Karotte, Gabriel Ananda, Paco Osuna, Luna City Express, Butch, Moodymanc, Tom Novy, Jim Rivers, Someone Else, Andrew Grant, Shinedoe and many others.      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_XIII_By_Angel_Mora.mp3" length="70313438" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Angel Mora</itunes:author>
+      <itunes:duration>56:56</itunes:duration>
+   </item>
+     <item>
+      <title>Polkast Episode XII Live At Weekend Club </title>
+      <link>http://www.polka.es/index.php?nid=162&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1624d8027b02</guid>
+      <pubDate>Sun, 25 Nov 2012 5:47:32 +0100</pubDate>
+      <description>
+      POLKAST EPISODE XII by David Mariscal 
+At Weekend Club (Madrid, ES) 
+09.11.2012 
+Grabado en directo y con vinilos, en este nuevo episodio, David Mariscal combina una vez más discos antiguos con música totalmente nueva, consiguiendo que parezcan ser lo mismo. El resultado, es una sesión muy especial, intensa y excitante, cuyas imperfecciones transmiten aún más vida. 
+Una de nuestras mejores noches, muchas gracias al equipo de Weekend y, por supuesto, a todos los que estuvisteis. Repetiremos pronto !      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_XII_Live_At_Weekend_Club.mp3" length="102319727" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>David Mariscal</itunes:author>
+      <itunes:duration>1:11:24</itunes:duration>
+   </item>
+     <item>
+      <title>Polkast_Episode_XI_by_David_Mariscal@Candelai(Sicilia)_Part_2 </title>
+      <link>http://www.polka.es/index.php?nid=161&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1614d8027b02</guid>
+      <pubDate>Thu, 18 Oct 2012 16:07:24 +0200</pubDate>
+      <description>
+      POLKAST EPISODE XI by David Mariscal
+ 
+At Le Terrazze dei Candelai (Palermo-ITA)
+ 27.07.12
+ Part 2
+ 
+È un piacere per POLKA presentar este nuevo episodio. Más de tres horas grabadas en directo en Le Terrazze dei Candelai, en Palermo. Una selección de sonido clásico, profundo, al más puro estilo Mariscal, seleccionado desde muy adentro y con un resultado arrebatador.
+ 
+Muchas gracias a nuestro anfitrión, Paolo Mannina, por una noche increíble, y como no, a nuestros amigos de Palermo.      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_XI_by_David_Mariscal@Candelai(Sicilia)_Part_2.mp3" length="125743346" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>David Mariscal</itunes:author>
+      <itunes:duration>86:09</itunes:duration>
+   </item>
+     <item>
+      <title>Polkast_Episode_XI_by_David_Mariscal@Candelai(Sicilia)_Part_1 </title>
+      <link>http://www.polka.es/index.php?nid=160&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1604d8027b02</guid>
+      <pubDate>Thu, 18 Oct 2012 14:01:30 +0200</pubDate>
+      <description>
+      POLKAST EPISODE XI by David Mariscal
+ 
+At Le Terrazze dei Candelai (Palermo-ITA
+27.07.12
+Part 1
+ 
+È un piacere per POLKA presentar este nuevo episodio. Más de tres horas grabadas en directo en Le Terrazze dei Candelai, en Palermo. Una selección de sonido clásico, profundo, al más puro estilo Mariscal, seleccionado desde muy adentro y con un resultado arrebatador.
+ 
+Muchas gracias a nuestro anfitrión, Paolo Mannina, por una noche increíble, y como no, a nuestros amigos de Palermo.      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_XI_by_David_Mariscal@Candelai(Sicilia)_Part_1.mp3" length="121379391" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>David Mariscal</itunes:author>
+      <itunes:duration>82:45</itunes:duration>
+   </item>
+     <item>
+      <title>Polkast_Episode_X_by_David_Mariscal_at_COLT_12-04-12 </title>
+      <link>http://www.polka.es/index.php?nid=159&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1594d8027b02</guid>
+      <pubDate>Fri, 20 Apr 2012 11:37:16 +0200</pubDate>
+      <description>
+      En uno de sus mejores momentos, el hombre detrás de POLKA, y habitual de la cabina de Colt, nos seduce con esta sesión, reflejo de su personalidad, y de una independencia musical altamente deseada. Con la pista de baile siempre en mente, David Mariscal hace suyo cada tema, creando un sonido vanguardista, profundo, directo, siempre elegante y definido. House underground en estado puro.      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_X_by_David_Mariscal_at_COLT_12-04-12.mp3" length="175747078" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>David Mariscal</itunes:author>
+      <itunes:duration>121:47</itunes:duration>
+   </item>
+     <item>
+      <title>Polkast_Episode_IX_by_Javier_Moreno </title>
+      <link>http://www.polka.es/index.php?nid=158&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1584d8027b02</guid>
+      <pubDate>Mon, 11 Jul 2011 11:11:13 +0200</pubDate>
+      <description>
+      Parte de la familia desde hace tiempo, y con un nuevo club que está siendo un éxito las noches de los jueves en Charada llamado Colt, Javier Moreno nos ha cautivado - aún más si cabe - con una de las sesiones más personales en nuestro haber. Una delicia para los oídos de POLKA.
+Interesante de principio a fin, este episodio es una demostración de estilo propio, a través de sonidos sugerentes, creando un resultado muy original, perfecto para escuchar o bailar en casa …      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_IX_by_Javier_Moreno.mp3" length="100431376" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Javier Moreno</itunes:author>
+      <itunes:duration>59:28</itunes:duration>
+   </item>
+     <item>
+      <title>Polkast Episode VIII Inauguración Colt Part 2 David Mariscal </title>
+      <link>http://www.polka.es/index.php?nid=156&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1564d8027b02</guid>
+      <pubDate>Mon, 11 Jul 2011 10:36:49 +0200</pubDate>
+      <description>
+      Grabado en Colt –el nuevo club de los jueves en Charada-, Polkast Episode VIII es el resultado de transformar una excelente grabación en directo en un magnífico podcast. Como solo el equipo POLKA sabe hacerlo.
+Sonido underground por excelencia, y deep, muy deep, este set viene a narrar lo que todo el mundo que asistió a Colt aquella noche - o los habituales de la pista de Polka Club – saben, es decir, que las sesiones en directo de David Mariscal funcionan. Más allá de lo que prometen.
+En continuo crecimiento y progreso, el cicerone de POLKA nos seduce con su sonido avanzado, directo y definido ofreciéndonos un material brillante, digno de ser perpetuado en nuestro octavo episodio.      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_VIII_Inauguracion_Colt_Part_2_David_Mariscal.mp3" length="131246968" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>David Mariscal</itunes:author>
+      <itunes:duration>81:35</itunes:duration>
+   </item>
+     <item>
+      <title>Polkast Episode VII :Gravity zero in the windy city </title>
+      <link>http://www.polka.es/index.php?nid=155&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1554d8027b02</guid>
+      <pubDate>Sat, 18 Dec 2010 20:18:10 +0100</pubDate>
+      <description>
+      He has been resident Dj at Morpheus, Soma, Blonde and Skyline, and
+several clubs in Madrid. He Belongs to the collectives Diumm! and
+Abyssal Collectif, and with MC GipillatiDub forms UD (Urban dub) a
+series of dubby minimal sessions.
+Every year he is part of the organization of the experimental music
+festival Sonikas, which in 2010 fulfilled his 8th edition.
+F-on has worked in a big variety of the styles of the electronic music
+although has been centred of very special way in 4x4 electronics,
+experimental music USA deep house - mainly coming from Detroit and
+Chicago- . His slow-tempo sets are deep and intense, giving special
+importance to the linearity of the development of the speech.
+Nowadays, He takes part -with Urtzi and Jose Rico- in the project
+Downbeat, record label (exclusively in vinyl) with with great critical
+and commercial success, only with 3 releases out.      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_VII_F-on.mp3" length="112055861" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>F-ON</itunes:author>
+      <itunes:duration></itunes:duration>
+   </item>
+     <item>
+      <title>Polkast Episode VI </title>
+      <link>http://www.polka.es/index.php?nid=150&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1504d8027b02</guid>
+      <pubDate>Thu, 01 Apr 2010 22:31:30 +0200</pubDate>
+      <description>
+      'Vinyl Only' could certainly be the chosen leitmotive for our Polkast Episode VI. Recorded in Polka Studio with David Mariscal most beloved records this Episode is aimed to encapsulate Mariscal's sound longlife. The combination of styles and generations, classic and contemporary makes this glittering set very special.      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_VI_(David_Mariscal).mp3" length="98970507" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>David Mariscal</itunes:author>
+      <itunes:duration>1:08:20</itunes:duration>
+   </item>
+     <item>
+      <title>Polkast Episode V </title>
+      <link>http://www.polka.es/index.php?nid=144&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1444d8027b02</guid>
+      <pubDate>Mon, 16 Nov 2009 17:22:34 +0100</pubDate>
+      <description>
+      Polkast Episode V by EZIO
+
+
+Elegant as usual and Polka style like never before, this melodies genie presents us his very last autum crop in this Episode, puse rithmycal Keeling with a good starting and a magnificent end. 
+
+Ezio Live Tracklist:
+-intro
+-Cut1 - unreleased
+-Boulevard (edit) - soon on Polka 
+-Funk Paris (edit) - unreleased
+-Safin A (edit) - unreleased
+-Mood 4 two + reflections (edit) - unreleased
+-Timid boy "Minidub" Ezio rmx - 4line rec
+-Before (edit) - Del Barrio limited
+-Asi "original+Ekkohaus rmx" - Polka 006
+-Cut6 (edit) - unreleased
+-You know - unreleased
+-Maleante (edit) - soon on Polka
+-Cut#2 (saxo edit) - unreleased
+
+All tracks produced by Ezio, except rmxs, and are looped, edited, smashed, mixed and reworked during the polkast live performance.
+
+
+      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_V-EZIO.mp3" length="86087460" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>EZIO</itunes:author>
+      <itunes:duration>59 : 48</itunes:duration>
+   </item>
+     <item>
+      <title>Polkast Episode IV </title>
+      <link>http://www.polka.es/index.php?nid=141&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1414d8027b02</guid>
+      <pubDate>Wed, 10 Jun 2009 18:21:09 +0200</pubDate>
+      <description>
+      Our podcasts just got a little bit more interesting with the Episode IV by Ángel García. In this set, played at The Room, the artist combines an interesting groove with Detroit techno tracks, always in a dancefloor oriented direction. A superb set by one of our favourite Djs.
+      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_IV_Angel_Garcia.mp3" length="154382948" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>ANGEL GARCIA</itunes:author>
+      <itunes:duration>1:47:11</itunes:duration>
+   </item>
+     <item>
+      <title>Polkast Episode III </title>
+      <link>http://www.polka.es/index.php?nid=107&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1074d8027b02</guid>
+      <pubDate>Thu, 05 Mar 2009 13:13:13 +0100</pubDate>
+      <description>
+      David Mariscal does what he does best. The Polka manager takes advantage of the source material to perform Episode III, aimed to represent POLKA sound around the world. Groove that could remind Derrick Carter, tracks specialité de la maison, new releases and an unreleased track from David Mariscal. House underground as you never heard it… 
+Track List:
+---------------
+1- Wan Poku Moro -2000 And One - 100 Pure
+2- Spaceflake -Mikael Stavöstrand - Sounderground Records
+3- Salt City (Nick Curly rmx ) - Matthias Meyer , Patlac - Liebe Detail
+4- Esmarelda -David Mariscal - Polka
+5- Get Down -Zander Vt - Bpitch Control
+6- Running In Place - Brett Johnson -Resopal Schallware
+7- Fleurette ( Tobias rmx ) - D'Julz - Circus Company 
+8- Gipsy - David Mariscal - Mi Musik
+9- Maracuya - Massi Dl - Wordess
+10- Get Up - ZAnde VT - Bpitch Control
+11- Trauman (exclusive Polkast remix )- David Mariscal - Unreleased
+12- X
+
+      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_III_DavidMariscal.mp3" length="103087068" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>David Mariscal</itunes:author>
+      <itunes:duration>1:01:51</itunes:duration>
+   </item>
+     <item>
+      <title>Polkast Episode II </title>
+      <link>http://www.polka.es/index.php?nid=106&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1064d8027b02</guid>
+      <pubDate>Thu, 26 Feb 2009 21:50:01 +0100</pubDate>
+      <description>
+      The man of the moment is the artist behind Polka Episode II. Kasper, Esperanza Records label manager and new addition to the NET28 network, pleases us with a deep house adventure full of groove. Classic house influences together with personal style… Perfect combination and perfect set for Polka.
+
+      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_II_(Kasper).mp3" length="104822686" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Kasper</itunes:author>
+      <itunes:duration>1:12:36</itunes:duration>
+   </item>
+     <item>
+      <title>Polkast Episode I </title>
+      <link>http://www.polka.es/index.php?nid=100&amp;tipo=podcast</link>
+      <guid isPermaLink="false">a0014f65-69ec-4b1f-ac27-1004d8027b02</guid>
+      <pubDate>Tue, 27 Jan 2009 21:51:15 +0100</pubDate>
+      <description>
+      Polka is proud to present the first Polka Podcast and upcoming releases. 
+Polkast Episode I is a trip down memory lane where classic and new music work together taking melodies along different landscapes through six continents. Deeper than ever, David Mariscal proves that quality can come from many sources to perform the most homogeneous set with tracks from Moodymann, Tadeo, Minilogue and many more...
+
+      </description>
+      <enclosure url="http://www.polka.es/admin/files/music/podcast/Polkast_Episode_I_DavidMariscal.mp3" length="110269928" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>David Mariscal</itunes:author>
+      <itunes:duration>51:05</itunes:duration>
+   </item>
+ </channel>
+</rss>

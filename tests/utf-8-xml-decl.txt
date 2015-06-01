@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+  <channel>
+    <title>WatCast by Alex Wat</title>
+    <link>http://alexwat.podomatic.com</link>
+    <description>Suis moi sur FB &amp; SoundCloud &gt; Alex Wat !</description>
+    <language>fr</language>
+    <generator>podOmatic RSS Generator</generator>
+    <pubDate>Mon, 09 Dec 2013 09:27:55 GMT</pubDate>
+    <itunes:keywords>alex,electro,french,house,podcast,wat,Music,Electronic,House</itunes:keywords>
+    <itunes:subtitle>alex wat dj</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>Alex Wat</itunes:name>
+      <itunes:email>djalexwat@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>no</itunes:block>
+    <itunes:image href="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_8243892.jpg"/>
+    <itunes:author>Alex Wat</itunes:author>
+    <itunes:summary>Suis moi sur FB &amp; SoundCloud &gt; Alex Wat !</itunes:summary>
+    <itunes:category text="Music"/>
+    <atom:link type="application/rss+xml" href="http://alexwat.podomatic.com/rss2.xml" rel="self"/>
+    <item>
+      <title>WatCast #22</title>
+      <description>
+        <![CDATA[<img src="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_8853687.jpg" alt="itunes pic" /><br />De retour avec un nouveau WatCast ! Dans le #22: Calvin Harris, Martin Garrix, Avicii, ShowTek, Drake, Katy Perry & Lady Gaga.. bon week end !]]>
+      </description>
+      <guid isPermaLink="true">http://alexwat.podomatic.com/entry/2013-10-11T05_42_23-07_00</guid>
+      <comments>http://alexwat.podomatic.com/entry/2013-10-11T05_42_23-07_00</comments>
+      <pubDate>Fri, 11 Oct 2013 12:42:23 GMT</pubDate>
+      <dcterms:modified>2013-10-11</dcterms:modified>
+      <dcterms:created>2013-10-11</dcterms:created>
+      <link>http://alexwat.podomatic.com</link>
+      <dc:creator>Alex Wat</dc:creator>
+      <itunes:keywords>alex,alexwat,avicii,dj,drake,house,katyperry,ladtgaga,martingarrix,set,showtek,trap,us,wat</itunes:keywords>
+      <enclosure url="http://alexwat.podomatic.com/enclosure/2013-10-11T05_42_23-07_00.mp3" type="audio/mpeg" length="43986583"/>
+      <itunes:image href="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_8853687.jpg"/>
+      <itunes:duration>2702</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+      <itunes:summary>De retour avec un nouveau WatCast ! Dans le #22: Calvin Harris, Martin Garrix, Avicii, ShowTek, Drake, Katy Perry &amp; Lady Gaga.. bon week end !</itunes:summary>
+      <itunes:subtitle>De retour avec un nouveau WatCast ! Dans le #22: Calvin Harris, Martin Garrix, Avicii, ShowTek, D...</itunes:subtitle>
+    </item>
+    <item>
+      <title>WatCast #21</title>
+      <description>
+        <![CDATA[<img src="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_8499028.jpg" alt="itunes pic" /><br />Encore mieux que le 14 juillet, le WatCast #21 !
+On s'fait ça avec de l'electro, de la trap, de l'US et du R'n'B !]]>
+      </description>
+      <guid isPermaLink="true">http://alexwat.podomatic.com/entry/2013-07-14T12_55_44-07_00</guid>
+      <comments>http://alexwat.podomatic.com/entry/2013-07-14T12_55_44-07_00</comments>
+      <pubDate>Sun, 14 Jul 2013 19:55:44 GMT</pubDate>
+      <dcterms:modified>2013-07-14</dcterms:modified>
+      <dcterms:created>2013-07-14</dcterms:created>
+      <link>http://alexwat.podomatic.com</link>
+      <dc:creator>Alex Wat</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://alexwat.podomatic.com/enclosure/2013-07-14T12_55_44-07_00.mp3" type="audio/mpeg" length="56097943"/>
+      <itunes:image href="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_8499028.jpg"/>
+      <itunes:duration>3474</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>2</itunes:order>
+      <itunes:summary>Encore mieux que le 14 juillet, le WatCast #21 !
+On s'fait &#231;a avec de l'electro, de la trap, de l'US et du R'n'B !</itunes:summary>
+      <itunes:subtitle>Encore mieux que le 14 juillet, le WatCast #21 !
+On s'fait &#231;a avec de l'electro, de la trap, de ...</itunes:subtitle>
+    </item>
+    <item>
+      <title>WatCast #20</title>
+      <description>
+        <![CDATA[<img src="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_8242277.jpg" alt="itunes pic" /><br />De quoi vous ambiancer dans les foyers !
+
+>> Electro / Trap / US / Moombahton
+Avec du Joachim Garraud, Avicii, Jay Z, Kanye Wast, Azealia Banks, Major Lazer..]]>
+      </description>
+      <guid isPermaLink="true">http://alexwat.podomatic.com/entry/2013-05-12T10_05_01-07_00</guid>
+      <comments>http://alexwat.podomatic.com/entry/2013-05-12T10_05_01-07_00</comments>
+      <pubDate>Sun, 12 May 2013 17:05:01 GMT</pubDate>
+      <dcterms:modified>2013-05-12</dcterms:modified>
+      <dcterms:created>2013-05-12</dcterms:created>
+      <link>http://alexwat.podomatic.com</link>
+      <dc:creator>Alex Wat</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://alexwat.podomatic.com/enclosure/2013-05-12T10_05_01-07_00.mp3" type="audio/mpeg" length="59289466"/>
+      <itunes:image href="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_8242277.jpg"/>
+      <itunes:duration>3660</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>3</itunes:order>
+      <itunes:summary>De quoi vous ambiancer dans les foyers !
+
+&gt;&gt; Electro / Trap / US / Moombahton
+Avec du Joachim Garraud, Avicii, Jay Z, Kanye Wast, Azealia Banks, Major Lazer..</itunes:summary>
+      <itunes:subtitle>De quoi vous ambiancer dans les foyers !
+
+&gt;&gt; Electro / Trap / US / Moombahton
+Avec du Joachim ...</itunes:subtitle>
+    </item>
+    <item>
+      <title>In The Club by Alex Wat 16.09</title>
+      <description>
+        <![CDATA[<img src="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_5042247.jpg" alt="itunes pic" /><br />Rattrapage du vendredi 16.09 les amis !]]>
+      </description>
+      <guid isPermaLink="true">http://alexwat.podomatic.com/entry/2011-09-17T01_45_39-07_00</guid>
+      <comments>http://alexwat.podomatic.com/entry/2011-09-17T01_45_39-07_00</comments>
+      <pubDate>Sat, 17 Sep 2011 08:45:39 GMT</pubDate>
+      <dcterms:modified>2011-09-17</dcterms:modified>
+      <dcterms:created>2011-09-17</dcterms:created>
+      <link>http://alexwat.podomatic.com</link>
+      <dc:creator>Alex Wat</dc:creator>
+      <itunes:keywords>alex,club,goom,in,podcast,radio,the,wat</itunes:keywords>
+      <enclosure url="http://alexwat.podomatic.com/enclosure/2011-09-17T01_45_39-07_00.mp3" type="audio/mpeg" length="41040281"/>
+      <itunes:image href="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_5042247.jpg"/>
+      <itunes:duration>2564</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>4</itunes:order>
+      <itunes:summary>Rattrapage du vendredi 16.09 les amis !</itunes:summary>
+      <itunes:subtitle>Rattrapage du vendredi 16.09 les amis !</itunes:subtitle>
+    </item>
+    <item>
+      <title>Medley Alex Wat</title>
+      <description>
+        <![CDATA[<img src="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_3473502.jpg" alt="itunes pic" /><br />12 sources en moins de 3minutes !]]>
+      </description>
+      <guid isPermaLink="true">http://alexwat.podomatic.com/entry/2010-10-05T10_56_40-07_00</guid>
+      <comments>http://alexwat.podomatic.com/entry/2010-10-05T10_56_40-07_00</comments>
+      <pubDate>Tue, 05 Oct 2010 17:56:40 GMT</pubDate>
+      <dcterms:modified>2010-10-05</dcterms:modified>
+      <dcterms:created>2010-10-05</dcterms:created>
+      <link>http://alexwat.podomatic.com</link>
+      <dc:creator>Alex Wat</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://alexwat.podomatic.com/enclosure/2010-10-05T10_56_40-07_00.mp3" type="audio/mpeg" length="2858873"/>
+      <itunes:image href="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_3473502.jpg"/>
+      <itunes:duration>178</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>5</itunes:order>
+      <itunes:summary>12 sources en moins de 3minutes !</itunes:summary>
+      <itunes:subtitle>12 sources en moins de 3minutes !</itunes:subtitle>
+    </item>
+    <item>
+      <title>Medley Radio</title>
+      <description>
+        <![CDATA[<img src="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_3473488.jpg" alt="itunes pic" /><br />]]>
+      </description>
+      <guid isPermaLink="true">http://alexwat.podomatic.com/entry/2010-10-05T10_52_09-07_00</guid>
+      <comments>http://alexwat.podomatic.com/entry/2010-10-05T10_52_09-07_00</comments>
+      <pubDate>Tue, 05 Oct 2010 17:52:09 GMT</pubDate>
+      <dcterms:modified>2010-10-05</dcterms:modified>
+      <dcterms:created>2010-10-05</dcterms:created>
+      <link>http://alexwat.podomatic.com</link>
+      <dc:creator>Alex Wat</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://alexwat.podomatic.com/enclosure/2010-10-05T10_52_09-07_00.mp3" type="audio/mpeg" length="477342"/>
+      <itunes:image href="http://assets.podomatic.net/ts/14/b3/f0/djalexwat/1400x1400_3473488.jpg"/>
+      <itunes:duration>29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>6</itunes:order>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+    </item>
+  </channel>
+</rss>

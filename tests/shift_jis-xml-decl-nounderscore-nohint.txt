@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="Shift-Jis"?>
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Naokiの無料オリジナルミュージック</title>
+<link>http://naoki.ai7.jp/</link>
+<description>無料でHP上で公開している曲をここで紹介します。ヒーリング、フュージョン、ニューエイジ、ボサノバ、アンビエント、ラウンジミュージックとして楽しんでいただける音楽だと思います。</description>
+<language>ja</language>
+<lastbuilddate>2005-11-24T02:05:33+09:00</lastbuilddate>
+<generator>Custom</generator>
+<copyright>コピーライト表記</copyright>
+<itunes:subtitle>癒し、幻想、透明感、おしゃれな感じのある音楽です。</itunes:subtitle>
+<itunes:image href="http://naoki.ai7.jp/image/nfbanner2.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:summary>無料でHP上で公開している曲をここで紹介します。ヒーリング、フュージョン、ニューエイジ、ボサノバ、アンビエント、ラウンジミュージックとして楽しんでいただける音楽だと思います。</itunes:summary>
+<itunes:author>Naoki</itunes:author>
+<itunes:category text="Music" />
+<itunes:keywords>ヒーリングミュージック フュージョン ニューエイジ ボサノバ アンビエント ラウンジミュージック</itunes:keywords>
+<itunes:owner>
+<itunes:name>Naoki</itunes:name>
+<itunes:email>n@612.jp</itunes:email>
+</itunes:owner>
+
+<item>
+<title>赤い屋根の町</title>
+<link>http://naoki.ai7.jp/music/redroof.html</link>
+<pubdate>Sat, 12 Sep 2009 00:00:00 +0900</pubdate>
+<enclosure url="http://naoki.ai7.jp/fmusic/redroof.mp3" length="7745616" type="audio/mpeg"/>
+<description>赤く淡い色の屋根の家々を見下ろした風景をイメージして作りました。現実ではなく、夢の中で、１つ１つのものが、ふんわり、ぼやけたように見えている風景です。ゲーム音楽風の伴奏。不思議さと、かわいさが入り混じったようなメロディー。聞いていて、いつもと違う気分になれる音楽だと思います。</description>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Naoki</itunes:author>
+<itunes:duration>8:03</itunes:duration>
+</item>
+
+<item>
+<title>異次元へのエレベーター</title>
+<link>http://naoki.ai7.jp/music/elevator.html</link>
+<pubdate>Wed, 06 Mar 2009 00:00:00 +0900</pubdate>
+<enclosure url="http://naoki.ai7.jp/fmusic/elevator.mp3" length="9489394" type="audio/mpeg"/>
+<description>暗い人口物をイメージして制作していきましたが、この世のものではないような雰囲気を帯びていき、異次元の世界を想像して作っていきました。盛り上がりを抑えましたので、BGMに適しているかと思います。日常とは違う、暗く不思議な雰囲気の中に、美しい響きを感じる曲です。
+</description>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Naoki</itunes:author>
+<itunes:duration>6:35</itunes:duration>
+</item>
+
+<item>
+<title>星空を眺めて</title>
+<link>http://naoki.ai7.jp/music/starry_sky.html</link>
+<pubdate>Sat, 19 Sep 2009 00:00:00 +0900</pubdate>
+<enclosure url="http://naoki.ai7.jp/fmusic/starry_sky.mp3" length="3370452" type="audio/mpeg"/>
+<description>キラキラ光る無数の星が散らばった空を、感動しながら見ている気持ちになって作った曲です。心身が癒され、自然の美しさに感動しているときのような気分になっていただけたらうれしいです。ゆっくり、静かな、オルゴール音＋弦楽器のみの音楽。かわいらしさ、美しさを感じる曲です。安眠にも効果的かもしれません。</description>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Naoki</itunes:author>
+<itunes:duration>3:30</itunes:duration>
+</item>
+
+<item>
+<title>ferris wheel</title>
+<link>http://naoki.ai7.jp/music/ferris.html</link>
+<pubdate>Thu, 29 Dec 2007 00:00:00 +0900</pubdate>
+<enclosure url="http://naoki.ai7.jp/fmusic/ferris_wheel_s.mp3" length="4886664" type="audio/mpeg"/>
+<description>曲名は「観覧車」という意味です。夜、自分が電車の中から遠くに光る観覧車を眺めている時や、実際に夜のにぎやかな遊園地の中にいるような感覚をイメージして作りました。幻想的な和音と気持ちの良いテンポが、心を癒し、軽やかにします。</description>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Naoki</itunes:author>
+<itunes:duration>5:05</itunes:duration>
+</item>
+
+<item>
+<title>霧の中の妖精</title>
+<link>http://naoki.ai7.jp/music/mist.html</link>
+<pubdate>Tue, 01 Jul 2008 00:00:00 +0900</pubdate>
+<enclosure url="http://naoki.ai7.jp/fmusic/mist.mp3" length="9532538" type="audio/mpeg"/>
+<description>この曲は、朝、霧のかかった森の中をイメージして作りました。しばらくそこにいると、小さな妖精が宙に浮かんで現れます。曲の雰囲気が突然ガラッと変わるところ ( 2：51～) でその情景を表現しました。 空想の世界を楽しんでみて下さい。曲が進むにつれ森の中のエネルギーが心身を包み込みます。気持ちが休まり、癒される曲だと思います。</description>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Naoki</itunes:author>
+<itunes:duration>6:37</itunes:duration>
+</item>
+
+<item>
+<title>夜明けの滝</title>
+<link>http://naoki.ai7.jp/music/waterfall.html</link>
+<pubdate>Thu, 06 Mar 2008 00:00:00 +0900</pubdate>
+<enclosure url="http://naoki.ai7.jp/fmusic/waterfall.mp3" length="8214234" type="audio/mpeg"/>
+<description>森の中の滝つぼを想像して作りました。曲の出だしは、まだ空が紺色をしていて、滝の水が青白く、薄暗い霧のかかった情景です。曲が進むにつれ、頭の中で、滝つぼの周りに姿を現すいろいろな生き物を見ながら作っていきました。曲の後半から、ようやく辺りが明るくなります。雰囲気は全体的に落ち着いていますが、曲が進むにつれ迫力を増していきます。癒されるだけでなく、力がわく曲だと思います。</description>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Naoki</itunes:author>
+<itunes:duration>5:42</itunes:duration>
+</item>
+
+<item>
+<title>flower garden</title>
+<link>http://naoki.ai7.jp/music/flower_garden.html</link>
+<pubdate>Fri, 01 Feb 2008 00:00:00 +0900</pubdate>
+<enclosure url="http://naoki.ai7.jp/fmusic/flower_garden_s.mp3" length="3687789" type="audio/mpeg"/>
+<description>さびの部分のメロディーはある絵はがきに描かれていた絵を見て、 頭に流れました。曲全体は、広々とした花の咲き乱れる草原で、子供たちや鳥など動物たちが遊んでいる風景をイメージしています。この曲で、より明るく楽しい気持ちになっていただけたら、うれしく思います。</description>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Naoki</itunes:author>
+<itunes:duration>3:50</itunes:duration>
+</item>
+
+<item>
+<title>dark fantasy</title>
+<link>http://naoki.ai7.jp/music/darkfantasy.html</link>
+<pubdate>Sun, 04 May 2008 00:00:00 +0900</pubdate>
+<enclosure url="http://naoki.ai7.jp/fmusic/dark_fantasy_s.mp3" length="4910850" type="audio/mpeg"/>
+<description>夜の街の明かりを、上空から眺めた風景を想像してもいいですし、宇宙に散らばる無数の星や、銀河を想像してもいいですし、頭の中で自由に、暗闇の中の美しい光の世界を漂ってみてください。漠然と暗闇の中に浮かぶ光をイメージして作った曲です。幻想的に感じられるよう心がけました。暗い雰囲気の中に時々明るさを感じる曲です。不思議な気分になれる音楽だと思います。</description>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Naoki</itunes:author>
+<itunes:duration>5:06</itunes:duration>
+</item>
+
+</channel>
+</rss>
