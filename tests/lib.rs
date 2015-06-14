@@ -44,15 +44,18 @@ fn test_fixtures() {
     }
 
     // Verify the results
-    let mut passed = true;
+    let mut passed = 0;
     let mut f = std::io::stderr();
     for (test, result) in expected.iter() {
         if *result != actual[test] {
-            f.write(format!("{}: {:?} != {:?}\n", test, result, actual[test]).as_bytes());
-            passed = false;
+            f.write(format!("FAIL {}: {:?} != {:?}\n", test, result, actual[test]).as_bytes());
+        }
+        else {
+            passed += 1;
+            // f.write(format!("PASS {}: {:?}\n", test, actual[test]).as_bytes());
         }
     }
 
-    assert!(passed);
+    assert_eq!(passed, expected.len());
 }
 

@@ -1,9 +1,10 @@
 use std::io::{Read,Write};
 use std::ascii::AsciiExt;
 
+#[derive(Debug)]
 struct Bom ( u8, u8, u8, u8 );
 
-#[derive(Clone)]
+#[derive(Clone,Debug)]
 enum Flavour {
     UCS,
     UTF,
@@ -12,7 +13,7 @@ enum Flavour {
     Unknown,
 }
 
-#[derive(Clone)]
+#[derive(Clone,Debug)]
 enum ByteOrder {
     BigEndian,
     LittleEndian,
@@ -21,14 +22,14 @@ enum ByteOrder {
     NotApplicable
 }
 
-#[derive(Clone)]
+#[derive(Clone,Debug)]
 enum Width {
     EightBit     = 8,
     SixteenBit   = 16,
     ThirtyTwoBit = 32
 }
 
-#[derive(Clone)]
+#[derive(Clone,Debug)]
 struct Descriptor (
     Flavour,
     Width,
@@ -102,8 +103,8 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Option<String> {
         Bom(0xFF, 0xFE, 0x00, 0x00)                   => Some(UCS_4_LE),
         Bom(0x00, 0x00, 0xFF, 0xFE)                   => Some(UCS_4_2143),
         Bom(0xFE, 0xFF, 0x00, 0x00)                   => Some(UCS_4_3412),
-        Bom(0xFE, 0xFF, c   , d   ) if c > 0 && d > 0 => Some(UTF_16_BE),
-        Bom(0xFF, 0xFE, c   , d   ) if c > 0 && d > 0 => Some(UTF_16_LE),
+        Bom(0xFE, 0xFF, c   , d   ) if c > 0 || d > 0 => Some(UTF_16_BE),
+        Bom(0xFF, 0xFE, c   , d   ) if c > 0 || d > 0 => Some(UTF_16_LE),
         Bom(0xEF, 0xBB, 0xBF, _   )                   => Some(UTF_8),
 
         //  Without Byte Order Mark
@@ -155,10 +156,12 @@ fn search(needle: &str, haystack: &Vec<u8>, descriptor: Option<Descriptor>) -> O
     // log.write(format!("want {} in {}\n", needle, ascii_haystack).as_bytes());
 
     ascii_haystack.find(needle).map(|pos| {
-        ascii_haystack.chars()
-            .skip(pos + needle.len())
+        // Skip to the matching byte + length of the needle
+        ascii_haystack[pos + needle.len()..].chars()
             .skip_while(|char| *char == '"')
-            .take_while(|char| *char != '"').collect()
+            .take_while(|char| *char != '"')
+            // remove - and _ because people get these wrong
+            .filter(|char| *char != '-' && *char != '_').collect()
     })
 }
 
