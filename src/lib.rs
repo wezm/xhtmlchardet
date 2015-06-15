@@ -132,34 +132,35 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Vec<String> {
     search("encoding=", &buf.to_vec(), possible.clone())
         .or_else(|| search("charset=", &buf.to_vec(), possible.clone()))
         .map(|encoding| normalise(&encoding))
-        .map(|encoding| push_if_not_contains(&mut candidates, encoding));
+        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible.clone())));
 
-    // If no declaration is found, fallback on the hint if present
-    hint.map(|hint| normalise(&hint)).map(|encoding| push_if_not_contains(&mut candidates, encoding));
+    // Consider hint
+    hint.map(|hint| normalise(&hint))
+        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible.clone())));
 
-    // If no hint fallback on BOM
+    // Include info from BOM detection
     let from_bom = match possible {
-        Some(Descriptor(Flavour::UCS, Width::ThirtyTwoBit, _)) => Some("ucs4"),
-        Some(Descriptor(Flavour::UTF, Width::SixteenBit, _)) => Some("utf16"),
-        Some(Descriptor(Flavour::UTF, Width::EightBit, _)) => Some("utf8"),
+        Some(UCS_4_LE) => Some("ucs-4le"),
+        Some(UCS_4_BE) => Some("ucs-4be"),
+        Some(UTF_16_LE) => Some("utf-16le"),
+        Some(UTF_16_BE) => Some("utf-16be"),
+        Some(Descriptor(Flavour::UTF, Width::EightBit, _)) => Some("utf-8"),
         Some(EBCDIC) => Some("ebcdic"),
         _ => None
     }.map(|encoding| push_if_not_contains(&mut candidates, encoding.to_string()));
 
     // Otherwise test if UTF-8
     if candidates.is_empty() && String::from_utf8(buf.to_vec()).is_ok() {
-        candidates.push("utf8".to_string());
+        candidates.push("utf-8".to_string());
     }
 
     return candidates;
 }
 
 fn normalise(encoding: &String) -> String {
-    encoding.to_ascii_lowercase().chars()
-        // remove - and _ because people get these wrong
-        .filter(|char| *char != '-' && *char != '_')
-        .collect::<String>()
-        .replace("usascii", "ascii")
+    encoding.to_ascii_lowercase()
+        .replace("us-ascii", "ascii")
+        .replace("shift-jis", "shift_jis")
 }
 
 fn push_if_not_contains<T: PartialEq>(vec: &mut Vec<T>, item: T) {
@@ -168,12 +169,25 @@ fn push_if_not_contains<T: PartialEq>(vec: &mut Vec<T>, item: T) {
     }
 }
 
+fn endianify(encoding: &str, descriptor: Option<Descriptor>) -> String {
+    let Descriptor(ref flavour, ref width, ref order) = descriptor.unwrap_or(ASCII_8BIT);
+
+    match encoding {
+        "utf-16" => {
+            match *order {
+                ByteOrder::LittleEndian => "utf-16le".to_string(),
+                ByteOrder::BigEndian    => "utf-16be".to_string(),
+                _ => encoding.to_string()
+            }
+        },
+        _ => encoding.to_string()
+    }
+}
+
 fn search(needle: &str, haystack: &Vec<u8>, descriptor: Option<Descriptor>) -> Option<String> {
     let Descriptor(ref flavour, ref width, ref order) = descriptor.unwrap_or(ASCII_8BIT);
     let chunk_size = (width.clone() as usize) / 8;
     let needle_bytes = needle.as_bytes();
-
-    let mut log = std::io::stderr();
 
     let mut index = match *order {
         ByteOrder::NotApplicable | ByteOrder::LittleEndian  => 0,
@@ -189,8 +203,8 @@ fn search(needle: &str, haystack: &Vec<u8>, descriptor: Option<Descriptor>) -> O
     }
 
     let ascii_haystack = String::from_utf8_lossy(&ascii_bytes);
-    // log.write(format!("want {} in {}\n", needle, ascii_haystack).as_bytes());
 
+    // TODO: Handle single quotes
     ascii_haystack.find(needle).map(|pos| {
         // Skip to the matching byte + length of the needle
         ascii_haystack[pos + needle.len()..].chars()
@@ -199,6 +213,3 @@ fn search(needle: &str, haystack: &Vec<u8>, descriptor: Option<Descriptor>) -> O
     })
 }
 
-// #[test]
-// fn it_works() {
-// }
