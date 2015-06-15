@@ -1,58 +1,60 @@
 [[fixtures]]
 src = "http://podcast.frequencebanane.ch"
-charset = "iso88591"
+charset = ["iso88591"]
 variant = "xml-decl"
 content_type_header = "text/html"
 
 [[fixtures]]
 src = "http://www.fondosgratis.mx"
-charset = "windows1252"
+charset = ["windows1252"]
 variant = "html4-meta-http-equiv"
 content_type_header = "text/html"
 
 [[fixtures]]
 src = "http://www.itmedia.co.jp"
-charset = "shiftjis"
+charset = ["shiftjis"]
 variant = "html4-meta-http-equiv"
 content_type_header = "text/html"
 
 [[fixtures]]
 src = "http://yui-asagaeri.up.seesaa.net/image/top_season1.xml"
-charset = "shiftjis"
+charset = ["shiftjis"]
 variant = "xml-decl-nohint"
 content_type_header = "text/xml"
 
 # XML declaration has "Shift-Jis"
 [[fixtures]]
 src = "http://naoki.ai7.jp/music.xml"
-charset = "shiftjis"
+charset = ["shiftjis"]
 variant = "xml-decl-nounderscore-nohint"
 content_type_header = "application/xml"
 
 [[fixtures]]
 src = "http://www.pcstore.com.tw"
-charset = "big5"
+charset = ["big5"]
 variant = "xhtml1-meta-http-equiv"
 content_type_header = "text/html"
 
 # uchardet misdetects this as TIS-620
 [[fixtures]]
 src = "http://feeds.feedburner.com/pineapsterrandomaudiogenerator"
-charset = "utf8"
+charset = ["utf8"]
 variant = "xml-decl-uppercase"
 content_type_header = "text/xml; charset=UTF-8"
+hint = "UTF-8"
 
 # uchardet misdetects this as TIS-620
 [[fixtures]]
 src = "http://alexwat.podomatic.com/rss2.xml"
-charset = "utf8"
+charset = ["utf8"]
 variant = "xml-decl"
 content_type_header = "application/xml; charset=utf-8"
+hint = "utf-8"
 
 # uchardet misdetects this as TIS-620
 [[fixtures]]
 src = "http://www.ivoox.com/borja-v-lost-in-edinburgh_fg_f1137081_filtro_1.xml"
-charset = "utf8"
+charset = ["utf8"]
 variant = "xml-decl-nohint"
 content_type_header = "text/xml"
 
@@ -60,129 +62,138 @@ content_type_header = "text/xml"
 # Has an XML declaration without an encoding
 [[fixtures]]
 src = "http://www.offseason.at/offcast/offcast.xml"
-charset = "utf8"
+charset = ["utf8"]
 variant = "utf-16le-bom-xml-nodecl"
 content_type_header = "text/xml"
 
 [[fixtures]]
 src = "http://www.polka.es/admin/?q=polkast_itunes"
-charset = "utf8"
+charset = ["utf8"]
 variant = "xml-decl-uppercase-content-type-header"
 content_type_header = "text/html; charset=utf-8"
+hint = "utf-8"
 
 [[fixtures]]
 src = "http://www.thecurrent.org/collection/song-of-the-day/rss"
-charset = "utf8"
+charset = ["utf8"]
 variant = "xml-nodecl-nohint"
 content_type_header = "application/xml"
 
 [[fixtures]]
 src = "http://www.span.nered.org/podcast/music.xml"
-charset = "utf8"
+charset = ["utf8"]
 variant = "xml-nodecl-nohint2"
 content_type_header = "text/xml"
 
 [[fixtures]]
 src = "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/7/podprograma977.xml"
-charset = "iso88591"
+charset = ["iso88591"]
 variant = "xml-decl-uppercase"
 content_type_header = "text/xml; charset=iso-8859-1"
+hint = "iso-8859-1"
 
 [[fixtures]]
 src = "http://www.7161.com/podcast/TJ_podcast.xml"
-charset = "ascii"
-variant = "xml-nodecl-nohint"
+charset = ["utf8"]
+variant = "xml-nodecl-nohint3"
 content_type_header = "text/xml"
 
 # hint lacks dash in utf8
 [[fixtures]]
 src = "http://www.ibiza-voice.com/music/rss_podcast.php"
-charset = "utf8"
+charset = ["utf8"]
 variant = "xml-nodecl-hint"
 content_type_header = "text/xml;charset=utf8"
+hint = "utf-8"
 
 [[fixtures]]
 src = "http://feeds.feedburner.com/bbcmusicmagazine"
-charset = "utf8"
+charset = ["utf8"]
 variant = "xml-leading-comment-nodecl-hint"
 content_type_header = "application/xml; charset=UTF-8"
+hint = "UTF-8"
 
 # XML declaration says "Windows-1252"
 [[fixtures]]
 src = "http://dougmix.com.br/podcast/audio/feed.xml"
-charset = "windows1252"
+charset = ["windows1252"]
 variant = "xml-decl-nohint"
 content_type_header = "text/xml"
 
 [[fixtures]]
 src = "http://feeds.feedburner.com/PanoramaPodcast"
-charset = "windows1251"
+charset = ["windows1251"]
 variant = "xml-decl-hint"
 content_type_header = "text/xml; charset=windows-1251"
+hint = "windows-1251"
 
 [[fixtures]]
 src = "http://gbuc.net/modules/rss/rss.php?uid=45"
-charset = "utf8"
+charset = ["utf8", "eucjp"]
 variant = "xml-decl-euc-jp-hint"
 content_type_header = "text/html; charset=euc-jp"
+hint = "euc-jp"
 
 [[fixtures]]
 src = "http://www.djtonyon.ru/podcast/"
-charset = "utf8"
+charset = ["utf8", "windows1251"]
 variant = "xml-decl-windows-1251-hint"
 content_type_header = "text/html; charset=windows-1251"
+hint = "windows-1251"
 
 # XML declaration has "US-ASCII"
 [[fixtures]]
 src = "http://feeds.feedburner.com/westminster_to_go"
-charset = "ascii"
+charset = ["ascii"]
 variant = "xml-decl-hint"
 content_type_header = "text/xml; charset=US-ASCII"
+hint = "US-ASCII"
 
 [[fixtures]]
 src = "http://www.fjtb.pl/podcast/podcast.xml"
-charset = "iso88592"
+charset = ["iso88592"]
 variant = "xml-decl-nohint"
 content_type_header = "application/xml"
 
 # ISO-8859-9 = Turkish
 [[fixtures]]
 src = "http://www.michaelshow.com/podcast/michaelshow.xml"
-charset = "iso88599"
+charset = ["iso88599"]
 variant = "xml-decl-nohint"
 content_type_header = "application/xml"
 
+# IBM864 is Arabic ASCII
 [[fixtures]]
 src = "http://www.musicfrombrazil.com.br/mfb-es.rss"
-charset = "ascii"
+charset = ["ibm864"]
 variant = "xml-decl-ibm864-nohint"
 content_type_header = "application/rss+xml"
 
 # UTF-16LE
 [[fixtures]]
 src = "http://neojaponisme.com/neojaponismepodcasts.xml"
-charset = "utf16"
+charset = ["utf16"]
 variant = "xml-bom-decl-nohint"
 content_type_header = "application/xml"
 
 # UTF-16LE
 [[fixtures]]
 src = "http://localhost"
-charset = "utf16"
+charset = ["utf16"]
 variant = "xml-nobom-decl-nohint"
 content_type_header = "application/atom+xml"
 
 # UTF-16BE
 [[fixtures]]
 src = "http://localhost"
-charset = "utf16"
+charset = ["utf16"]
 variant = "xml-bom-be-decl-nohint"
 content_type_header = "application/atom+xml"
 
 # UTF-16BE
 [[fixtures]]
 src = "http://localhost"
-charset = "utf16"
+charset = ["utf16"]
 variant = "xml-nobom-be-decl-nohint"
 content_type_header = "application/atom+xml"
 

@@ -56,7 +56,7 @@ const ASCII_16BIT_BE: Descriptor = Descriptor(Flavour::Unknown, Width::SixteenBi
 const ASCII_16BIT_LE: Descriptor = Descriptor(Flavour::Unknown, Width::SixteenBit, ByteOrder::LittleEndian);
 const ASCII_8BIT: Descriptor = Descriptor(Flavour::ASCII, Width::EightBit, ByteOrder::NotApplicable);
 
-pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Option<String> {
+pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Vec<String> {
     // Read the first 4 bytes and see if they help
     let mut first_four_bytes = [0u8; 4];
     match reader.read(&mut first_four_bytes) {
@@ -112,7 +112,7 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Option<String> {
         Bom(0x3C, 0x00, 0x00, 0x00)                   => Some(ASCII_32BIT_LE),
         Bom(0x00, 0x00, 0x3C, 0x00)                   => Some(Descriptor(Flavour::Unknown, Width::ThirtyTwoBit, ByteOrder::Unusual2143)),
         Bom(0x00, 0x3C, 0x00, 0x00)                   => Some(Descriptor(Flavour::Unknown, Width::ThirtyTwoBit, ByteOrder::Unusual3412)),
-        Bom(0x00, 0x3C, 0x00, 0x3F)                   => Some(ASCII_32BIT_BE),
+        Bom(0x00, 0x3C, 0x00, 0x3F)                   => Some(ASCII_16BIT_BE),
         Bom(0x3C, 0x00, 0x3F, 0x00)                   => Some(ASCII_16BIT_LE),
         Bom(0x3C, 0x3F, 0x78, 0x6D)                   => Some(ASCII_8BIT),
         Bom(0x4C, 0x6F, 0xA7, 0x94)                   => Some(EBCDIC),
@@ -126,10 +126,46 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Option<String> {
     let mut buf = [0u8; 512];
     let bytes_read = reader.read(&mut buf).unwrap();
 
+    let mut candidates = Vec::with_capacity(3);
+
     // Look for encoding="", charset="?"?
     search("encoding=", &buf.to_vec(), possible.clone())
         .or_else(|| search("charset=", &buf.to_vec(), possible.clone()))
-        .map(|encoding| encoding.to_ascii_lowercase())
+        .map(|encoding| normalise(&encoding))
+        .map(|encoding| push_if_not_contains(&mut candidates, encoding));
+
+    // If no declaration is found, fallback on the hint if present
+    hint.map(|hint| normalise(&hint)).map(|encoding| push_if_not_contains(&mut candidates, encoding));
+
+    // If no hint fallback on BOM
+    let from_bom = match possible {
+        Some(Descriptor(Flavour::UCS, Width::ThirtyTwoBit, _)) => Some("ucs4"),
+        Some(Descriptor(Flavour::UTF, Width::SixteenBit, _)) => Some("utf16"),
+        Some(Descriptor(Flavour::UTF, Width::EightBit, _)) => Some("utf8"),
+        Some(EBCDIC) => Some("ebcdic"),
+        _ => None
+    }.map(|encoding| push_if_not_contains(&mut candidates, encoding.to_string()));
+
+    // Otherwise test if UTF-8
+    if candidates.is_empty() && String::from_utf8(buf.to_vec()).is_ok() {
+        candidates.push("utf8".to_string());
+    }
+
+    return candidates;
+}
+
+fn normalise(encoding: &String) -> String {
+    encoding.to_ascii_lowercase().chars()
+        // remove - and _ because people get these wrong
+        .filter(|char| *char != '-' && *char != '_')
+        .collect::<String>()
+        .replace("usascii", "ascii")
+}
+
+fn push_if_not_contains<T: PartialEq>(vec: &mut Vec<T>, item: T) {
+    if !vec.contains(&item) {
+        vec.push(item);
+    }
 }
 
 fn search(needle: &str, haystack: &Vec<u8>, descriptor: Option<Descriptor>) -> Option<String> {
@@ -159,9 +195,7 @@ fn search(needle: &str, haystack: &Vec<u8>, descriptor: Option<Descriptor>) -> O
         // Skip to the matching byte + length of the needle
         ascii_haystack[pos + needle.len()..].chars()
             .skip_while(|char| *char == '"')
-            .take_while(|char| *char != '"')
-            // remove - and _ because people get these wrong
-            .filter(|char| *char != '-' && *char != '_').collect()
+            .take_while(|char| *char != '"').collect()
     })
 }
 

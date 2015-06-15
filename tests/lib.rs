@@ -27,19 +27,21 @@ fn test_fixtures() {
         .as_slice().expect("fixtures is not an array");
 
     // Map the filename to the output charset
-    let mut expected: BTreeMap<String, Option<String>> = BTreeMap::new();
-    let mut actual: BTreeMap<String, Option<String>> = BTreeMap::new();
+    let mut expected: BTreeMap<String, Vec<String>> = BTreeMap::new();
+    let mut actual: BTreeMap<String, Vec<String>> = BTreeMap::new();
 
     for value in tests {
         let test = value.as_table().expect("invalid test");
-        let expected_charset = test["charset"].as_str().unwrap();
+        let mut expected_set: Vec<String> = test["charset"].as_slice().unwrap().to_vec()
+            .iter().map(|item| item.as_str().unwrap().to_string()).collect();
         let variant = test["variant"].as_str().unwrap();
-        let path = format!("tests/{}-{}.txt", expected_charset, variant);
+        let hint = test.get("hint").map(|hint| hint.as_str().unwrap().to_string());
+        let path = format!("tests/{}-{}.txt", expected_set[0], variant);
 
-        expected.insert(path.to_string(), Some(expected_charset.to_string()));
+        expected.insert(path.to_string(), expected_set);
 
         let mut file = File::open(&path).ok().expect(&format!("Unable to open {}", path));
-        let actual_charset = xhtmlchardet::detect(&mut file, None);
+        let actual_charset = xhtmlchardet::detect(&mut file, hint.clone());
         actual.insert(path.to_string(), actual_charset);
     }
 
@@ -48,7 +50,7 @@ fn test_fixtures() {
     let mut f = std::io::stderr();
     for (test, result) in expected.iter() {
         if *result != actual[test] {
-            f.write(format!("FAIL {}: {:?} != {:?}\n", test, result, actual[test]).as_bytes());
+            f.write(format!("FAIL {}: {:?} != {:?}\n", test, actual[test], result).as_bytes());
         }
         else {
             passed += 1;
