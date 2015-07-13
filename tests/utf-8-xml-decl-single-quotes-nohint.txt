@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='UTF-8'?><rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+		<channel>
+		<itunes:category text="Music" />
+		<language>en</language> <title>Latest songs by n30 at FilmAndMusic.org</title>
+		  <link>http://FilmAndMusic.org/artist/?id=1</link>
+		  	<language>en</language>
+			<copyright>&#x2117; &amp; &#xA9; 2015 Film And Music, Australia</copyright>
+			<itunes:subtitle>n30 is a featured artist on FilmAndMusic.org. This feed contains n30 newest songs.</itunes:subtitle>
+			<itunes:author>Film and Music, Australia</itunes:author>
+			<itunes:summary>We are a small music label located in Melbourne, Australia. We publish songs on our website on a regular basis. All songs are free to download, listen to, and you can use them for non-commercial projects.  You can leave comments on our songs as well as rate them on the web site.</itunes:summary>
+			<description>We are a small music label located in Melbourne, Australia. We publish songs on our website on a regular basis. All songs are free to download, listen to, and you can use them for non-commercial projects.  You can leave comments on our songs as well as rate them on the web site.</description>
+			<itunes:owner>
+				<itunes:name>Film and Music, Australia</itunes:name>
+				<itunes:email>info@FilmAndMusic.org</itunes:email>
+			</itunes:owner>
+			<itunes:image href='http://www.filmandmusic.org/media/img/podcast.jpg' />
+			
+		<item>
+		<title>doesnt need to know</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>doesnt need to know was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>doesnt need to know plays for 00:18:47h at 44.1 KHz KHz / 128 kbps and has 17.62 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=381&amp;s=artist_1&amp;n=doesnt+need+to+know.mp3' length='18047060' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=381</guid>
+			<pubDate>Thu, 05 Jun 2014 15:36:50 +1000</pubDate>
+			<itunes:duration>00:18:47h</itunes:duration>
+		</item>
+
+		<item>
+		<title>it is what it is</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>it is what it is was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>it is what it is plays for 00:12:51h at 44.1 KHz KHz / 320 kbps and has 30.13 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=380&amp;s=artist_1&amp;n=it+is+what+it+is.mp3' length='30851702' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=380</guid>
+			<pubDate>Sun, 01 Jun 2014 15:36:48 +1000</pubDate>
+			<itunes:duration>00:12:51h</itunes:duration>
+		</item>
+
+		<item>
+		<title>The yellow Song</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>The yellow Song was published by n30 under the category Dance at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>The yellow Song plays for 00:09:07h at 44.1 KHz KHz / 96 kbps and has 6.42 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=373&amp;s=artist_1&amp;n=The+yellow+Song.mp3' length='6570133' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=373</guid>
+			<pubDate>Wed, 05 Jun 2013 15:37:22 +1000</pubDate>
+			<itunes:duration>00:09:07h</itunes:duration>
+		</item>
+
+		<item>
+		<title>Gravitons and Dilatons</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>Gravitons and Dilatons was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Gravitons and Dilatons plays for 00:08:25h at 44.1 KHz KHz / 128 kbps and has 7.9 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=372&amp;s=artist_1&amp;n=Gravitons+and+Dilatons.mp3' length='8093856' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=372</guid>
+			<pubDate>Wed, 29 May 2013 15:37:22 +1000</pubDate>
+			<itunes:duration>00:08:25h</itunes:duration>
+		</item>
+
+		<item>
+		<title>Trance Mission 1999</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>Trance Mission 1999 was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Trance Mission 1999 plays for 00:08:26h at 44.1 KHz KHz / 320 kbps and has 19.78 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=365&amp;s=artist_1&amp;n=Trance+Mission+1999.mp3' length='20251816' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=365</guid>
+			<pubDate>Mon, 06 May 2013 15:37:17 +1000</pubDate>
+			<itunes:duration>00:08:26h</itunes:duration>
+		</item>
+
+		<item>
+		<title>Springfrosch 1999</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>Springfrosch 1999 was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Springfrosch 1999 plays for 00:06:43h at 44.1 KHz KHz / 320 kbps and has 15.76 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=364&amp;s=artist_1&amp;n=Springfrosch+1999.mp3' length='16141588' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=364</guid>
+			<pubDate>Wed, 01 May 2013 15:37:14 +1000</pubDate>
+			<itunes:duration>00:06:43h</itunes:duration>
+		</item>
+
+		<item>
+		<title>Far Away 1999</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>Far Away 1999 was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Far Away 1999 plays for 00:13:46h at 44.1 KHz KHz / 320 kbps and has 32.27 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=363&amp;s=artist_1&amp;n=Far+Away+1999.mp3' length='33047080' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=363</guid>
+			<pubDate>Tue, 30 Apr 2013 15:37:16 +1000</pubDate>
+			<itunes:duration>00:13:46h</itunes:duration>
+		</item>
+
+		<item>
+		<title>Endzeit 1999</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>Endzeit 1999 was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Endzeit 1999 plays for 00:08:48h at 44.1 KHz KHz / 320 kbps and has 20.64 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=362&amp;s=artist_1&amp;n=Endzeit+1999.mp3' length='21131908' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=362</guid>
+			<pubDate>Mon, 29 Apr 2013 15:37:17 +1000</pubDate>
+			<itunes:duration>00:08:48h</itunes:duration>
+		</item>
+
+		<item>
+		<title>Retrospension One 06-2003</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>Retrospension One 06-2003 was published by n30 under the category Dance at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Retrospension One 06-2003 plays for 00:05:25h at 44.1 KHz KHz / 128 kbps and has 5.09 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=358&amp;s=artist_1&amp;n=Retrospension+One+06-2003.mp3' length='5210757' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=358</guid>
+			<pubDate>Mon, 01 Apr 2013 16:37:11 +1100</pubDate>
+			<itunes:duration>00:05:25h</itunes:duration>
+		</item>
+
+		<item>
+		<title>Pingacid - Ac1d RMX</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>Pingacid - Ac1d RMX was published by n30 under the category Electronic at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Pingacid - Ac1d RMX plays for 00:12:06h at 44.1 KHz KHz / 128 kbps and has 11.35 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=353&amp;s=artist_1&amp;n=Pingacid+-+Ac1d+RMX.mp3' length='11621355' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=353</guid>
+			<pubDate>Mon, 25 Feb 2013 17:37:07 +1100</pubDate>
+			<itunes:duration>00:12:06h</itunes:duration>
+		</item>
+
+		<item>
+		<title>Vier/Zehn</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>Vier/Zehn was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Vier/Zehn plays for 00:06:43h at 44.1 KHz KHz / 320 kbps and has 15.75 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=340&amp;s=artist_1&amp;n=Vier%2FZehn.mp3' length='16128384' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=340</guid>
+			<pubDate>Tue, 20 Nov 2012 01:35:02 +1100</pubDate>
+			<itunes:duration>00:06:43h</itunes:duration>
+		</item>
+
+		<item>
+		<title>forgetting life</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>forgetting life was published by n30 under the category Dance at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>forgetting life plays for 00:08:09h at 44.1 KHz KHz / 320 kbps and has 19.13 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href='http://www.filmandmusic.org/media/images/thumbs0120/229.jpg'/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=324&amp;s=artist_1&amp;n=forgetting+life.mp3' length='19594055' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=324</guid>
+			<pubDate>Fri, 27 Jan 2012 01:35:02 +1100</pubDate>
+			<itunes:duration>00:08:09h</itunes:duration>
+		</item>
+
+		<item>
+		<title>dixi raver shyt</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>dixi raver shyt was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>dixi raver shyt plays for 00:11:55h at 44.1 KHz KHz / 128 kbps and has 11.18 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=305&amp;s=artist_1&amp;n=dixi+raver+shyt.mp3' length='11450956' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=305</guid>
+			<pubDate>Mon, 11 Jan 2010 01:35:02 +1100</pubDate>
+			<itunes:duration>00:11:55h</itunes:duration>
+		</item>
+
+		<item>
+		<title>16 sleeps</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>16 sleeps was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>16 sleeps plays for 00:08:42h at 44.1 KHz KHz / 128 kbps and has 8.17 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href='http://www.filmandmusic.org/media/images/thumbs0120/226.jpg'/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=296&amp;s=artist_1&amp;n=16+sleeps.mp3' length='8367543' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=296</guid>
+			<pubDate>Thu, 27 Aug 2009 01:35:02 +1000</pubDate>
+			<itunes:duration>00:08:42h</itunes:duration>
+		</item>
+
+		<item>
+		<title>Something Stelarc</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>Something Stelarc was published by n30 under the category Dance at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Something Stelarc plays for 00:07:58h at 44.1 KHz KHz / 128 kbps and has 7.47 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href='http://www.filmandmusic.org/media/images/thumbs0120/230.jpg'/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=294&amp;s=artist_1&amp;n=Something+Stelarc.mp3' length='7650325' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=294</guid>
+			<pubDate>Thu, 30 Jul 2009 01:35:02 +1000</pubDate>
+			<itunes:duration>00:07:58h</itunes:duration>
+		</item>
+
+		<item>
+		<title>Back In The Golden City</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>Back In The Golden City was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Back In The Golden City plays for 00:13:34h at 44.1 KHz KHz / 128 kbps and has 12.72 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href='http://www.filmandmusic.org/media/images/thumbs0120/227.jpg'/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=283&amp;s=artist_1&amp;n=Back+In+The+Golden+City.mp3' length='13028624' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=283</guid>
+			<pubDate>Tue, 03 Mar 2009 01:35:01 +1100</pubDate>
+			<itunes:duration>00:13:34h</itunes:duration>
+		</item>
+
+		<item>
+		<title>back!</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>back! was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>back! plays for 00:09:53h at 44.1 KHz KHz / 128 kbps and has 9.28 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href='http://www.filmandmusic.org/media/images/thumbs0120/228.jpg'/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=280&amp;s=artist_1&amp;n=back%21.mp3' length='9503558' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=280</guid>
+			<pubDate>Sat, 14 Feb 2009 01:35:01 +1100</pubDate>
+			<itunes:duration>00:09:53h</itunes:duration>
+		</item>
+
+		<item>
+		<title>sphere</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>sphere was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>sphere plays for 00:10:17h at 44.1 KHz KHz / 128 kbps and has 9.64 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href='http://www.filmandmusic.org/media/images/thumbs0120/233.jpg'/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=276&amp;s=artist_1&amp;n=sphere.mp3' length='9873450' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=276</guid>
+			<pubDate>Mon, 12 Jan 2009 01:35:01 +1100</pubDate>
+			<itunes:duration>00:10:17h</itunes:duration>
+		</item>
+
+		<item>
+		<title>Vision 2KI</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>Vision 2KI was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Vision 2KI plays for 00:07:13h at 44.1 KHz KHz / 128 kbps and has 6.77 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href='http://www.filmandmusic.org/media/images/thumbs0120/231.jpg'/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=264&amp;s=artist_1&amp;n=Vision+2KI.mp3' length='6934528' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=264</guid>
+			<pubDate>Fri, 07 Nov 2008 01:35:01 +1100</pubDate>
+			<itunes:duration>00:07:13h</itunes:duration>
+		</item>
+
+		<item>
+		<title>Income</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>Income was published by n30 under the category Trance / Goa at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Income plays for 00:13:00h at 44.1 KHz KHz / 128 kbps and has 12.2 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href='http://www.filmandmusic.org/media/images/thumbs0120/172.jpg'/>
+			<enclosure url='http://FilmAndMusic.org/podcast/index.mp3?id=247&amp;s=artist_1&amp;n=Income.mp3' length='12496188' type='audio/mpeg' />
+			<guid>http://filmandmusic.org/song/?id=247</guid>
+			<pubDate>Sun, 04 May 2008 01:35:02 +1000</pubDate>
+			<itunes:duration>00:13:00h</itunes:duration>
+		</item>
+	<item><title>Life is seldom what it seems</title>
+			<itunes:author>Rid.iculo.us</itunes:author>
+			<itunes:subtitle>Life is seldom what it seems was published by Rid.iculo.us under the category Dance at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Life is seldom what it seems plays for 05:22h at 44.1 KHz KHz / 128 kbps and has 4.92 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://www.triplejunearthed.com/GetFile/1017209/Life-is-seldom-what-it-seems--by-ridiculous.mp3' type='audio/mpeg' />
+			<guid></guid>
+			<pubDate>Mon, 31 Dec 2012 01:35:02 -0500</pubDate>
+			<itunes:duration>01:01:58h</itunes:duration>
+		</item>
+        
+        <item>
+        	<title>Logging the Mind</title>
+			<itunes:author>Rid.iculo.us</itunes:author>
+			<itunes:subtitle>Logging the Mind was published by Rid.iculo.us under the category Dance at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>Logging the Mind plays for 05:22h at 44.1 KHz KHz / 128 kbps and has 3.82 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://www.triplejunearthed.com/GetFile/1019748/Logging-the-Mind--by-ridiculous.mp3' type='audio/mpeg' />
+			<guid></guid>
+			<pubDate>Mon, 31 Dec 2012 01:35:02 -0500</pubDate>
+			<itunes:duration>01:01:58h</itunes:duration>
+		</item>
+        
+        
+        <item>        
+        	<title>u sed u luving me</title>
+			<itunes:author>n30</itunes:author>
+			<itunes:subtitle>u sed u luving med was published by n30 under the category Trance at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>u sed u luving me plays for 11:10h at 44.1 KHz KHz / 128 kbps and has 10.32 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://www.triplejunearthed.com/GetFile/1069545/mixdown%20--%20146%20--%20n%20goaesque%201.6.mp3' type='audio/mpeg' />
+			<guid></guid>
+			<pubDate>Mon, 31 Dec 2012 01:35:02 -0500</pubDate>
+			<itunes:duration>01:01:58h</itunes:duration>
+		</item>
+		
+		
+		  <item>        
+        	<title>nothing to prove</title>
+			<itunes:author>ridiculou</itunes:author>
+			<itunes:subtitle>nothing to prove was published by ridiculous under the category Dance at FilmAndMusic.org.</itunes:subtitle>
+			<itunes:summary>nothing to prove plays for 5:32h at 44.1 KHz KHz / 128 kbps and has 5.08 mb. It is free to download, listen to and can be used for non-commercial projects.</itunes:summary>
+			<itunes:image href=' '/>
+			<enclosure url='http://www.triplejunearthed.com/GetFile/1078472/nothing-to-prove---ridiculous.mp3' type='audio/mpeg' />
+			<guid></guid>
+			<pubDate>Mon, 31 Dec 2012 01:35:02 -0500</pubDate>
+			<itunes:duration>01:01:58h</itunes:duration>
+		</item>
+		
+		
+		</channel></rss>
