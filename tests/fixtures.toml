@@ -108,6 +108,13 @@ charset = ["utf-8"]
 variant = "xml-leading-comment-nodecl-hint"
 content_type_header = "application/xml; charset=UTF-8"
 
+
+[[fixtures]]
+src = "http://www.filmandmusic.org/rss/mp3/podcast/artist/1"
+charset = ["utf-8"]
+variant = "xml-decl-single-quotes-nohint"
+content_type_header = "application/xml"
+
 # XML declaration says "Windows-1252"
 [[fixtures]]
 src = "http://dougmix.com.br/podcast/audio/feed.xml"

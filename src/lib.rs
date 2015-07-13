@@ -204,12 +204,11 @@ fn search(needle: &str, haystack: &Vec<u8>, descriptor: Option<Descriptor>) -> O
 
     let ascii_haystack = String::from_utf8_lossy(&ascii_bytes);
 
-    // TODO: Handle single quotes
     ascii_haystack.find(needle).map(|pos| {
         // Skip to the matching byte + length of the needle
         ascii_haystack[pos + needle.len()..].chars()
-            .skip_while(|char| *char == '"')
-            .take_while(|char| *char != '"').collect()
+            .skip_while(|char| *char == '"' || *char == '\'')
+            .take_while(|char| *char != '"' && *char != '\'').collect()
     })
 }
 
