@@ -160,6 +160,7 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Vec<String> {
 fn normalise(encoding: &String) -> String {
     encoding.to_ascii_lowercase()
         .replace("us-ascii", "ascii")
+        .replace("utf8", "utf-8")
         .replace("shift-jis", "shift_jis")
 }
 
