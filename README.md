@@ -22,9 +22,9 @@ assert_eq!(detected_charsets, vec!["iso-8859-1".to_string()]);
 
 I wrote a feed crawler that needed to determine the character set of fetched
 content so that it could be normalised to UTF-8. Initially I used the
-[uchardet] crate but I encountered may situations where it misdetected the
+[uchardet] crate but I encountered some situations where it misdetected the
 charset. I collected all these edge cases together and built a test suite. Then
-I implemented this crate, which passes all of those test. It's uses a fairly
+I implemented this crate, which passes all of those tests. It uses a fairly
 naïve approach derived from [section F of the XML specification][xmlspec].
 
 [uchardet]: https://crates.io/crates/uchardet
