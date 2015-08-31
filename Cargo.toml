@@ -8,8 +8,13 @@ homepage = "https://github.com/wezm/xhtmlchardet"
 version = "0.1.0"
 authors = ["Wesley Moore <wes@wezm.net>"]
 license = "MIT"
+include = [
+    "src/*.rs",
+    "Cargo.toml",
+]
 
 [dependencies]
 
 [dev-dependencies]
 toml = "*"
+
