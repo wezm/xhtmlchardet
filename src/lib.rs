@@ -56,6 +56,25 @@ const ASCII_16BIT_BE: Descriptor = Descriptor(Flavour::Unknown, Width::SixteenBi
 const ASCII_16BIT_LE: Descriptor = Descriptor(Flavour::Unknown, Width::SixteenBit, ByteOrder::LittleEndian);
 const ASCII_8BIT: Descriptor = Descriptor(Flavour::ASCII, Width::EightBit, ByteOrder::NotApplicable);
 
+/// Attempt to detect the character set of the supplied byte stream.
+///
+/// `reader` is expected to be positioned at the start of the stream. `detect` will read up to 516
+/// bytes in order to determine the encoding.
+///
+/// The optional `hint` is a possible encoding name for the text that may have been receieved
+/// externally to the text itself, such as HTTP header.
+///
+/// ### Example
+///
+/// ```
+/// use std::io::Cursor;
+/// extern crate xhtmlchardet;
+///
+/// let text = b"<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?><channel><title>Example</title></channel>";
+/// let mut text_cursor = Cursor::new(text.to_vec());
+/// let detected_charsets: Vec<String> = xhtmlchardet::detect(&mut text_cursor, None);
+/// assert_eq!(detected_charsets, vec!["iso-8859-1".to_string()]);
+/// ```
 pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Vec<String> {
     // Read the first 4 bytes and see if they help
     let mut first_four_bytes = [0u8; 4];
