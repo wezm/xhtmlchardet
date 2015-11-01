@@ -16,5 +16,5 @@ include = [
 [dependencies]
 
 [dev-dependencies]
-toml = "*"
+toml = "0.1.23"
 
