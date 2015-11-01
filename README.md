@@ -4,6 +4,8 @@ Basic character set detection for XML and HTML in Rust.
 
 [![Build Status](https://travis-ci.org/wezm/xhtmlchardet.svg)](https://travis-ci.org/wezm/xhtmlchardet)
 
+[API Documentation](http://doc.wezm.net/xhtmlchardet/)
+
 ## Example
 
 ```rust
