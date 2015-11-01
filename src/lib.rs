@@ -1,4 +1,4 @@
-use std::io::{Read,Write};
+use std::io::{Read};
 use std::ascii::AsciiExt;
 
 #[derive(Debug)]
@@ -143,7 +143,7 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Vec<String> {
     // Now that byte size may have been determined try reading the first 512ish bytes to read an
     // encoding declaration
     let mut buf = [0u8; 512];
-    let bytes_read = reader.read(&mut buf).unwrap();
+    reader.read(&mut buf).unwrap();
 
     let mut candidates = Vec::with_capacity(3);
 
@@ -158,7 +158,7 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Vec<String> {
         .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible.clone())));
 
     // Include info from BOM detection
-    let from_bom = match possible {
+    match possible {
         Some(UCS_4_LE) => Some("ucs-4le"),
         Some(UCS_4_BE) => Some("ucs-4be"),
         Some(UTF_16_LE) => Some("utf-16le"),
@@ -190,7 +190,7 @@ fn push_if_not_contains<T: PartialEq>(vec: &mut Vec<T>, item: T) {
 }
 
 fn endianify(encoding: &str, descriptor: Option<Descriptor>) -> String {
-    let Descriptor(ref flavour, ref width, ref order) = descriptor.unwrap_or(ASCII_8BIT);
+    let Descriptor(_, _, ref order) = descriptor.unwrap_or(ASCII_8BIT);
 
     match encoding {
         "utf-16" => {
@@ -205,9 +205,8 @@ fn endianify(encoding: &str, descriptor: Option<Descriptor>) -> String {
 }
 
 fn search(needle: &str, haystack: &Vec<u8>, descriptor: Option<Descriptor>) -> Option<String> {
-    let Descriptor(ref flavour, ref width, ref order) = descriptor.unwrap_or(ASCII_8BIT);
+    let Descriptor(_, ref width, ref order) = descriptor.unwrap_or(ASCII_8BIT);
     let chunk_size = (width.clone() as usize) / 8;
-    let needle_bytes = needle.as_bytes();
 
     let mut index = match *order {
         ByteOrder::NotApplicable | ByteOrder::LittleEndian  => 0,

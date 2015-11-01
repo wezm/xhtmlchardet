@@ -1,8 +1,6 @@
 extern crate toml;
 extern crate xhtmlchardet;
 
-use std::io;
-
 use std::io::{Read,Write};
 use std::fs::File;
 use std::collections::BTreeMap;
@@ -32,7 +30,7 @@ fn test_fixtures() {
 
     for value in tests {
         let test = value.as_table().expect("invalid test");
-        let mut expected_set: Vec<String> = test["charset"].as_slice().unwrap().to_vec()
+        let expected_set: Vec<String> = test["charset"].as_slice().unwrap().to_vec()
             .iter().map(|item| item.as_str().unwrap().to_string()).collect();
         let variant = test["variant"].as_str().unwrap();
         let hint = test.get("hint").map(|hint| hint.as_str().unwrap().to_string());
@@ -50,7 +48,7 @@ fn test_fixtures() {
     let mut f = std::io::stderr();
     for (test, result) in expected.iter() {
         if *result != actual[test] {
-            f.write(format!("FAIL {}: {:?} != {:?}\n", test, actual[test], result).as_bytes());
+            f.write(format!("FAIL {}: {:?} != {:?}\n", test, actual[test], result).as_bytes()).unwrap();
         }
         else {
             passed += 1;
