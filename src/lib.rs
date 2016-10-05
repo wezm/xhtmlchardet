@@ -4,7 +4,7 @@ use std::ascii::AsciiExt;
 #[derive(Debug)]
 struct Bom ( u8, u8, u8, u8 );
 
-#[derive(Clone,Debug)]
+#[derive(Clone,Debug,PartialEq,Eq)]
 enum Flavour {
     UCS,
     UTF,
@@ -13,7 +13,7 @@ enum Flavour {
     Unknown,
 }
 
-#[derive(Clone,Debug)]
+#[derive(Clone,Debug,PartialEq,Eq)]
 enum ByteOrder {
     BigEndian,
     LittleEndian,
@@ -22,14 +22,14 @@ enum ByteOrder {
     NotApplicable
 }
 
-#[derive(Clone,Debug)]
+#[derive(Clone,Debug,PartialEq,Eq)]
 enum Width {
     EightBit     = 8,
     SixteenBit   = 16,
     ThirtyTwoBit = 32
 }
 
-#[derive(Clone,Debug)]
+#[derive(Clone,Debug,PartialEq,Eq)]
 struct Descriptor (
     Flavour,
     Width,
