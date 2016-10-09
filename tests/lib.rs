@@ -6,7 +6,6 @@ use std::fs::File;
 use std::collections::BTreeMap;
 
 fn read_config() -> toml::Value {
-    // let path = Path::new(&config_arg);
     let mut file = File::open("tests/fixtures.toml")
         .ok()
         .expect("Unable to open tests/fixtures.toml");
@@ -40,7 +39,7 @@ fn test_fixtures() {
 
         let mut file = File::open(&path).ok().expect(&format!("Unable to open {}", path));
         let actual_charset = xhtmlchardet::detect(&mut file, hint.clone());
-        actual.insert(path.to_string(), actual_charset);
+        actual.insert(path.to_string(), actual_charset.unwrap());
     }
 
     // Verify the results

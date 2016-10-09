@@ -1,5 +1,4 @@
-use std::io::{Read};
-use std::ascii::AsciiExt;
+use std::io::{Read, Error};
 
 #[derive(Debug)]
 struct Bom ( u8, u8, u8, u8 );
@@ -30,11 +29,7 @@ enum Width {
 }
 
 #[derive(Clone,Debug,PartialEq,Eq)]
-struct Descriptor (
-    Flavour,
-    Width,
-    ByteOrder,
-);
+struct Descriptor (Flavour, Width, ByteOrder);
 
 // 32-Bit Encodings
 const UCS_4_BE: Descriptor = Descriptor(Flavour::UCS, Width::ThirtyTwoBit, ByteOrder::BigEndian);
@@ -58,11 +53,11 @@ const ASCII_8BIT: Descriptor = Descriptor(Flavour::ASCII, Width::EightBit, ByteO
 
 /// Attempt to detect the character set of the supplied byte stream.
 ///
-/// `reader` is expected to be positioned at the start of the stream. `detect` will read up to 516
+/// `reader` is expected to be positioned at the start of the stream. `detect` will read up to 512
 /// bytes in order to determine the encoding.
 ///
-/// The optional `hint` is a possible encoding name for the text that may have been receieved
-/// externally to the text itself, such as HTTP header.
+/// The optional `hint` is a possible encoding name for the text that may have been received
+/// externally to the text itself, such as from HTTP header.
 ///
 /// ### Example
 ///
@@ -72,16 +67,13 @@ const ASCII_8BIT: Descriptor = Descriptor(Flavour::ASCII, Width::EightBit, ByteO
 ///
 /// let text = b"<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?><channel><title>Example</title></channel>";
 /// let mut text_cursor = Cursor::new(text.to_vec());
-/// let detected_charsets: Vec<String> = xhtmlchardet::detect(&mut text_cursor, None);
-/// assert_eq!(detected_charsets, vec!["iso-8859-1".to_string()]);
+/// let detected_charsets = xhtmlchardet::detect(&mut text_cursor, None);
+/// assert_eq!(detected_charsets.unwrap_or(vec![]), vec!["iso-8859-1".to_string()]);
 /// ```
-pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Vec<String> {
+pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<String>, Error> {
     // Read the first 4 bytes and see if they help
     let mut first_four_bytes = [0u8; 4];
-    match reader.read(&mut first_four_bytes) {
-        Ok(bytes_read) => assert_eq!(bytes_read, 4),
-        Err(e) => panic!(e)
-    };
+    try!(reader.read(&mut first_four_bytes));
 
     let bom = Bom(
         first_four_bytes[0],
@@ -90,7 +82,45 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Vec<String> {
         first_four_bytes[3]
     );
 
-    // http://www.w3.org/TR/2004/REC-xml-20040204/#sec-guessing-no-ext-info
+    let possible = detect_byte_order_mark(&bom);
+
+    // Now that byte size may have been determined try reading the first 512ish bytes to read an
+    // encoding declaration
+    let mut buf = [0u8; 512];
+    try!(reader.read(&mut buf));
+
+    let mut candidates = Vec::with_capacity(3);
+
+    // Look for encoding="", charset="?"?
+    search("encoding=", &buf.to_vec(), &possible)
+        .or_else(|| search("charset=", &buf.to_vec(), &possible))
+        .map(|encoding| normalise(&encoding))
+        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, &possible)));
+
+    // Consider hint
+    hint.map(|hint| normalise(&hint))
+        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, &possible)));
+
+    // Include info from BOM detection
+    match possible {
+        Some(UCS_4_LE) => Some("ucs-4le"),
+        Some(UCS_4_BE) => Some("ucs-4be"),
+        Some(UTF_16_LE) => Some("utf-16le"),
+        Some(UTF_16_BE) => Some("utf-16be"),
+        Some(Descriptor(Flavour::UTF, Width::EightBit, _)) => Some("utf-8"),
+        Some(EBCDIC) => Some("ebcdic"),
+        _ => None
+    }.map(|encoding| push_if_not_contains(&mut candidates, encoding.to_string()));
+
+    // Otherwise test if UTF-8
+    if candidates.is_empty() && String::from_utf8(buf.to_vec()).is_ok() {
+        candidates.push("utf-8".to_string());
+    }
+
+    return Ok(candidates);
+}
+
+fn detect_byte_order_mark(bom: &Bom) -> Option<Descriptor> {
     // Can do below without the Bom type if slice pattern syntax becomes non-experimental
     // let possible = match first_four_bytes {
     //     // With Byte Order Mark
@@ -116,7 +146,8 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Vec<String> {
     //     _                                    => Some("Other"),
     // };
 
-    let possible = match bom {
+    // http://www.w3.org/TR/2004/REC-xml-20040204/#sec-guessing-no-ext-info
+    match *bom {
         // With Byte Order Mark
         Bom(0x00, 0x00, 0xFE, 0xFF)                   => Some(UCS_4_BE),
         Bom(0xFF, 0xFE, 0x00, 0x00)                   => Some(UCS_4_LE),
@@ -138,46 +169,11 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Vec<String> {
         // This may be UTF-8 without an encoding declaration as this is not required
         // for UTF-8
         _                                             => None,
-    };
-
-    // Now that byte size may have been determined try reading the first 512ish bytes to read an
-    // encoding declaration
-    let mut buf = [0u8; 512];
-    reader.read(&mut buf).unwrap();
-
-    let mut candidates = Vec::with_capacity(3);
-
-    // Look for encoding="", charset="?"?
-    search("encoding=", &buf.to_vec(), possible.clone())
-        .or_else(|| search("charset=", &buf.to_vec(), possible.clone()))
-        .map(|encoding| normalise(&encoding))
-        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible.clone())));
-
-    // Consider hint
-    hint.map(|hint| normalise(&hint))
-        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible.clone())));
-
-    // Include info from BOM detection
-    match possible {
-        Some(UCS_4_LE) => Some("ucs-4le"),
-        Some(UCS_4_BE) => Some("ucs-4be"),
-        Some(UTF_16_LE) => Some("utf-16le"),
-        Some(UTF_16_BE) => Some("utf-16be"),
-        Some(Descriptor(Flavour::UTF, Width::EightBit, _)) => Some("utf-8"),
-        Some(EBCDIC) => Some("ebcdic"),
-        _ => None
-    }.map(|encoding| push_if_not_contains(&mut candidates, encoding.to_string()));
-
-    // Otherwise test if UTF-8
-    if candidates.is_empty() && String::from_utf8(buf.to_vec()).is_ok() {
-        candidates.push("utf-8".to_string());
     }
-
-    return candidates;
 }
 
 fn normalise(encoding: &String) -> String {
-    encoding.to_ascii_lowercase()
+    encoding.to_lowercase()
         .replace("us-ascii", "ascii")
         .replace("utf8", "utf-8")
         .replace("shift-jis", "shift_jis")
@@ -189,12 +185,12 @@ fn push_if_not_contains<T: PartialEq>(vec: &mut Vec<T>, item: T) {
     }
 }
 
-fn endianify(encoding: &str, descriptor: Option<Descriptor>) -> String {
-    let Descriptor(_, _, ref order) = descriptor.unwrap_or(ASCII_8BIT);
+fn endianify(encoding: &str, descriptor: &Option<Descriptor>) -> String {
+    let Descriptor(_, _, order) = descriptor.clone().unwrap_or(ASCII_8BIT);
 
     match encoding {
         "utf-16" => {
-            match *order {
+            match order {
                 ByteOrder::LittleEndian => "utf-16le".to_string(),
                 ByteOrder::BigEndian    => "utf-16be".to_string(),
                 _ => encoding.to_string()
@@ -204,11 +200,11 @@ fn endianify(encoding: &str, descriptor: Option<Descriptor>) -> String {
     }
 }
 
-fn search(needle: &str, haystack: &Vec<u8>, descriptor: Option<Descriptor>) -> Option<String> {
-    let Descriptor(_, ref width, ref order) = descriptor.unwrap_or(ASCII_8BIT);
-    let chunk_size = (width.clone() as usize) / 8;
+fn search(needle: &str, haystack: &Vec<u8>, descriptor: &Option<Descriptor>) -> Option<String> {
+    let Descriptor(_, width, order) = descriptor.clone().unwrap_or(ASCII_8BIT);
+    let chunk_size = (width as usize) / 8;
 
-    let mut index = match *order {
+    let mut index = match order {
         ByteOrder::NotApplicable | ByteOrder::LittleEndian  => 0,
         ByteOrder::BigEndian => chunk_size - 1,
         ByteOrder::Unusual2143 => 2,
