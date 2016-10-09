@@ -82,7 +82,7 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<Strin
         first_four_bytes[3]
     );
 
-    let possible = detect_byte_order_mark(&bom);
+    let possible_encoding = detect_byte_order_mark(&bom);
 
     // Now that byte size may have been determined try reading the first 512ish bytes to read an
     // encoding declaration
@@ -92,17 +92,17 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<Strin
     let mut candidates = Vec::with_capacity(3);
 
     // Look for encoding="", charset="?"?
-    search("encoding=", &buf.to_vec(), possible.as_ref())
-        .or_else(|| search("charset=", &buf.to_vec(), possible.as_ref()))
         .map(|encoding| normalise(&encoding))
-        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible.as_ref())));
+    search("encoding=", &buf.to_vec(), possible_encoding.as_ref())
+        .or_else(|| search("charset=", &buf.to_vec(), possible_encoding.as_ref()))
+        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible_encoding.as_ref())));
 
     // Consider hint
     hint.map(|hint| normalise(&hint))
-        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible.as_ref())));
+        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible_encoding.as_ref())));
 
     // Include info from BOM detection
-    match possible {
+    match possible_encoding {
         Some(UCS_4_LE) => Some("ucs-4le"),
         Some(UCS_4_BE) => Some("ucs-4be"),
         Some(UTF_16_LE) => Some("utf-16le"),
