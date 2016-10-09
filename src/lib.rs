@@ -92,14 +92,14 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<Strin
     let mut candidates = Vec::with_capacity(3);
 
     // Look for encoding="", charset="?"?
-    search("encoding=", &buf.to_vec(), &possible)
-        .or_else(|| search("charset=", &buf.to_vec(), &possible))
+    search("encoding=", &buf.to_vec(), possible.as_ref())
+        .or_else(|| search("charset=", &buf.to_vec(), possible.as_ref()))
         .map(|encoding| normalise(&encoding))
-        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, &possible)));
+        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible.as_ref())));
 
     // Consider hint
     hint.map(|hint| normalise(&hint))
-        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, &possible)));
+        .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible.as_ref())));
 
     // Include info from BOM detection
     match possible {
@@ -185,12 +185,13 @@ fn push_if_not_contains<T: PartialEq>(vec: &mut Vec<T>, item: T) {
     }
 }
 
-fn endianify(encoding: &str, descriptor: &Option<Descriptor>) -> String {
-    let Descriptor(_, _, order) = descriptor.clone().unwrap_or(ASCII_8BIT);
+fn endianify(encoding: &str, descriptor: Option<&Descriptor>) -> String {
+    let ascii = ASCII_8BIT;
+    let &Descriptor(_, _, ref order) = descriptor.unwrap_or(&ascii);
 
     match encoding {
         "utf-16" => {
-            match order {
+            match *order {
                 ByteOrder::LittleEndian => "utf-16le".to_string(),
                 ByteOrder::BigEndian    => "utf-16be".to_string(),
                 _ => encoding.to_string()
@@ -200,11 +201,12 @@ fn endianify(encoding: &str, descriptor: &Option<Descriptor>) -> String {
     }
 }
 
-fn search(needle: &str, haystack: &Vec<u8>, descriptor: &Option<Descriptor>) -> Option<String> {
-    let Descriptor(_, width, order) = descriptor.clone().unwrap_or(ASCII_8BIT);
-    let chunk_size = (width as usize) / 8;
+fn search(needle: &str, haystack: &Vec<u8>, descriptor: Option<&Descriptor>) -> Option<String> {
+    let ascii = ASCII_8BIT;
+    let &Descriptor(_, ref width, ref order) = descriptor.unwrap_or(&ascii);
+    let chunk_size = (width.clone() as usize) / 8;
 
-    let mut index = match order {
+    let mut index = match *order {
         ByteOrder::NotApplicable | ByteOrder::LittleEndian  => 0,
         ByteOrder::BigEndian => chunk_size - 1,
         ByteOrder::Unusual2143 => 2,
