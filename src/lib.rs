@@ -92,13 +92,13 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<Strin
     let mut candidates = Vec::with_capacity(3);
 
     // Look for encoding="", charset="?"?
-        .map(|encoding| normalise(&encoding))
     search("encoding=", &buf.to_vec(), possible_encoding.as_ref())
         .or_else(|| search("charset=", &buf.to_vec(), possible_encoding.as_ref()))
+        .map(normalise)
         .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible_encoding.as_ref())));
 
     // Consider hint
-    hint.map(|hint| normalise(&hint))
+    hint.map(normalise)
         .map(|encoding| push_if_not_contains(&mut candidates, endianify(&encoding, possible_encoding.as_ref())));
 
     // Include info from BOM detection
@@ -172,8 +172,8 @@ fn detect_byte_order_mark(bom: &Bom) -> Option<Descriptor> {
     }
 }
 
-fn normalise(encoding: &String) -> String {
-    encoding.to_lowercase()
+fn normalise<S: AsRef<str>>(encoding: S) -> String {
+    encoding.as_ref().to_lowercase()
         .replace("us-ascii", "ascii")
         .replace("utf8", "utf-8")
         .replace("shift-jis", "shift_jis")
