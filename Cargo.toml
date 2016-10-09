@@ -16,5 +16,4 @@ include = [
 [dependencies]
 
 [dev-dependencies]
-toml = "0.1.23"
-
+toml = { version = "0.2.1", default-features = false, features = ["serde"] }
