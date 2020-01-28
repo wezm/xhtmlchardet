@@ -193,6 +193,3 @@ src = "http://localhost"
 charset = ["utf-16be"]
 variant = "xml-nobom-be-decl-nohint"
 content_type_header = "application/atom+xml"
-
-
-

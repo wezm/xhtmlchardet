@@ -1,58 +1,47 @@
 extern crate toml;
 extern crate xhtmlchardet;
+#[macro_use]
+extern crate serde_derive;
 
-use std::collections::BTreeMap;
+use std::collections::{BTreeMap, HashMap};
 use std::fs::File;
 use std::io::{Read, Write};
 
-fn read_config() -> toml::Value {
-    let mut file = File::open("tests/fixtures.toml")
-        .ok()
-        .expect("Unable to open tests/fixtures.toml");
+#[derive(Deserialize)]
+struct Test {
+    // src: String,
+    charset: Vec<String>,
+    variant: String,
+    // content_type_header: String,
+}
+
+fn read_config() -> Vec<Test> {
+    let mut file = File::open("tests/fixtures.toml").expect("Unable to open tests/fixtures.toml");
     let mut toml = String::new();
     file.read_to_string(&mut toml)
-        .ok()
         .expect("Error reading config file");
-    let config: toml::Value = toml.parse().ok().expect("Error parsing config file");
+    let mut config: HashMap<String, Vec<Test>> =
+        toml::decode_str(&toml).expect("Error parsing config file");
     config
+        .remove("fixtures")
+        .expect("no fixtures in config file")
 }
 
 #[test]
 fn test_fixtures() {
-    let config = read_config();
-
-    let tests = config
-        .lookup("fixtures")
-        .expect("no fixtures in file")
-        .as_slice()
-        .expect("fixtures is not an array");
+    let tests = read_config();
 
     // Map the filename to the output charset
     let mut expected: BTreeMap<String, Vec<String>> = BTreeMap::new();
     let mut actual: BTreeMap<String, Vec<String>> = BTreeMap::new();
 
-    for value in tests {
-        let test = value.as_table().expect("invalid test");
-        let expected_set: Vec<String> = test["charset"]
-            .as_slice()
-            .unwrap()
-            .to_vec()
-            .iter()
-            .map(|item| item.as_str().unwrap().to_string())
-            .collect();
-        let variant = test["variant"].as_str().unwrap();
-        let hint = test
-            .get("hint")
-            .map(|hint| hint.as_str().unwrap().to_string());
-        let path = format!("tests/{}-{}.txt", expected_set[0], variant);
+    for test in tests {
+        let path = format!("tests/{}-{}.txt", &test.charset[0], &test.variant);
+        expected.insert(path.clone(), test.charset);
 
-        expected.insert(path.to_string(), expected_set);
-
-        let mut file = File::open(&path)
-            .ok()
-            .expect(&format!("Unable to open {}", path));
-        let actual_charset = xhtmlchardet::detect(&mut file, hint.clone());
-        actual.insert(path.to_string(), actual_charset.unwrap());
+        let mut file = File::open(&path).expect(&format!("Unable to open {}", path));
+        let actual_charset = xhtmlchardet::detect(&mut file, None);
+        actual.insert(path, actual_charset.unwrap());
     }
 
     // Verify the results
