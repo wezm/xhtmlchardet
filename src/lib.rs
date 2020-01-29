@@ -12,12 +12,12 @@
 //! assert_eq!(detected_charsets, vec!["iso-8859-1".to_string()]);
 //! ```
 
-use std::io::{Error, Read};
+use std::io::{self, Read};
 
 #[derive(Debug)]
 struct Bom(u8, u8, u8, u8);
 
-#[derive(Clone, Debug, PartialEq, Eq)]
+#[derive(Clone, Copy, Debug, PartialEq, Eq)]
 enum Flavour {
     UCS,
     UTF,
@@ -26,7 +26,7 @@ enum Flavour {
     Unknown,
 }
 
-#[derive(Clone, Debug, PartialEq, Eq)]
+#[derive(Clone, Copy, Debug, PartialEq, Eq)]
 enum ByteOrder {
     BigEndian,
     LittleEndian,
@@ -35,7 +35,7 @@ enum ByteOrder {
     NotApplicable,
 }
 
-#[derive(Clone, Debug, PartialEq, Eq)]
+#[derive(Clone, Copy, Debug, PartialEq, Eq)]
 enum Width {
     EightBit = 8,
     SixteenBit = 16,
@@ -94,7 +94,7 @@ const ASCII_8BIT: Descriptor =
 /// let detected_charsets = xhtmlchardet::detect(&mut text_cursor, None);
 /// assert_eq!(detected_charsets.unwrap_or(vec![]), vec!["iso-8859-1".to_string()]);
 /// ```
-pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<String>, Error> {
+pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<String>, io::Error> {
     // Read the first 4 bytes and see if they help
     let mut first_four_bytes = [0u8; 4];
     try!(reader.read(&mut first_four_bytes));
@@ -116,8 +116,8 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<Strin
     let mut candidates = Vec::with_capacity(3);
 
     // Look for encoding="", charset="?"?
-    search("encoding=", &buf.to_vec(), possible_encoding.as_ref())
-        .or_else(|| search("charset=", &buf.to_vec(), possible_encoding.as_ref()))
+    search("encoding=", &buf, possible_encoding.as_ref())
+        .or_else(|| search("charset=", &buf, possible_encoding.as_ref()))
         .map(normalise)
         .map(|encoding| {
             push_if_not_contains(
@@ -147,7 +147,7 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<Strin
     .map(|encoding| push_if_not_contains(&mut candidates, encoding.to_string()));
 
     // Otherwise test if UTF-8
-    if candidates.is_empty() && String::from_utf8(buf.to_vec()).is_ok() {
+    if candidates.is_empty() && std::str::from_utf8(&buf).is_ok() {
         candidates.push("utf-8".to_string());
     }
 
@@ -243,10 +243,10 @@ fn endianify(encoding: &str, descriptor: Option<&Descriptor>) -> String {
     }
 }
 
-fn search(needle: &str, haystack: &Vec<u8>, descriptor: Option<&Descriptor>) -> Option<String> {
+fn search(needle: &str, haystack: &[u8], descriptor: Option<&Descriptor>) -> Option<String> {
     let ascii = ASCII_8BIT;
     let &Descriptor(_, ref width, ref order) = descriptor.unwrap_or(&ascii);
-    let chunk_size = (width.clone() as usize) / 8;
+    let chunk_size = (*width as usize) / 8;
 
     let mut index = match *order {
         ByteOrder::NotApplicable | ByteOrder::LittleEndian => 0,
