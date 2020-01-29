@@ -3,7 +3,7 @@ name = "xhtmlchardet"
 description = "Character set detection for XML and HTML"
 readme = "README.md"
 repository = "https://github.com/wezm/xhtmlchardet"
-documentation = "http://doc.wezm.net/xhtmlchardet/"
+documentation = "https://docs.rs/xhtmlchardet/"
 homepage = "https://github.com/wezm/xhtmlchardet"
 version = "2.0.0"
 authors = ["Wesley Moore <wes@wezm.net>"]
@@ -16,4 +16,6 @@ include = [
 [dependencies]
 
 [dev-dependencies]
+serde = "0.8"
+serde_derive = "0.8"
 toml = { version = "0.2.1", default-features = false, features = ["serde"] }
