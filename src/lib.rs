@@ -97,7 +97,7 @@ const ASCII_8BIT: Descriptor =
 pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<String>, io::Error> {
     // Read the first 4 bytes and see if they help
     let mut first_four_bytes = [0u8; 4];
-    try!(reader.read(&mut first_four_bytes));
+    reader.read(&mut first_four_bytes)?;
 
     let bom = Bom(
         first_four_bytes[0],
@@ -111,7 +111,7 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<Strin
     // Now that byte size may have been determined try reading the first 512ish bytes to read an
     // encoding declaration
     let mut buf = [0u8; 512];
-    try!(reader.read(&mut buf));
+    reader.read(&mut buf)?;
 
     let mut candidates = Vec::with_capacity(3);
 
