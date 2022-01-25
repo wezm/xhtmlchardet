@@ -2,7 +2,7 @@
 
 Basic character set detection for XML and HTML in Rust.
 
-[![Build Status](https://travis-ci.org/wezm/xhtmlchardet.svg)](https://travis-ci.org/wezm/xhtmlchardet)
+[![Build Status](https://api.cirrus-ci.com/github/wezm/xhtmlchardet.svg)](https://cirrus-ci.com/github/wezm/xhtmlchardet)
 [![Documentation](https://docs.rs/xhtmlchardet/badge.svg)](https://docs.rs/xhtmlchardet)
 [![Latest Version](https://img.shields.io/crates/v/xhtmlchardet.svg)](https://crates.io/crates/xhtmlchardet)
 
