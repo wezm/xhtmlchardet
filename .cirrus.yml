@@ -1,0 +1,18 @@
+test_task:
+  matrix:
+    - container:
+        image: rust:latest
+    - container:
+        image: rust:1.24.0
+    - allow_failures: true
+      container:
+        image: rustlang/rust:nightly
+  registry_cache:
+    folder: $CARGO_HOME/registry
+    fingerprint_script:
+      - rustc --version
+      - cat Cargo.toml
+  test_script:
+    - cargo test
+  before_cache_script: rm -rf $CARGO_HOME/registry/index
+
