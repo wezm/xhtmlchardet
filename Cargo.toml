@@ -5,12 +5,13 @@ readme = "README.md"
 repository = "https://github.com/wezm/xhtmlchardet"
 documentation = "https://docs.rs/xhtmlchardet/"
 homepage = "https://github.com/wezm/xhtmlchardet"
+categories = ["text-processing"]
+keywords = ["xml", "html", "character", "detection", "set"]
 version = "2.1.0"
 authors = ["Wesley Moore <wes@wezm.net>"]
 license = "MIT"
-include = [
-    "src/*.rs",
-    "Cargo.toml",
+exclude = [
+  "/tests"
 ]
 
 [dependencies]
