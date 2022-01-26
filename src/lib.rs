@@ -7,7 +7,7 @@
 //! extern crate xhtmlchardet;
 //!
 //! let text = b"<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?><channel><title>Example</title></channel>";
-//! let mut text_cursor = Cursor::new(text.to_vec());
+//! let mut text_cursor = Cursor::new(text);
 //! let detected_charsets: Vec<String> = xhtmlchardet::detect(&mut text_cursor, None).unwrap();
 //! assert_eq!(detected_charsets, vec!["iso-8859-1".to_string()]);
 //! ```
@@ -97,7 +97,7 @@ const ASCII_8BIT: Descriptor =
 pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<String>, io::Error> {
     // Read the first 4 bytes and see if they help
     let mut first_four_bytes = [0u8; 4];
-    reader.read(&mut first_four_bytes)?;
+    reader.read_exact(&mut first_four_bytes)?;
 
     let bom = Bom(
         first_four_bytes[0],
@@ -111,7 +111,14 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<Strin
     // Now that byte size may have been determined try reading the first 512ish bytes to read an
     // encoding declaration
     let mut buf = [0u8; 512];
-    reader.read(&mut buf)?;
+    loop {
+        match reader.read(&mut buf) {
+            Ok(0) => return Ok(Vec::new()), // eof
+            Ok(_n) => break,
+            Err(err) if err.kind() == io::ErrorKind::Interrupted => {} // retry
+            Err(err) => return Err(err),
+        };
+    }
 
     let mut candidates = Vec::with_capacity(3);
 
@@ -151,7 +158,7 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<Strin
         candidates.push("utf-8".to_string());
     }
 
-    return Ok(candidates);
+    Ok(candidates)
 }
 
 fn detect_byte_order_mark(bom: &Bom) -> Option<Descriptor> {
@@ -271,4 +278,24 @@ fn search(needle: &str, haystack: &[u8], descriptor: Option<&Descriptor>) -> Opt
             .take_while(|char| *char != '"' && *char != '\'')
             .collect()
     })
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use std::io::Cursor;
+
+    #[test]
+    fn test_detect_empty() {
+        let mut text_cursor = Cursor::new("");
+        let detected_charsets = detect(&mut text_cursor, None);
+        assert!(detected_charsets.is_err()); // UnexpectedEof
+    }
+
+    #[test]
+    fn test_detect_4_bytes() {
+        let mut text_cursor = Cursor::new("1234");
+        let detected_charsets = detect(&mut text_cursor, None).unwrap();
+        assert!(detected_charsets.is_empty());
+    }
 }
