@@ -1,6 +1,11 @@
 Changelog
 =========
 
+2.2.0
+-----
+
+* Fix handling of `Read::read` return value
+
 2.1.0
 -----
 
