@@ -6,7 +6,7 @@
 //! use std::io::Cursor;
 //! extern crate xhtmlchardet;
 //!
-//! let text = b"<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?><channel><title>Example</title></channel>";
+//! let text: &[u8] = b"<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?><channel><title>Example</title></channel>";
 //! let mut text_cursor = Cursor::new(text);
 //! let detected_charsets: Vec<String> = xhtmlchardet::detect(&mut text_cursor, None).unwrap();
 //! assert_eq!(detected_charsets, vec!["iso-8859-1".to_string()]);
@@ -115,7 +115,7 @@ pub fn detect<R: Read>(reader: &mut R, hint: Option<String>) -> Result<Vec<Strin
         match reader.read(&mut buf) {
             Ok(0) => return Ok(Vec::new()), // eof
             Ok(_n) => break,
-            Err(err) if err.kind() == io::ErrorKind::Interrupted => {} // retry
+            Err(ref err) if err.kind() == io::ErrorKind::Interrupted => {} // retry
             Err(err) => return Err(err),
         };
     }
